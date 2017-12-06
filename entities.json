@@ -1,2 +1,39 @@
 [
+    {
+        "id": "8d451233-054f-44df-9509-f2ac85536525",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "url",
+            "xhr"
+        ],
+        "info": {
+            "name": "Google LLC",
+            "address": "1600 Amphitheatre Parkway, Mountain View CA 94043",
+            "url": "https://www.google.com/",
+            "gitHubOrganization": "Google",
+            "contact1": {
+                "name": "Shruthi Sreekanta",
+                "email": "sshruthi@gmail.com",
+                "gitHubID": "@henceproved"
+            }
+        },
+        "signature": {
+            "signedBy": "Shruthi Sreekanta",
+            "signedByTitle": "Technical Program Manager",
+            "signedAt": "2017-12-06T23:24:08.947Z"
+        }
+    }
 ]
