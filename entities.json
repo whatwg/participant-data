@@ -35,5 +35,47 @@
             "signedByTitle": "Technical Program Manager",
             "signedAt": "2017-12-06T23:24:08.947Z"
         }
+    },
+    {
+        "id": "9bf75ea9-f79b-4ce2-a9a2-bee69b2055ea",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "url",
+            "xhr"
+        ],
+        "info": {
+            "name": "Mozilla Corporation",
+            "address": "331 E Evelyn Avenue, Mountain View, CA 94041, USA",
+            "url": "https://www.mozilla.org/",
+            "gitHubOrganization": "mozilla-standards",
+            "contact1": {
+                "name": "L. David Baron",
+                "email": "dbaron@dbaron.org",
+                "gitHubID": "dbaron"
+            },
+            "contact2": {
+                "name": "Anne van Kesteren",
+                "email": "annevk@annevk.nl",
+                "gitHubID": "annevk"
+            }
+        },
+        "signature": {
+            "signedBy": "L. David Baron",
+            "signedByTitle": "Distinguished Engineer",
+            "signedAt": "2017-12-08T00:11:20.696Z"
+        }
     }
 ]
