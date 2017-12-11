@@ -10,5 +10,17 @@
         "signature": {
             "signedAt": "2017-12-11T17:28:37.092Z"
         }
+    },
+    {
+        "id": "e92ec663-915d-4843-9dac-7c4c2c3e8a18",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Matthew Kerwin",
+            "gitHubID": "phluid61"
+        },
+        "signature": {
+            "signedAt": "2017-12-11T23:45:12.790Z"
+        }
     }
 ]
