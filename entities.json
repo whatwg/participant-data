@@ -77,5 +77,36 @@
             "signedByTitle": "Distinguished Engineer",
             "signedAt": "2017-12-08T00:11:20.696Z"
         }
+    },
+    {
+        "id": "9dd17017-cdfe-42eb-b97a-331e23a2390d",
+        "verified": false,
+        "workstreams": [
+            "dom",
+            "fetch",
+            "html",
+            "streams"
+        ],
+        "info": {
+            "name": "Microsoft Corporation",
+            "address": "1 Microsoft Way, Redmond WA 98252",
+            "url": "https://www.microsoft.com/",
+            "gitHubOrganization": "https://github.com/MicrosoftWHATWGContributors",
+            "contact1": {
+                "name": "Michael Champion",
+                "email": "mcham@microsoft.com",
+                "gitHubID": "michaelchampion"
+            },
+            "contact2": {
+                "name": "Travis Leithead",
+                "email": "travis.leithead@microsoft.com",
+                "gitHubID": "travisleithead"
+            }
+        },
+        "signature": {
+            "signedBy": "Michael Champion",
+            "signedByTitle": "Sr. Program Manager",
+            "signedAt": "2017-12-11T19:41:19.345Z"
+        }
     }
 ]
