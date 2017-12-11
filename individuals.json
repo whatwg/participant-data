@@ -1,2 +1,14 @@
 [
+    {
+        "id": "e2abce66-04cf-41cc-83fc-85994d6826ba",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dominic Farolino",
+            "gitHubID": "domfarolino"
+        },
+        "signature": {
+            "signedAt": "2017-12-11T17:28:37.092Z"
+        }
+    }
 ]
