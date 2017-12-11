@@ -80,7 +80,7 @@
     },
     {
         "id": "9dd17017-cdfe-42eb-b97a-331e23a2390d",
-        "verified": false,
+        "verified": true,
         "workstreams": [
             "dom",
             "fetch",
@@ -91,7 +91,7 @@
             "name": "Microsoft Corporation",
             "address": "1 Microsoft Way, Redmond WA 98252",
             "url": "https://www.microsoft.com/",
-            "gitHubOrganization": "https://github.com/MicrosoftWHATWGContributors",
+            "gitHubOrganization": "MicrosoftWHATWGContributors",
             "contact1": {
                 "name": "Michael Champion",
                 "email": "mcham@microsoft.com",
