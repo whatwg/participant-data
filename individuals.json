@@ -58,5 +58,17 @@
         "signature": {
             "signedAt": "2017-12-12T20:13:35.499Z"
         }
+    },
+    {
+        "id": "2cab7be7-2675-41f3-8c50-aeb88243f7bf",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Cezar Augusto",
+            "gitHubID": "cezaraugusto"
+        },
+        "signature": {
+            "signedAt": "2017-12-12T22:46:34.843Z"
+        }
     }
 ]
