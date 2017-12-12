@@ -34,5 +34,17 @@
         "signature": {
             "signedAt": "2017-12-12T19:09:05.920Z"
         }
+    },
+    {
+        "id": "ddb2a78e-e27a-4872-a014-e42931e9ef42",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Robert Kowalski",
+            "gitHubID": "robertkowalski"
+        },
+        "signature": {
+            "signedAt": "2017-12-12T19:30:40.980Z"
+        }
     }
 ]
