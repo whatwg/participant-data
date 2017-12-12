@@ -46,5 +46,17 @@
         "signature": {
             "signedAt": "2017-12-12T19:30:40.980Z"
         }
+    },
+    {
+        "id": "43c4d1c0-3333-4c61-9a6f-1f1dc9e171a9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Joseph O Pea",
+            "gitHubID": "trusktr"
+        },
+        "signature": {
+            "signedAt": "2017-12-12T20:13:35.499Z"
+        }
     }
 ]
