@@ -108,5 +108,26 @@
             "signedByTitle": "Sr. Program Manager",
             "signedAt": "2017-12-11T19:41:19.345Z"
         }
+    },
+    {
+        "id": "5fb52144-9e7e-418d-940c-14f7eb82b51e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Codespeaks LLC",
+            "address": "Laconnex, GE, Switzerland",
+            "url": "http://www.codespeaks.com/",
+            "gitHubOrganization": "codespeaks",
+            "contact1": {
+                "name": "Tobie Langel",
+                "email": "tobie@codespeaks.com",
+                "gitHubID": "tobie"
+            }
+        },
+        "signature": {
+            "signedBy": "Tobie Langel",
+            "signedByTitle": "Founder",
+            "signedAt": "2017-12-12T08:58:17.541Z"
+        }
     }
 ]
