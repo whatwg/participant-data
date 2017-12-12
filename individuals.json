@@ -22,5 +22,17 @@
         "signature": {
             "signedAt": "2017-12-11T23:45:12.790Z"
         }
+    },
+    {
+        "id": "a958b5f8-fd5c-471a-bd75-c1d25188e250",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tiancheng Gu",
+            "gitHubID": "TimothyGu"
+        },
+        "signature": {
+            "signedAt": "2017-12-12T19:09:05.920Z"
+        }
     }
 ]
