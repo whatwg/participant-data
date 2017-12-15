@@ -70,5 +70,17 @@
         "signature": {
             "signedAt": "2017-12-12T22:46:34.843Z"
         }
+    },
+    {
+        "id": "49a38400-d2bb-4989-a415-da75a8a4db45",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chen Hui Jing",
+            "gitHubID": "huijing"
+        },
+        "signature": {
+            "signedAt": "2017-12-15T12:47:29.559Z"
+        }
     }
 ]
