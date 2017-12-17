@@ -129,5 +129,26 @@
             "signedByTitle": "Founder",
             "signedAt": "2017-12-12T08:58:17.541Z"
         }
+    },
+    {
+        "id": "847150c7-3ed3-4151-9a1c-be24f1918398",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Innovimax",
+            "address": "9 impasse des Orteaux",
+            "url": "http://innovimax.fr/",
+            "gitHubOrganization": "innovimax-SARL",
+            "contact1": {
+                "name": "Mohamed ZERGAOUI",
+                "email": "innovimax+whatwg@gmail.com",
+                "gitHubID": "innovimax"
+            }
+        },
+        "signature": {
+            "signedBy": "Mohamed ZERGAOUI",
+            "signedByTitle": "CEO",
+            "signedAt": "2017-12-17T23:22:08.283Z"
+        }
     }
 ]
