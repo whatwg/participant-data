@@ -82,5 +82,17 @@
         "signature": {
             "signedAt": "2017-12-15T12:47:29.559Z"
         }
+    },
+    {
+        "id": "828150ba-dd17-4308-b17a-d794473c8940",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gordon P. Hemsley",
+            "gitHubID": "GPHemsley"
+        },
+        "signature": {
+            "signedAt": "2017-12-17T13:43:15.852Z"
+        }
     }
 ]
