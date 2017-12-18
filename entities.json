@@ -150,5 +150,26 @@
             "signedByTitle": "CEO",
             "signedAt": "2017-12-17T23:22:08.283Z"
         }
+    },
+    {
+        "id": "1213fe08-0bf4-4c31-b768-2876d9ee8d5a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Shreya",
+            "address": "shreyateeza@gmail.com",
+            "url": "https://github.com/shreyateeza",
+            "gitHubOrganization": "I am a member at coala",
+            "contact1": {
+                "name": "Shreya",
+                "email": "shreyateeza@gmail.com",
+                "gitHubID": "shreyateeza"
+            }
+        },
+        "signature": {
+            "signedBy": "Shreya",
+            "signedByTitle": ".",
+            "signedAt": "2017-12-18T16:57:53.957Z"
+        }
     }
 ]
