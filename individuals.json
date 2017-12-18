@@ -13,7 +13,7 @@
     },
     {
         "id": "e92ec663-915d-4843-9dac-7c4c2c3e8a18",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Matthew Kerwin",
@@ -25,7 +25,7 @@
     },
     {
         "id": "a958b5f8-fd5c-471a-bd75-c1d25188e250",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Tiancheng Gu",
@@ -37,7 +37,7 @@
     },
     {
         "id": "ddb2a78e-e27a-4872-a014-e42931e9ef42",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Robert Kowalski",
@@ -49,7 +49,7 @@
     },
     {
         "id": "43c4d1c0-3333-4c61-9a6f-1f1dc9e171a9",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Joseph O Pea",

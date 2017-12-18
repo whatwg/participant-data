@@ -111,7 +111,7 @@
     },
     {
         "id": "5fb52144-9e7e-418d-940c-14f7eb82b51e",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Codespeaks LLC",
@@ -132,7 +132,7 @@
     },
     {
         "id": "847150c7-3ed3-4151-9a1c-be24f1918398",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Innovimax",
