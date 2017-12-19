@@ -73,7 +73,7 @@
     },
     {
         "id": "49a38400-d2bb-4989-a415-da75a8a4db45",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Chen Hui Jing",
