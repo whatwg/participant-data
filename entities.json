@@ -171,5 +171,31 @@
             "signedByTitle": ".",
             "signedAt": "2017-12-18T16:57:53.957Z"
         }
+    },
+    {
+        "id": "8daa96e5-054e-4b95-8496-0b5aafc7d89a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Boboup LLC",
+            "address": "Bocoup LLC, PO Box 961436, Boston MA 02196, US",
+            "url": "https://bocoup.com/",
+            "gitHubOrganization": "bocoup",
+            "contact1": {
+                "name": "Simon Pieters",
+                "email": "simon@bocoup.com",
+                "gitHubID": "zcorpan"
+            },
+            "contact2": {
+                "name": "Boaz Sender",
+                "email": "boaz@bocoup.com",
+                "gitHubID": "boazsender"
+            }
+        },
+        "signature": {
+            "signedBy": "Simon Pieters",
+            "signedByTitle": "Sr. Open Web Engineer",
+            "signedAt": "2017-12-21T23:25:52.791Z"
+        }
     }
 ]
