@@ -82,5 +82,30 @@
         "signature": {
             "signedAt": "2017-12-17T13:43:15.852Z"
         }
+    },
+    {
+        "id": "e6ada4d7-80a5-47ea-a9be-bf35cfae6cd4",
+        "verified": false,
+        "workstreams": [
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "storage",
+            "streams",
+            "url"
+        ],
+        "info": {
+            "name": "anlex N",
+            "gitHubID": "anlexN"
+        },
+        "signature": {
+            "signedAt": "2017-12-21T01:42:57.632Z"
+        }
     }
 ]
