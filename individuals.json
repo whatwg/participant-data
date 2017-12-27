@@ -107,5 +107,17 @@
         "signature": {
             "signedAt": "2017-12-21T01:42:57.632Z"
         }
+    },
+    {
+        "id": "fdd002bb-5697-44fd-892a-7703ccbf1b14",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "任文越",
+            "gitHubID": "suchasplus"
+        },
+        "signature": {
+            "signedAt": "2017-12-27T17:27:31.461Z"
+        }
     }
 ]
