@@ -131,5 +131,17 @@
         "signature": {
             "signedAt": "2017-12-31T09:18:57.807Z"
         }
+    },
+    {
+        "id": "6a5a4e69-4833-4bda-8216-217560aded31",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nicholas O'Connor",
+            "gitHubID": "Puddingsan"
+        },
+        "signature": {
+            "signedAt": "2018-01-01T05:28:18.533Z"
+        }
     }
 ]
