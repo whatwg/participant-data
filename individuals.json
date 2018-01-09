@@ -167,5 +167,17 @@
         "signature": {
             "signedAt": "2018-01-09T20:38:12.500Z"
         }
+    },
+    {
+        "id": "5c0f607a-1c00-490b-af18-34c2f31420bf",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Rimas Misevičius",
+            "gitHubID": "rmisev"
+        },
+        "signature": {
+            "signedAt": "2018-01-09T21:05:32.611Z"
+        }
     }
 ]
