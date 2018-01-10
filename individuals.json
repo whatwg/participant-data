@@ -109,18 +109,6 @@
         }
     },
     {
-        "id": "fdd002bb-5697-44fd-892a-7703ccbf1b14",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "任文越",
-            "gitHubID": "suchasplus"
-        },
-        "signature": {
-            "signedAt": "2017-12-27T17:27:31.461Z"
-        }
-    },
-    {
         "id": "98bbbfd8-e43a-45b1-a331-8377a8c74954",
         "verified": true,
         "workstreams": "all",
