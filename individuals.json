@@ -122,7 +122,7 @@
     },
     {
         "id": "98bbbfd8-e43a-45b1-a331-8377a8c74954",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Emilio Cobos Álvarez",
@@ -170,7 +170,7 @@
     },
     {
         "id": "5c0f607a-1c00-490b-af18-34c2f31420bf",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Rimas Misevičius",
@@ -182,7 +182,7 @@
     },
     {
         "id": "2c0cee75-0d0d-4616-b0de-85013f2895e5",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Rashaun \"Snuggs\" Stovall",
