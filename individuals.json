@@ -145,18 +145,6 @@
         }
     },
     {
-        "id": "b4b22163-9664-42c3-bc8a-19119d6a84f5",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "avofer",
-            "gitHubID": "35007609"
-        },
-        "signature": {
-            "signedAt": "2018-01-01T18:34:02.384Z"
-        }
-    },
-    {
         "id": "98602db9-af30-4c9a-b515-f3e6b566cc9d",
         "verified": false,
         "workstreams": "all",
