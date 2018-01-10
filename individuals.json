@@ -179,5 +179,17 @@
         "signature": {
             "signedAt": "2018-01-09T21:05:32.611Z"
         }
+    },
+    {
+        "id": "2c0cee75-0d0d-4616-b0de-85013f2895e5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Rashaun \"Snuggs\" Stovall",
+            "gitHubID": "snuggs"
+        },
+        "signature": {
+            "signedAt": "2018-01-10T17:03:10.688Z"
+        }
     }
 ]
