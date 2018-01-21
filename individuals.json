@@ -193,5 +193,17 @@
         "signature": {
             "signedAt": "2018-01-21T19:56:59.066Z"
         }
+    },
+    {
+        "id": "65c45377-12f5-4626-bf68-3494c2726a26",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Waker Mahmud",
+            "gitHubID": "enterstudio"
+        },
+        "signature": {
+            "signedAt": "2018-01-21T22:06:52.766Z"
+        }
     }
 ]
