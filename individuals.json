@@ -167,5 +167,31 @@
         "signature": {
             "signedAt": "2018-01-20T09:16:53.420Z"
         }
+    },
+    {
+        "id": "d1271d5e-808e-49dd-ac98-489b0b7aa5ba",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "mimesniff",
+            "notifications",
+            "storage",
+            "streams",
+            "url",
+            "xhr"
+        ],
+        "info": {
+            "name": "Robert Hieger",
+            "gitHubID": "RHieger"
+        },
+        "signature": {
+            "signedAt": "2018-01-21T19:56:59.066Z"
+        }
     }
 ]
