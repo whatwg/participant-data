@@ -158,7 +158,7 @@
     },
     {
         "id": "0c1ccac0-358f-47b6-92cb-81bcacef0c54",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Ofer Avineri",
@@ -170,7 +170,7 @@
     },
     {
         "id": "d1271d5e-808e-49dd-ac98-489b0b7aa5ba",
-        "verified": false,
+        "verified": true,
         "workstreams": [
             "compat",
             "console",
@@ -208,7 +208,7 @@
     },
     {
         "id": "e1ea2dee-0dcf-4e77-ba14-aad68958cfca",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Ankur Kaushal",
