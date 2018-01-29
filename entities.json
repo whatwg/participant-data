@@ -239,5 +239,31 @@
             "signedByTitle": "Manager, Software Standards",
             "signedAt": "2018-01-11T23:09:27.949Z"
         }
+    },
+    {
+        "id": "bda981ab-e798-470b-aa32-0f4e8d5fa19b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Cloudflare",
+            "address": "101 Townsend St, San Francisco, CA 94107",
+            "url": "https://www.cloudflare.com/",
+            "gitHubOrganization": "cloudflare-whatwg",
+            "contact1": {
+                "name": "Terin Stock",
+                "email": "terin@cloudflare.com",
+                "gitHubID": "terinjokes"
+            },
+            "contact2": {
+                "name": "Dane Knecht",
+                "email": "dane@cloudflare.com",
+                "gitHubID": "dknecht"
+            }
+        },
+        "signature": {
+            "signedBy": "Terin Stock",
+            "signedByTitle": "Systems Engineer",
+            "signedAt": "2018-01-29T18:44:52.269Z"
+        }
     }
 ]
