@@ -217,5 +217,17 @@
         "signature": {
             "signedAt": "2018-01-29T03:22:37.356Z"
         }
+    },
+    {
+        "id": "162c127e-451a-41d5-a4f5-bf99ab8199cd",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alex Nozdriukhin",
+            "gitHubID": "alexnoz"
+        },
+        "signature": {
+            "signedAt": "2018-01-29T05:56:22.068Z"
+        }
     }
 ]
