@@ -220,7 +220,7 @@
     },
     {
         "id": "162c127e-451a-41d5-a4f5-bf99ab8199cd",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Alex Nozdriukhin",
