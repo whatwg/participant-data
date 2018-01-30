@@ -229,5 +229,17 @@
         "signature": {
             "signedAt": "2018-01-29T05:56:22.068Z"
         }
+    },
+    {
+        "id": "137ebc82-01c1-4979-b3db-2ecce8714fbc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Malo Jaffré",
+            "gitHubID": "MaloJaffre"
+        },
+        "signature": {
+            "signedAt": "2018-01-30T17:05:51.403Z"
+        }
     }
 ]
