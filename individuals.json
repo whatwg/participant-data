@@ -241,17 +241,5 @@
         "signature": {
             "signedAt": "2018-01-30T17:05:51.403Z"
         }
-    },
-    {
-        "id": "62135ff8-5845-4575-bb99-0c928e3f78cf",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Mohammad Reza Zakerinasab",
-            "gitHubID": "zakerinasab"
-        },
-        "signature": {
-            "signedAt": "2018-02-05T20:56:07.310Z"
-        }
     }
 ]
