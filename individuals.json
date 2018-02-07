@@ -241,5 +241,17 @@
         "signature": {
             "signedAt": "2018-01-30T17:05:51.403Z"
         }
+    },
+    {
+        "id": "f7ba5ca3-5f45-478f-8d2f-744edfa34779",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Donovan Glover",
+            "gitHubID": "GloverDonovan"
+        },
+        "signature": {
+            "signedAt": "2018-02-07T21:28:35.966Z"
+        }
     }
 ]
