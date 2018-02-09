@@ -244,7 +244,7 @@
     },
     {
         "id": "f7ba5ca3-5f45-478f-8d2f-744edfa34779",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Donovan Glover",
