@@ -265,5 +265,38 @@
             "signedByTitle": "Systems Engineer",
             "signedAt": "2018-01-29T18:44:52.269Z"
         }
+    },
+    {
+        "id": "5e9a7c97-40d4-48c5-817b-121fed0b476d",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "dom",
+            "encoding",
+            "html",
+            "notifications",
+            "url"
+        ],
+        "info": {
+            "name": "Buske IT",
+            "address": "Caracas, Venezuela",
+            "url": "http://www.buske-it.com.ve/",
+            "gitHubOrganization": "orgs",
+            "contact1": {
+                "name": "Benjamin Buske",
+                "email": "benjamin.buske@gmail.com",
+                "gitHubID": "buskeit"
+            },
+            "contact2": {
+                "name": "Benjamin Buske",
+                "email": "benjamin.buske@gmail.com",
+                "gitHubID": "buske-it"
+            }
+        },
+        "signature": {
+            "signedBy": "Benjamín Buske",
+            "signedByTitle": "Owner / General Manager ",
+            "signedAt": "2018-02-11T19:41:50.826Z"
+        }
     }
 ]
