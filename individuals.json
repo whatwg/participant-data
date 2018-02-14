@@ -265,17 +265,5 @@
         "signature": {
             "signedAt": "2018-02-13T21:36:21.287Z"
         }
-    },
-    {
-        "id": "1b682a5e-7990-4495-b271-4e3ce444dff3",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Mike Taylor",
-            "gitHubID": "miketaylr"
-        },
-        "signature": {
-            "signedAt": "2018-02-14T17:27:28.393Z"
-        }
     }
 ]
