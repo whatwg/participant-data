@@ -256,7 +256,7 @@
     },
     {
         "id": "5b199225-92b9-4f6e-ab74-836a5fff12a3",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Mattias Buelens",
