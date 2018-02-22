@@ -242,7 +242,7 @@
     },
     {
         "id": "bda981ab-e798-470b-aa32-0f4e8d5fa19b",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Cloudflare",
