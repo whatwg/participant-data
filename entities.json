@@ -301,7 +301,7 @@
     },
     {
         "id": "cb222b97-99ee-4ffe-81b1-6d57e43e4088",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Igalia, S.L.",
