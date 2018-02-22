@@ -298,5 +298,31 @@
             "signedByTitle": "Owner / General Manager ",
             "signedAt": "2018-02-11T19:41:50.826Z"
         }
+    },
+    {
+        "id": "cb222b97-99ee-4ffe-81b1-6d57e43e4088",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Igalia, S.L.",
+            "address": "C/ Bugallal Marchesi, 22, 1º",
+            "url": "https://www.igalia.com/",
+            "gitHubOrganization": "Igalia",
+            "contact1": {
+                "name": "Daniel Ehrenberg",
+                "email": "littledan@igalia.com",
+                "gitHubID": "littledan"
+            },
+            "contact2": {
+                "name": "Manuel Rego Casasnovas",
+                "email": "mrego@igalia.com",
+                "gitHubID": "mrego"
+            }
+        },
+        "signature": {
+            "signedBy": "Xavier Castaño Garcia",
+            "signedByTitle": "Partner with power of attorney",
+            "signedAt": "2018-02-22T10:44:06.002Z"
+        }
     }
 ]
