@@ -265,5 +265,17 @@
         "signature": {
             "signedAt": "2018-02-13T21:36:21.287Z"
         }
+    },
+    {
+        "id": "9c2fcffb-a9a5-47e7-abf4-ed0cca4483bf",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Edward Welbourne",
+            "gitHubID": "ediosyncratic"
+        },
+        "signature": {
+            "signedAt": "2018-02-25T13:21:44.887Z"
+        }
     }
 ]
