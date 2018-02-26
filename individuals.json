@@ -268,7 +268,7 @@
     },
     {
         "id": "9c2fcffb-a9a5-47e7-abf4-ed0cca4483bf",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Edward Welbourne",
