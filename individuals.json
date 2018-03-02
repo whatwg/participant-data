@@ -277,5 +277,17 @@
         "signature": {
             "signedAt": "2018-02-25T13:21:44.887Z"
         }
+    },
+    {
+        "id": "226bceef-4cda-4069-84d4-c8c176e70fd7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chris McGowan",
+            "gitHubID": "AnthumChris"
+        },
+        "signature": {
+            "signedAt": "2018-03-02T23:30:18.833Z"
+        }
     }
 ]
