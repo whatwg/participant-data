@@ -289,5 +289,17 @@
         "signature": {
             "signedAt": "2018-03-02T23:30:18.833Z"
         }
+    },
+    {
+        "id": "0f224329-bf1c-46ad-93ea-7d2f1ee807c6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Magne Andersson",
+            "gitHubID": "Zirro"
+        },
+        "signature": {
+            "signedAt": "2018-03-04T15:22:26.512Z"
+        }
     }
 ]
