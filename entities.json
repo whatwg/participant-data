@@ -325,5 +325,26 @@
             "signedByTitle": "Partner with power of attorney",
             "signedAt": "2018-02-22T10:44:06.002Z"
         }
+    },
+    {
+        "id": "421a220b-33a6-49ec-8201-ba45f6c4bf25",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Anthum, Inc",
+            "address": "PO Box 13, Arvada, CO 80001-0013",
+            "url": "https://www.anthum.com/",
+            "gitHubOrganization": "Anthum",
+            "contact1": {
+                "name": "Chris McGowan",
+                "email": "chris@anthum.com",
+                "gitHubID": "AnthumChris"
+            }
+        },
+        "signature": {
+            "signedBy": "Chris McGowan",
+            "signedByTitle": "President",
+            "signedAt": "2018-03-05T14:26:57.716Z"
+        }
     }
 ]
