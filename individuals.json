@@ -280,7 +280,7 @@
     },
     {
         "id": "0f224329-bf1c-46ad-93ea-7d2f1ee807c6",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Magne Andersson",
