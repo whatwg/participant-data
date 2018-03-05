@@ -279,18 +279,6 @@
         }
     },
     {
-        "id": "226bceef-4cda-4069-84d4-c8c176e70fd7",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Chris McGowan",
-            "gitHubID": "AnthumChris"
-        },
-        "signature": {
-            "signedAt": "2018-03-02T23:30:18.833Z"
-        }
-    },
-    {
         "id": "0f224329-bf1c-46ad-93ea-7d2f1ee807c6",
         "verified": false,
         "workstreams": "all",

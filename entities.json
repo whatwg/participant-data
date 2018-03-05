@@ -328,7 +328,7 @@
     },
     {
         "id": "421a220b-33a6-49ec-8201-ba45f6c4bf25",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Anthum, Inc",
