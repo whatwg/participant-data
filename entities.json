@@ -346,5 +346,29 @@
             "signedByTitle": "President",
             "signedAt": "2018-03-05T14:26:57.716Z"
         }
+    },
+    {
+        "id": "c86b8991-70ed-4458-93bd-c299bf8d4499",
+        "verified": false,
+        "workstreams": [
+            "fetch",
+            "html"
+        ],
+        "info": {
+            "name": "Akamai Technologies, Inc.",
+            "address": "150 Broadway Cambridge, MA 02142",
+            "url": "https://www.akamai.com/",
+            "gitHubOrganization": "akamai-whatwg",
+            "contact1": {
+                "name": "Yoav Weiss",
+                "email": "yweiss@akamai.com",
+                "gitHubID": "yoavweiss"
+            }
+        },
+        "signature": {
+            "signedBy": "Yoav Weiss",
+            "signedByTitle": "Principal Architect",
+            "signedAt": "2018-03-09T11:25:33.858Z"
+        }
     }
 ]
