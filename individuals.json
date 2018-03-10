@@ -289,5 +289,17 @@
         "signature": {
             "signedAt": "2018-03-04T15:22:26.512Z"
         }
+    },
+    {
+        "id": "99013655-bb15-4558-8000-16ecdc9854e7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tim van der Lippe",
+            "gitHubID": "TimvdLippe"
+        },
+        "signature": {
+            "signedAt": "2018-03-10T16:20:29.436Z"
+        }
     }
 ]
