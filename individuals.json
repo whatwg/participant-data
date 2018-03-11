@@ -292,7 +292,7 @@
     },
     {
         "id": "99013655-bb15-4558-8000-16ecdc9854e7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Tim van der Lippe",
