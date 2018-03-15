@@ -301,5 +301,17 @@
         "signature": {
             "signedAt": "2018-03-10T16:20:29.436Z"
         }
+    },
+    {
+        "id": "95790638-7bbc-4bf0-a538-e20290a2c3db",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Stephen Stewart",
+            "gitHubID": "earnubs"
+        },
+        "signature": {
+            "signedAt": "2018-03-15T09:14:29.195Z"
+        }
     }
 ]
