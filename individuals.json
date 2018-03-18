@@ -313,5 +313,17 @@
         "signature": {
             "signedAt": "2018-03-15T09:14:29.195Z"
         }
+    },
+    {
+        "id": "036011fb-72c3-40f0-aa8f-93f35fa1947a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gus Caplan",
+            "gitHubID": "devsnek"
+        },
+        "signature": {
+            "signedAt": "2018-03-18T15:35:00.982Z"
+        }
     }
 ]
