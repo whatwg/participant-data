@@ -370,5 +370,34 @@
             "signedByTitle": "Principal Architect",
             "signedAt": "2018-03-09T11:25:33.858Z"
         }
+    },
+    {
+        "id": "75691a71-6abd-4a57-8bda-3de602e64fcf",
+        "verified": false,
+        "workstreams": [
+            "fetch",
+            "infra"
+        ],
+        "info": {
+            "name": "PayPal Inc.",
+            "address": "2211 North First Street",
+            "url": "https://www.paypal.com/",
+            "gitHubOrganization": "paypal2",
+            "contact1": {
+                "name": "Jeff Hodges",
+                "email": "jeff.hodges@paypal.com",
+                "gitHubID": "equalsjeffh"
+            },
+            "contact2": {
+                "name": "Hubert Le Van Gong",
+                "email": "hlevangong@paypal.com",
+                "gitHubID": "levangongPayPal"
+            }
+        },
+        "signature": {
+            "signedBy": "Mark Yuan",
+            "signedByTitle": "Sr. Director, Associate General Counsel, Patents",
+            "signedAt": "2018-03-20T18:58:42.679Z"
+        }
     }
 ]
