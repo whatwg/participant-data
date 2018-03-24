@@ -325,5 +325,17 @@
         "signature": {
             "signedAt": "2018-03-18T15:35:00.982Z"
         }
+    },
+    {
+        "id": "ea5c9881-71d8-4e89-b5cd-eec02ffb99d1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "John Musgrave",
+            "gitHubID": "musgravejw"
+        },
+        "signature": {
+            "signedAt": "2018-03-24T19:21:15.218Z"
+        }
     }
 ]
