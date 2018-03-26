@@ -328,7 +328,7 @@
     },
     {
         "id": "ea5c9881-71d8-4e89-b5cd-eec02ffb99d1",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "John Musgrave",
