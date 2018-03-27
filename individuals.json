@@ -337,5 +337,24 @@
         "signature": {
             "signedAt": "2018-03-24T19:21:15.218Z"
         }
+    },
+    {
+        "id": "baae77f5-2fa8-4835-8be7-7fc86d166af9",
+        "verified": false,
+        "workstreams": [
+            "console",
+            "dom",
+            "fetch",
+            "html",
+            "notifications",
+            "url"
+        ],
+        "info": {
+            "name": "Yuta Hiroto",
+            "gitHubID": "hiroppy"
+        },
+        "signature": {
+            "signedAt": "2018-03-27T00:43:44.308Z"
+        }
     }
 ]
