@@ -356,5 +356,17 @@
         "signature": {
             "signedAt": "2018-03-27T00:43:44.308Z"
         }
+    },
+    {
+        "id": "05ea40c5-012a-4c3b-90c9-d0065b57014d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Konstantin Möllers",
+            "gitHubID": "ksm2"
+        },
+        "signature": {
+            "signedAt": "2018-03-27T17:02:02.010Z"
+        }
     }
 ]
