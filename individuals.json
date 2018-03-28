@@ -368,5 +368,17 @@
         "signature": {
             "signedAt": "2018-03-27T17:02:02.010Z"
         }
+    },
+    {
+        "id": "2961bce3-f4a6-47d4-91ab-6a544e0964ae",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mavaddat Javid",
+            "gitHubID": "mavaddat"
+        },
+        "signature": {
+            "signedAt": "2018-03-28T09:03:16.617Z"
+        }
     }
 ]
