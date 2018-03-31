@@ -380,5 +380,17 @@
         "signature": {
             "signedAt": "2018-03-28T09:03:16.617Z"
         }
+    },
+    {
+        "id": "e4d5d3ef-1074-470e-9a9d-9aed937d6bca",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Takeshi Kurosawa",
+            "gitHubID": "takenspc"
+        },
+        "signature": {
+            "signedAt": "2018-03-31T03:49:23.037Z"
+        }
     }
 ]
