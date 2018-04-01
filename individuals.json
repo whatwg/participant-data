@@ -392,5 +392,17 @@
         "signature": {
             "signedAt": "2018-03-31T03:49:23.037Z"
         }
+    },
+    {
+        "id": "a284177b-21bf-4290-a2d3-d1edcb8f6178",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hirako",
+            "gitHubID": "hirako2000"
+        },
+        "signature": {
+            "signedAt": "2018-04-01T16:35:10.546Z"
+        }
     }
 ]
