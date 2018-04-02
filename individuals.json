@@ -404,5 +404,17 @@
         "signature": {
             "signedAt": "2018-04-01T16:35:10.546Z"
         }
+    },
+    {
+        "id": "6f52883a-ce1f-44c1-8fbf-9cfacfb3fba0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chris Nardi",
+            "gitHubID": "csnardi"
+        },
+        "signature": {
+            "signedAt": "2018-04-02T19:46:10.613Z"
+        }
     }
 ]
