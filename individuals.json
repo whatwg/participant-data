@@ -407,7 +407,7 @@
     },
     {
         "id": "6f52883a-ce1f-44c1-8fbf-9cfacfb3fba0",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Chris Nardi",
