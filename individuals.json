@@ -383,7 +383,7 @@
     },
     {
         "id": "e4d5d3ef-1074-470e-9a9d-9aed937d6bca",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Takeshi Kurosawa",
