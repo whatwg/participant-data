@@ -359,7 +359,7 @@
     },
     {
         "id": "05ea40c5-012a-4c3b-90c9-d0065b57014d",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Konstantin Möllers",
