@@ -416,5 +416,19 @@
         "signature": {
             "signedAt": "2018-04-02T19:46:10.613Z"
         }
+    },
+    {
+        "id": "5c98eaab-d120-4035-afdd-d5404edc19d0",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Martijn van der Ven",
+            "gitHubID": "Zegnat"
+        },
+        "signature": {
+            "signedAt": "2018-04-04T12:24:54.036Z"
+        }
     }
 ]
