@@ -430,5 +430,17 @@
         "signature": {
             "signedAt": "2018-04-04T12:24:54.036Z"
         }
+    },
+    {
+        "id": "b08b03fd-3009-4c30-ab5c-6674d56c59cd",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sebastiaan Lokhorst",
+            "gitHubID": "slokhorst"
+        },
+        "signature": {
+            "signedAt": "2018-04-13T01:22:31.289Z"
+        }
     }
 ]
