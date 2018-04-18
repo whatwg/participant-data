@@ -445,7 +445,7 @@
     },
     {
         "id": "50cf93cb-a640-4e9c-a913-a8ee6e3470be",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Gregory Terzian",
