@@ -478,5 +478,17 @@
         "signature": {
             "signedAt": "2018-04-17T09:52:02.052Z"
         }
+    },
+    {
+        "id": "c9a9b162-633d-4819-a60a-524055623373",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Darwin Ameli",
+            "gitHubID": "DIDIx13"
+        },
+        "signature": {
+            "signedAt": "2018-04-18T15:15:23.965Z"
+        }
     }
 ]
