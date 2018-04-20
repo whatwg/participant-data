@@ -490,5 +490,17 @@
         "signature": {
             "signedAt": "2018-04-18T15:15:23.965Z"
         }
+    },
+    {
+        "id": "f90aeeb9-5bf1-4045-a05b-3df02c6f300f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kagami Sascha Rosylight",
+            "gitHubID": "saschanaz"
+        },
+        "signature": {
+            "signedAt": "2018-04-20T14:01:17.185Z"
+        }
     }
 ]
