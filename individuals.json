@@ -526,5 +526,17 @@
         "signature": {
             "signedAt": "2018-04-25T22:34:20.246Z"
         }
+    },
+    {
+        "id": "370419ca-f580-46e3-bdc7-4f4980080c58",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Thaddeus Cambron",
+            "gitHubID": "29520166"
+        },
+        "signature": {
+            "signedAt": "2018-04-27T00:41:07.684Z"
+        }
     }
 ]
