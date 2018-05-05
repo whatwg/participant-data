@@ -550,5 +550,17 @@
         "signature": {
             "signedAt": "2018-04-29T14:38:13.362Z"
         }
+    },
+    {
+        "id": "d7890ed9-e5b0-419a-900b-eec33494a1e5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kayle Maclou",
+            "gitHubID": "kaylemaclou"
+        },
+        "signature": {
+            "signedAt": "2018-05-05T09:30:20.959Z"
+        }
     }
 ]
