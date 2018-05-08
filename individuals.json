@@ -562,5 +562,17 @@
         "signature": {
             "signedAt": "2018-05-05T09:30:20.959Z"
         }
+    },
+    {
+        "id": "9170fca4-8a68-4bd0-b130-662d848750da",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ralph \"Burt\" Harris",
+            "gitHubID": "BurtHarris"
+        },
+        "signature": {
+            "signedAt": "2018-05-08T01:50:30.915Z"
+        }
     }
 ]
