@@ -574,5 +574,17 @@
         "signature": {
             "signedAt": "2018-05-08T01:50:30.915Z"
         }
+    },
+    {
+        "id": "e90f01cf-2f3b-4cf5-b1ea-4a688450e4d1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Amos Lim",
+            "gitHubID": "amoseui"
+        },
+        "signature": {
+            "signedAt": "2018-05-15T11:49:58.831Z"
+        }
     }
 ]
