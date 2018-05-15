@@ -577,7 +577,7 @@
     },
     {
         "id": "e90f01cf-2f3b-4cf5-b1ea-4a688450e4d1",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Amos Lim",
