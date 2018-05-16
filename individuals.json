@@ -586,5 +586,17 @@
         "signature": {
             "signedAt": "2018-05-15T11:49:58.831Z"
         }
+    },
+    {
+        "id": "fe60bfc9-5781-469d-84f6-cac8ea777e1b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "DongHyun Song",
+            "gitHubID": "songdh418"
+        },
+        "signature": {
+            "signedAt": "2018-05-16T07:59:42.523Z"
+        }
     }
 ]
