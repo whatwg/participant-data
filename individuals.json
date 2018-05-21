@@ -598,5 +598,19 @@
         "signature": {
             "signedAt": "2018-05-16T07:59:42.523Z"
         }
+    },
+    {
+        "id": "e1c47552-a4d2-47a3-961e-be95b84ee74b",
+        "verified": false,
+        "workstreams": [
+            "console"
+        ],
+        "info": {
+            "name": "Jacques Fayen",
+            "gitHubID": "fmartin5"
+        },
+        "signature": {
+            "signedAt": "2018-05-21T20:13:52.183Z"
+        }
     }
 ]
