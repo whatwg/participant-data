@@ -612,5 +612,17 @@
         "signature": {
             "signedAt": "2018-05-21T20:13:52.183Z"
         }
+    },
+    {
+        "id": "b3bfc6af-0b8c-4555-b5bf-664879321034",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Juan Olvera",
+            "gitHubID": "thinkxl"
+        },
+        "signature": {
+            "signedAt": "2018-05-24T01:32:32.667Z"
+        }
     }
 ]
