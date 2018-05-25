@@ -624,17 +624,5 @@
         "signature": {
             "signedAt": "2018-05-24T01:32:32.667Z"
         }
-    },
-    {
-        "id": "58afba79-0ba6-403c-8854-251495438e30",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Shiino Yuki",
-            "gitHubID": "yuki3"
-        },
-        "signature": {
-            "signedAt": "2018-05-24T09:42:00.593Z"
-        }
     }
 ]
