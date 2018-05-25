@@ -615,7 +615,7 @@
     },
     {
         "id": "b3bfc6af-0b8c-4555-b5bf-664879321034",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Juan Olvera",
