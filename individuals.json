@@ -627,7 +627,7 @@
     },
     {
         "id": "870d6ea5-4c19-445e-b59f-4946db1f6cd3",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Jun Yang",
