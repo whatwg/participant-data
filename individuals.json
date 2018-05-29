@@ -624,17 +624,5 @@
         "signature": {
             "signedAt": "2018-05-24T01:32:32.667Z"
         }
-    },
-    {
-        "id": "870d6ea5-4c19-445e-b59f-4946db1f6cd3",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Jun Yang",
-            "gitHubID": "harttle"
-        },
-        "signature": {
-            "signedAt": "2018-05-28T14:03:07.188Z"
-        }
     }
 ]
