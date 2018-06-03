@@ -624,5 +624,17 @@
         "signature": {
             "signedAt": "2018-05-24T01:32:32.667Z"
         }
+    },
+    {
+        "id": "b759ec41-c220-41d0-8d3b-3b23a7d98e4e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jack Palmer",
+            "gitHubID": "jackpalmer1"
+        },
+        "signature": {
+            "signedAt": "2018-06-03T20:15:44.710Z"
+        }
     }
 ]
