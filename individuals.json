@@ -660,5 +660,17 @@
         "signature": {
             "signedAt": "2018-06-12T18:40:25.086Z"
         }
+    },
+    {
+        "id": "94fe8e9c-6ad7-49b7-89bc-ac28d5a3ac21",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ryo Onodera",
+            "gitHubID": "ryoqun"
+        },
+        "signature": {
+            "signedAt": "2018-06-15T07:59:11.827Z"
+        }
     }
 ]
