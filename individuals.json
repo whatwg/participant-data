@@ -663,7 +663,7 @@
     },
     {
         "id": "94fe8e9c-6ad7-49b7-89bc-ac28d5a3ac21",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Ryo Onodera",
