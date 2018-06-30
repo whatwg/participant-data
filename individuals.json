@@ -672,5 +672,17 @@
         "signature": {
             "signedAt": "2018-06-15T07:59:11.827Z"
         }
+    },
+    {
+        "id": "d3afe233-ec15-4dd1-95c5-bea30c532d9b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dean Edridge",
+            "gitHubID": "deanedridge"
+        },
+        "signature": {
+            "signedAt": "2018-06-30T10:38:17.455Z"
+        }
     }
 ]
