@@ -684,5 +684,17 @@
         "signature": {
             "signedAt": "2018-06-30T10:38:17.455Z"
         }
+    },
+    {
+        "id": "6e1ac4b8-6c31-4cf6-97b3-02b4a5dd88cc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sven Knebel",
+            "gitHubID": "sknebel"
+        },
+        "signature": {
+            "signedAt": "2018-07-04T20:43:15.195Z"
+        }
     }
 ]
