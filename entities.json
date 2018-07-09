@@ -399,5 +399,26 @@
             "signedByTitle": "Sr. Director, Associate General Counsel, Patents",
             "signedAt": "2018-03-20T18:58:42.679Z"
         }
+    },
+    {
+        "id": "19e0a349-9f28-423a-bb74-dd913e120e0f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Haywirez",
+            "address": "Manteuffelstraße 77, 10999 Berlin",
+            "url": "https://haywirez.com/",
+            "gitHubOrganization": "haywirez-org",
+            "contact1": {
+                "name": "Attila Haraszti",
+                "email": "attila@haywirez.com",
+                "gitHubID": "haywirez"
+            }
+        },
+        "signature": {
+            "signedBy": "Attila Haraszti",
+            "signedByTitle": "Main Wizard",
+            "signedAt": "2018-07-09T08:47:26.070Z"
+        }
     }
 ]
