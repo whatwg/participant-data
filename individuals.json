@@ -699,7 +699,7 @@
     },
     {
         "id": "f01ee5c8-a3cf-4b99-88c8-ed3fea5dafe7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Zach Bjornson",
