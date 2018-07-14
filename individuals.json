@@ -708,5 +708,17 @@
         "signature": {
             "signedAt": "2018-07-05T18:09:06.321Z"
         }
+    },
+    {
+        "id": "0accd059-9408-4b03-a519-d3c809a5f72e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "ExE Boss",
+            "gitHubID": "ExE-Boss"
+        },
+        "signature": {
+            "signedAt": "2018-07-14T05:36:39.979Z"
+        }
     }
 ]
