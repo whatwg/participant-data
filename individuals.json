@@ -720,5 +720,17 @@
         "signature": {
             "signedAt": "2018-07-14T05:36:39.979Z"
         }
+    },
+    {
+        "id": "29ebb79a-17a1-4379-baf2-f3addc64c533",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "James Burgess",
+            "gitHubID": "jamesmillerburgess"
+        },
+        "signature": {
+            "signedAt": "2018-07-21T08:56:59.368Z"
+        }
     }
 ]
