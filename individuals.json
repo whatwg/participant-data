@@ -723,7 +723,7 @@
     },
     {
         "id": "29ebb79a-17a1-4379-baf2-f3addc64c533",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "James Burgess",
