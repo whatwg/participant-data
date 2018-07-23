@@ -732,5 +732,17 @@
         "signature": {
             "signedAt": "2018-07-21T08:56:59.368Z"
         }
+    },
+    {
+        "id": "c6c0d855-1205-4e65-8245-59a7a141cb7d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Trevor Rowbotham",
+            "gitHubID": "TRowbotham"
+        },
+        "signature": {
+            "signedAt": "2018-07-23T06:17:05.034Z"
+        }
     }
 ]
