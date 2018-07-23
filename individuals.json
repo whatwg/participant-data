@@ -732,5 +732,17 @@
         "signature": {
             "signedAt": "2018-07-23T06:17:05.034Z"
         }
+    },
+    {
+        "id": "36d10b44-1f35-4778-b033-ae3f0ac87ffd",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Keith Chi Kit Yeung",
+            "gitHubID": "KiChjang"
+        },
+        "signature": {
+            "signedAt": "2018-07-23T23:37:20.950Z"
+        }
     }
 ]
