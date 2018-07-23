@@ -744,5 +744,17 @@
         "signature": {
             "signedAt": "2018-07-23T23:37:20.950Z"
         }
+    },
+    {
+        "id": "147baea5-f092-4e19-a432-1bd687e9bbfc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Matthew Quan",
+            "gitHubID": "irrationalRock"
+        },
+        "signature": {
+            "signedAt": "2018-07-23T23:53:24.265Z"
+        }
     }
 ]
