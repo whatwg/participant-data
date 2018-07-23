@@ -723,7 +723,7 @@
     },
     {
         "id": "c6c0d855-1205-4e65-8245-59a7a141cb7d",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Trevor Rowbotham",
