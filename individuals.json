@@ -747,7 +747,7 @@
     },
     {
         "id": "147baea5-f092-4e19-a432-1bd687e9bbfc",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Matthew Quan",
