@@ -756,5 +756,17 @@
         "signature": {
             "signedAt": "2018-07-23T23:53:24.265Z"
         }
+    },
+    {
+        "id": "383d34a1-0c40-411e-89fc-b3f1ede92a1a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alister Norris",
+            "gitHubID": "alnorris"
+        },
+        "signature": {
+            "signedAt": "2018-07-26T09:58:06.069Z"
+        }
     }
 ]
