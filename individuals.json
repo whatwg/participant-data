@@ -768,5 +768,17 @@
         "signature": {
             "signedAt": "2018-07-26T09:58:06.069Z"
         }
+    },
+    {
+        "id": "55352f48-22b0-4e70-ac6d-12ba9138da2d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Rachel Eckerle",
+            "gitHubID": "reckerle85"
+        },
+        "signature": {
+            "signedAt": "2018-08-01T06:05:16.139Z"
+        }
     }
 ]
