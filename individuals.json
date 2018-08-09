@@ -820,5 +820,17 @@
         "signature": {
             "signedAt": "2018-08-08T14:04:05.231Z"
         }
+    },
+    {
+        "id": "b052856c-bbe2-4e21-90c5-2c3b838a763c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "C. Scott Ananian",
+            "gitHubID": "cscott"
+        },
+        "signature": {
+            "signedAt": "2018-08-09T12:21:35.508Z"
+        }
     }
 ]
