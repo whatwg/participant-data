@@ -420,5 +420,31 @@
             "signedByTitle": "Main Wizard",
             "signedAt": "2018-07-09T08:47:26.070Z"
         }
+    },
+    {
+        "id": "45db70f4-8f92-4229-960c-8c89540b5259",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Cloudinary",
+            "address": "20 Aharon Bart St., Building C, 2nd floor  Petah Tikva, 4951448",
+            "url": "https://cloudinary.com/",
+            "gitHubOrganization": "CloudinaryLtd",
+            "contact1": {
+                "name": "Tal Lev-Ami",
+                "email": "tal@cloudinary.com",
+                "gitHubID": "TalLevAmi"
+            },
+            "contact2": {
+                "name": "Colin Bendell",
+                "email": "colin@cloudinary.com",
+                "gitHubID": "colinbendell"
+            }
+        },
+        "signature": {
+            "signedBy": "Colin Bendell",
+            "signedByTitle": "CTO Office",
+            "signedAt": "2018-08-14T19:45:08.473Z"
+        }
     }
 ]
