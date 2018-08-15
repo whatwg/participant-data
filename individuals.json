@@ -835,7 +835,7 @@
     },
     {
         "id": "5e5b85a4-ed17-468c-a7ec-70569cdaf6e0",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Rahul Purohit",
