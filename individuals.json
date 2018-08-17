@@ -871,7 +871,7 @@
     },
     {
         "id": "005a3a75-6ae4-4cbd-b6a8-917569e1cbf6",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Marcin Rataj",
