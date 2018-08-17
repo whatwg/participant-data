@@ -868,5 +868,17 @@
         "signature": {
             "signedAt": "2018-08-15T21:23:44.564Z"
         }
+    },
+    {
+        "id": "005a3a75-6ae4-4cbd-b6a8-917569e1cbf6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Marcin Rataj",
+            "gitHubID": "lidel"
+        },
+        "signature": {
+            "signedAt": "2018-08-17T12:27:35.323Z"
+        }
     }
 ]
