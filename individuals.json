@@ -880,5 +880,17 @@
         "signature": {
             "signedAt": "2018-08-17T12:27:35.323Z"
         }
+    },
+    {
+        "id": "b4b31cd5-7fa4-45eb-b716-a5d992cc3ed1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sarah Gebauer",
+            "gitHubID": "xgebi"
+        },
+        "signature": {
+            "signedAt": "2018-08-20T11:58:18.731Z"
+        }
     }
 ]
