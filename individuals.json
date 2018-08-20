@@ -883,7 +883,7 @@
     },
     {
         "id": "b4b31cd5-7fa4-45eb-b716-a5d992cc3ed1",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Sarah Gebauer",
