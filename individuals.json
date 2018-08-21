@@ -811,7 +811,7 @@
     },
     {
         "id": "530fde8d-5c9b-47e2-92ef-549fc55c45d5",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Aaqa Ishtyaq",
