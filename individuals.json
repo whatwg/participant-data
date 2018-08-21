@@ -892,5 +892,17 @@
         "signature": {
             "signedAt": "2018-08-20T11:58:18.731Z"
         }
+    },
+    {
+        "id": "27da05bd-de50-4490-b015-805286aa5495",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Pierre-Marie Dartus",
+            "gitHubID": "pmdartus"
+        },
+        "signature": {
+            "signedAt": "2018-08-21T17:55:58.322Z"
+        }
     }
 ]
