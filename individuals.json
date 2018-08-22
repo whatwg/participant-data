@@ -904,5 +904,17 @@
         "signature": {
             "signedAt": "2018-08-21T17:55:58.322Z"
         }
+    },
+    {
+        "id": "a47b8143-c431-466f-a08d-03e8dab3f94b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "ΦΑΝΟΥΛΗΣ ΧΑΡΑΛΑΜΠΟΣ",
+            "gitHubID": "cfanoulis"
+        },
+        "signature": {
+            "signedAt": "2018-08-22T22:33:29.579Z"
+        }
     }
 ]
