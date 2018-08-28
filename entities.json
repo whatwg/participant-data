@@ -360,9 +360,9 @@
             "url": "https://www.akamai.com/",
             "gitHubOrganization": "akamai-whatwg",
             "contact1": {
-                "name": "Yoav Weiss",
-                "email": "yweiss@akamai.com",
-                "gitHubID": "yoavweiss"
+                "name": "Charles Vazac",
+                "email": "cvazac@akamai.com",
+                "gitHubID": "cvazac"
             }
         },
         "signature": {
