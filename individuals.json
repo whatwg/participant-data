@@ -782,34 +782,6 @@
         }
     },
     {
-        "id": "a55e9dae-d331-4073-8d81-5a1768cc5b8f",
-        "verified": false,
-        "workstreams": [
-            "compat",
-            "console",
-            "dom",
-            "encoding",
-            "fetch",
-            "fullscreen",
-            "html",
-            "infra",
-            "mimesniff",
-            "notifications",
-            "quirks",
-            "storage",
-            "streams",
-            "url",
-            "xhr"
-        ],
-        "info": {
-            "name": "Chris Palmer",
-            "gitHubID": "noncombatant"
-        },
-        "signature": {
-            "signedAt": "2018-08-02T20:51:04.194Z"
-        }
-    },
-    {
         "id": "530fde8d-5c9b-47e2-92ef-549fc55c45d5",
         "verified": true,
         "workstreams": "all",
