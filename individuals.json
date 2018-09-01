@@ -888,5 +888,17 @@
         "signature": {
             "signedAt": "2018-08-22T22:33:29.579Z"
         }
+    },
+    {
+        "id": "68a4a372-eab2-4523-93ee-da5473454469",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Philip Ahlberg",
+            "gitHubID": "philipahlberg"
+        },
+        "signature": {
+            "signedAt": "2018-09-01T12:48:59.509Z"
+        }
     }
 ]
