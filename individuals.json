@@ -891,7 +891,7 @@
     },
     {
         "id": "68a4a372-eab2-4523-93ee-da5473454469",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Philip Ahlberg",
