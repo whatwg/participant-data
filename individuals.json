@@ -900,5 +900,17 @@
         "signature": {
             "signedAt": "2018-09-01T12:48:59.509Z"
         }
+    },
+    {
+        "id": "242d3399-6fc6-4c69-8485-34ca9b9e4e7c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sergey Rubanov",
+            "gitHubID": "chicoxyzzy"
+        },
+        "signature": {
+            "signedAt": "2018-09-06T00:19:18.378Z"
+        }
     }
 ]
