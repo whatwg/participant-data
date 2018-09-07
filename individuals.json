@@ -912,5 +912,17 @@
         "signature": {
             "signedAt": "2018-09-06T00:19:18.378Z"
         }
+    },
+    {
+        "id": "e7a4f2b3-edcd-4103-b6ac-cdcd2f2f44f1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yay295",
+            "gitHubID": "Yay295"
+        },
+        "signature": {
+            "signedAt": "2018-09-07T19:24:09.823Z"
+        }
     }
 ]
