@@ -936,5 +936,17 @@
         "signature": {
             "signedAt": "2018-09-10T00:12:34.107Z"
         }
+    },
+    {
+        "id": "8605fe3c-1085-4daa-8e25-61f2550c4e34",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Prosody Vereable Context(",
+            "gitHubID": "payingattention"
+        },
+        "signature": {
+            "signedAt": "2018-09-10T21:21:57.785Z"
+        }
     }
 ]
