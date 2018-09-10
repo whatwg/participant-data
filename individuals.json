@@ -927,7 +927,7 @@
     },
     {
         "id": "ab6072da-e193-4beb-9c46-56161fb90a50",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Ujjwal Sharma",
