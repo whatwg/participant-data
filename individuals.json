@@ -939,7 +939,7 @@
     },
     {
         "id": "8605fe3c-1085-4daa-8e25-61f2550c4e34",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Prosody Vereable Context(",
