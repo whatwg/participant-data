@@ -960,5 +960,17 @@
         "signature": {
             "signedAt": "2018-09-15T17:26:15.462Z"
         }
+    },
+    {
+        "id": "2c0916d7-4f7b-4b6c-a9c2-0795bfc056bb",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kriti Singh",
+            "gitHubID": "kritisingh1"
+        },
+        "signature": {
+            "signedAt": "2018-09-23T02:47:36.198Z"
+        }
     }
 ]
