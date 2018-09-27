@@ -972,5 +972,17 @@
         "signature": {
             "signedAt": "2018-09-23T02:47:36.198Z"
         }
+    },
+    {
+        "id": "7cd4e20f-f87c-47f3-9eea-b33c4c8c59e5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ivar Tormod Berg Ørstavik",
+            "gitHubID": "orstavik"
+        },
+        "signature": {
+            "signedAt": "2018-09-27T17:24:48.871Z"
+        }
     }
 ]
