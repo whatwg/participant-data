@@ -984,5 +984,17 @@
         "signature": {
             "signedAt": "2018-09-27T17:24:48.871Z"
         }
+    },
+    {
+        "id": "e50ae485-012d-47b0-8704-839a83b8c9fa",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Johanna Herman",
+            "gitHubID": "johanna-hub"
+        },
+        "signature": {
+            "signedAt": "2018-10-08T16:40:08.791Z"
+        }
     }
 ]
