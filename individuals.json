@@ -996,5 +996,17 @@
         "signature": {
             "signedAt": "2018-10-08T16:40:08.791Z"
         }
+    },
+    {
+        "id": "1b9f37e4-77a9-48e2-9cc3-df8fa2ad00ce",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Adam Plumer",
+            "gitHubID": "CaerusKaru"
+        },
+        "signature": {
+            "signedAt": "2018-10-08T18:20:05.372Z"
+        }
     }
 ]
