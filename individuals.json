@@ -987,11 +987,11 @@
     },
     {
         "id": "e50ae485-012d-47b0-8704-839a83b8c9fa",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Johanna Herman",
-            "gitHubID": "johanna-hub"
+            "gitHubID": "Johanna-hub"
         },
         "signature": {
             "signedAt": "2018-10-08T16:40:08.791Z"
