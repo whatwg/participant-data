@@ -1008,5 +1008,20 @@
         "signature": {
             "signedAt": "2018-10-08T18:20:05.372Z"
         }
+    },
+    {
+        "id": "5c35ad99-ca95-4042-9fa0-0d3d8ae0c742",
+        "verified": false,
+        "workstreams": [
+            "dom",
+            "html"
+        ],
+        "info": {
+            "name": "Christophe Dumez",
+            "gitHubID": "cdumez"
+        },
+        "signature": {
+            "signedAt": "2018-10-10T16:00:39.347Z"
+        }
     }
 ]
