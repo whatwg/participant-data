@@ -1008,5 +1008,17 @@
         "signature": {
             "signedAt": "2018-10-08T18:20:05.372Z"
         }
+    },
+    {
+        "id": "547e81dc-4c9d-42cb-8f95-4413bc7934b4",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Derek Guenther",
+            "gitHubID": "dguenther"
+        },
+        "signature": {
+            "signedAt": "2018-10-16T18:55:19.707Z"
+        }
     }
 ]
