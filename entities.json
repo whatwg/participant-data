@@ -402,7 +402,7 @@
     },
     {
         "id": "19e0a349-9f28-423a-bb74-dd913e120e0f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Haywirez",
