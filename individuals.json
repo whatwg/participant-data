@@ -1011,7 +1011,7 @@
     },
     {
         "id": "547e81dc-4c9d-42cb-8f95-4413bc7934b4",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Derek Guenther",
