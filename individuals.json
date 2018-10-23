@@ -1032,5 +1032,17 @@
         "signature": {
             "signedAt": "2018-10-18T13:46:34.869Z"
         }
+    },
+    {
+        "id": "fcd010fc-4ecc-4c9d-af38-cb7c4bef9ef8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Buse Durer",
+            "gitHubID": "Busedurer13"
+        },
+        "signature": {
+            "signedAt": "2018-10-23T17:14:25.861Z"
+        }
     }
 ]
