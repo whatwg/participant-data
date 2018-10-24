@@ -1022,18 +1022,6 @@
         }
     },
     {
-        "id": "02b1b9eb-9421-430b-8203-40ad8106e344",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Ross McIlroy",
-            "gitHubID": "rmcilroy"
-        },
-        "signature": {
-            "signedAt": "2018-10-18T13:46:34.869Z"
-        }
-    },
-    {
         "id": "fcd010fc-4ecc-4c9d-af38-cb7c4bef9ef8",
         "verified": false,
         "workstreams": "all",
