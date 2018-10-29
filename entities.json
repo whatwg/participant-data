@@ -446,5 +446,26 @@
             "signedByTitle": "CTO Office",
             "signedAt": "2018-08-14T19:45:08.473Z"
         }
+    },
+    {
+        "id": "83087a1e-cb4b-47e7-935f-5aaae602f24b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Government Digital Service (on behalf of Cabinet Office)",
+            "address": "7th Floor, The White Chapel Building,, 10 Whitechapel High Street,",
+            "url": "https://gov.uk/",
+            "gitHubOrganization": "alphagov",
+            "contact1": {
+                "name": "Terence Eden",
+                "email": "terence.eden@digital.cabinet-office.gov.uk",
+                "gitHubID": "edent"
+            }
+        },
+        "signature": {
+            "signedBy": "Peter Arnould",
+            "signedByTitle": "Head of Commissioning",
+            "signedAt": "2018-10-29T13:49:44.057Z"
+        }
     }
 ]
