@@ -449,7 +449,7 @@
     },
     {
         "id": "83087a1e-cb4b-47e7-935f-5aaae602f24b",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Government Digital Service (on behalf of Cabinet Office)",
