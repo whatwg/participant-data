@@ -1032,5 +1032,17 @@
         "signature": {
             "signedAt": "2018-10-23T17:14:25.861Z"
         }
+    },
+    {
+        "id": "96470491-3ae6-4af0-9177-f743a17fef9b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nicole Saunders",
+            "gitHubID": "nicostar26"
+        },
+        "signature": {
+            "signedAt": "2018-10-31T18:11:39.125Z"
+        }
     }
 ]
