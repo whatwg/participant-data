@@ -467,5 +467,28 @@
             "signedByTitle": "Head of Commissioning",
             "signedAt": "2018-10-29T13:49:44.057Z"
         }
+    },
+    {
+        "id": "6c4ef136-eb6a-4581-98ea-581af399af63",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Intel Corporation",
+            "address": "2200 Mission College Blvd., Santa Clara, CA  95052",
+            "url": "https://intel.com/",
+            "gitHubOrganization": "intel-whatwg",
+            "contact1": {
+                "name": "Anssi Kostiainen",
+                "email": "anssi.kostiainen@intel.com",
+                "gitHubID": "anssiko"
+            }
+        },
+        "signature": {
+            "signedBy": "Anssi Kostiainen",
+            "signedByTitle": "Web Standards Tech Lead",
+            "signedAt": "2018-11-06T09:25:37.436Z"
+        }
     }
 ]
