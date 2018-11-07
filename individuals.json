@@ -1044,5 +1044,17 @@
         "signature": {
             "signedAt": "2018-10-31T18:11:39.125Z"
         }
+    },
+    {
+        "id": "ef749847-b581-48e2-8c6c-8d1065bf3a08",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Rondinelly",
+            "gitHubID": "Rondinelly"
+        },
+        "signature": {
+            "signedAt": "2018-11-07T11:38:13.720Z"
+        }
     }
 ]
