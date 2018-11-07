@@ -1047,7 +1047,7 @@
     },
     {
         "id": "ef749847-b581-48e2-8c6c-8d1065bf3a08",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Rondinelly",
