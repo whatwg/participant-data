@@ -1056,5 +1056,19 @@
         "signature": {
             "signedAt": "2018-11-07T11:38:13.720Z"
         }
+    },
+    {
+        "id": "95f8e53e-59b0-4f4a-be8f-5945bece1fb3",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Sean Buckle",
+            "gitHubID": "Quinney97"
+        },
+        "signature": {
+            "signedAt": "2018-11-13T16:22:34.301Z"
+        }
     }
 ]
