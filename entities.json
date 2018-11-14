@@ -423,7 +423,7 @@
     },
     {
         "id": "45db70f4-8f92-4229-960c-8c89540b5259",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Cloudinary",
