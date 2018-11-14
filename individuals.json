@@ -1070,5 +1070,17 @@
         "signature": {
             "signedAt": "2018-11-13T16:22:34.301Z"
         }
+    },
+    {
+        "id": "d42868ba-ea66-4127-8aa6-ded2b3aa173f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mark Simon",
+            "gitHubID": "manngo"
+        },
+        "signature": {
+            "signedAt": "2018-11-14T09:04:24.339Z"
+        }
     }
 ]
