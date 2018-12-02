@@ -1082,5 +1082,17 @@
         "signature": {
             "signedAt": "2018-11-14T09:04:24.339Z"
         }
+    },
+    {
+        "id": "18ac85e9-9854-43b4-9664-9b555d1f6d1c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gary Blackwood",
+            "gitHubID": "Garee"
+        },
+        "signature": {
+            "signedAt": "2018-12-02T14:34:21.803Z"
+        }
     }
 ]
