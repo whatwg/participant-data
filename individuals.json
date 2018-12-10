@@ -1094,5 +1094,17 @@
         "signature": {
             "signedAt": "2018-12-02T14:34:21.803Z"
         }
+    },
+    {
+        "id": "36131515-95f7-489c-81d3-5c27b017de4c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gino Nicholas LaGuardia-LoBianco",
+            "gitHubID": "cafetechne"
+        },
+        "signature": {
+            "signedAt": "2018-12-10T08:02:46.100Z"
+        }
     }
 ]
