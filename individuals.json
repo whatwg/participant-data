@@ -1109,7 +1109,7 @@
     },
     {
         "id": "50aad9b4-f0ba-4191-938a-745b42156924",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "J. S. Choi",
