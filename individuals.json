@@ -1118,5 +1118,17 @@
         "signature": {
             "signedAt": "2018-12-11T03:03:50.972Z"
         }
+    },
+    {
+        "id": "a7ec59f9-fc88-41e9-842e-2d91f3a04a28",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Noman Riffat",
+            "gitHubID": "pak0s"
+        },
+        "signature": {
+            "signedAt": "2019-01-02T19:54:55.508Z"
+        }
     }
 ]
