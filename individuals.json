@@ -1130,5 +1130,17 @@
         "signature": {
             "signedAt": "2019-01-02T19:54:55.508Z"
         }
+    },
+    {
+        "id": "391d53a8-4463-4407-a48d-9a7ad841024d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Miguel Casas-Sanchez",
+            "gitHubID": "yellowdoge"
+        },
+        "signature": {
+            "signedAt": "2019-01-04T17:07:41.147Z"
+        }
     }
 ]
