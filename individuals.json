@@ -1130,5 +1130,17 @@
         "signature": {
             "signedAt": "2019-01-02T19:54:55.508Z"
         }
+    },
+    {
+        "id": "7d30d7a4-906c-4ef0-b4d2-d155fb659968",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nery Ortez",
+            "gitHubID": "neryortez"
+        },
+        "signature": {
+            "signedAt": "2019-01-11T20:02:30.906Z"
+        }
     }
 ]
