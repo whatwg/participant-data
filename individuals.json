@@ -1142,5 +1142,17 @@
         "signature": {
             "signedAt": "2019-01-11T20:02:30.906Z"
         }
+    },
+    {
+        "id": "a21eb298-414c-4894-8632-539848c01d8f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bruno Barbieri",
+            "gitHubID": "brunobar79"
+        },
+        "signature": {
+            "signedAt": "2019-01-13T19:27:01.945Z"
+        }
     }
 ]
