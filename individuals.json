@@ -1154,5 +1154,17 @@
         "signature": {
             "signedAt": "2019-01-13T19:27:01.945Z"
         }
+    },
+    {
+        "id": "a546e6f6-61fd-404f-ae40-99e415ab193f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Osint Opsec",
+            "gitHubID": "Osintopsec"
+        },
+        "signature": {
+            "signedAt": "2019-01-14T15:19:50.763Z"
+        }
     }
 ]
