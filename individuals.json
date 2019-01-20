@@ -1166,5 +1166,17 @@
         "signature": {
             "signedAt": "2019-01-14T15:19:50.763Z"
         }
+    },
+    {
+        "id": "342d38ad-c165-4c1c-9822-44b9ff164dc8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Cheng You Bai",
+            "gitHubID": "CYBAI"
+        },
+        "signature": {
+            "signedAt": "2019-01-20T06:44:42.796Z"
+        }
     }
 ]
