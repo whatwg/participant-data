@@ -1157,7 +1157,7 @@
     },
     {
         "id": "a546e6f6-61fd-404f-ae40-99e415ab193f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Osint Opsec",
