@@ -1181,7 +1181,7 @@
     },
     {
         "id": "ece0fe36-7bf3-488d-afb1-335c2376bdc1",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Michał Górny",
