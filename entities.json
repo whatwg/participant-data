@@ -490,5 +490,33 @@
             "signedByTitle": "Web Standards Tech Lead",
             "signedAt": "2018-11-06T09:25:37.436Z"
         }
+    },
+    {
+        "id": "25d5f0e2-5cd0-4062-a036-54c0cfcc57ea",
+        "verified": false,
+        "workstreams": [
+            "fetch"
+        ],
+        "info": {
+            "name": "Fastly, Inc.",
+            "address": "475 Brannan St, Suite 300",
+            "url": "https://www.fastly.com/",
+            "gitHubOrganization": "Fastly",
+            "contact1": {
+                "name": "Mark Nottingham",
+                "email": "mnot@fastly.com",
+                "gitHubID": "mnot"
+            },
+            "contact2": {
+                "name": "Neal Hannan",
+                "email": "nhannan@fastly.com",
+                "gitHubID": "fastlyneal"
+            }
+        },
+        "signature": {
+            "signedBy": "Paul Luongo",
+            "signedByTitle": "SVP & General Counsel",
+            "signedAt": "2019-01-25T01:08:33.780Z"
+        }
     }
 ]
