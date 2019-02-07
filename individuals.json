@@ -1193,7 +1193,7 @@
     },
     {
         "id": "68d5a940-fd9b-4ecd-b192-88df1468a998",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Stephan Paul",
