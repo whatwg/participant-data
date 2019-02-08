@@ -1202,5 +1202,17 @@
         "signature": {
             "signedAt": "2019-02-04T07:17:26.005Z"
         }
+    },
+    {
+        "id": "919abbb4-dd9e-4590-8463-1ba7c0dacd67",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sidak Singh Aulakh",
+            "gitHubID": "co16353sidak"
+        },
+        "signature": {
+            "signedAt": "2019-02-08T19:00:01.069Z"
+        }
     }
 ]
