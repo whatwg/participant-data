@@ -1214,5 +1214,17 @@
         "signature": {
             "signedAt": "2019-02-08T19:00:01.069Z"
         }
+    },
+    {
+        "id": "039134a6-7d91-4159-badc-ca9362b371af",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jennifer Meade",
+            "gitHubID": "jmeade11"
+        },
+        "signature": {
+            "signedAt": "2019-02-17T14:23:12.661Z"
+        }
     }
 ]
