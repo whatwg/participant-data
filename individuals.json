@@ -1226,5 +1226,17 @@
         "signature": {
             "signedAt": "2019-02-17T14:23:12.661Z"
         }
+    },
+    {
+        "id": "fd6a1ea0-e858-4a10-89ca-1caefec76abe",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mohammed Zubair Ahmed",
+            "gitHubID": "M-ZubairAhmed"
+        },
+        "signature": {
+            "signedAt": "2019-02-21T19:45:59.488Z"
+        }
     }
 ]
