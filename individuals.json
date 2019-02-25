@@ -1238,5 +1238,17 @@
         "signature": {
             "signedAt": "2019-02-21T19:45:59.488Z"
         }
+    },
+    {
+        "id": "9d8aa970-b254-4a45-a91b-0b9d085a8f1d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Changwan Hong",
+            "gitHubID": "ChangWanHong"
+        },
+        "signature": {
+            "signedAt": "2019-02-25T02:51:52.300Z"
+        }
     }
 ]
