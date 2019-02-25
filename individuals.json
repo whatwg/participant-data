@@ -1241,7 +1241,7 @@
     },
     {
         "id": "9d8aa970-b254-4a45-a91b-0b9d085a8f1d",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Changwan Hong",
