@@ -1250,5 +1250,17 @@
         "signature": {
             "signedAt": "2019-02-25T02:51:52.300Z"
         }
+    },
+    {
+        "id": "8bbcaa77-e284-4133-aa3a-b69b4ff2feb5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Anthony Maton",
+            "gitHubID": "MatonAnthony"
+        },
+        "signature": {
+            "signedAt": "2019-02-25T09:59:29.512Z"
+        }
     }
 ]
