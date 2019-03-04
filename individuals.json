@@ -97,18 +97,6 @@
         }
     },
     {
-        "id": "98bbbfd8-e43a-45b1-a331-8377a8c74954",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Emilio Cobos Álvarez",
-            "gitHubID": "emilio"
-        },
-        "signature": {
-            "signedAt": "2017-12-31T09:18:57.807Z"
-        }
-    },
-    {
         "id": "6a5a4e69-4833-4bda-8216-217560aded31",
         "verified": false,
         "workstreams": "all",
