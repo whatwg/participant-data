@@ -1262,5 +1262,17 @@
         "signature": {
             "signedAt": "2019-02-25T09:59:29.512Z"
         }
+    },
+    {
+        "id": "90753141-ffaa-4010-a032-9a76d84b5e73",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Peter A Van Auken",
+            "gitHubID": "petervanauken89"
+        },
+        "signature": {
+            "signedAt": "2019-03-04T04:21:58.639Z"
+        }
     }
 ]
