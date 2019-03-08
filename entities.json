@@ -518,5 +518,31 @@
             "signedByTitle": "SVP & General Counsel",
             "signedAt": "2019-01-25T01:08:33.780Z"
         }
+    },
+    {
+        "id": "a9bb4b6a-d339-4cc1-9cfa-d5004f53ab0f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Baidu",
+            "address": "Beijing, China",
+            "url": "http://www.baidu.com/",
+            "gitHubOrganization": "baidu",
+            "contact1": {
+                "name": "Jun Yang",
+                "email": "yangjvn@126.com",
+                "gitHubID": "harttle"
+            },
+            "contact2": {
+                "name": "Erik",
+                "email": "erik@baidu.com",
+                "gitHubID": "errorrik"
+            }
+        },
+        "signature": {
+            "signedBy": "Jun Yang",
+            "signedByTitle": "Senior Engineer",
+            "signedAt": "2019-03-08T08:03:43.579Z"
+        }
     }
 ]
