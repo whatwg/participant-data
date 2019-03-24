@@ -521,7 +521,7 @@
     },
     {
         "id": "a9bb4b6a-d339-4cc1-9cfa-d5004f53ab0f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Baidu",
