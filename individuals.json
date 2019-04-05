@@ -1274,5 +1274,17 @@
         "signature": {
             "signedAt": "2019-04-03T09:16:40.523Z"
         }
+    },
+    {
+        "id": "ae48d784-280c-4bce-8a47-fe7351897fe5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Özgür Özçıtak",
+            "gitHubID": "oozcitak"
+        },
+        "signature": {
+            "signedAt": "2019-04-05T09:32:51.331Z"
+        }
     }
 ]
