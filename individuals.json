@@ -1286,5 +1286,17 @@
         "signature": {
             "signedAt": "2019-04-05T09:32:51.331Z"
         }
+    },
+    {
+        "id": "7cdb0b1c-0fbe-401c-975f-a4a1d12e3f4e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Max Harmony",
+            "gitHubID": "teh-maxh"
+        },
+        "signature": {
+            "signedAt": "2019-04-08T04:06:10.803Z"
+        }
     }
 ]
