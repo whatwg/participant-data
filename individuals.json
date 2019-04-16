@@ -1310,5 +1310,17 @@
         "signature": {
             "signedAt": "2019-04-12T21:17:43.067Z"
         }
+    },
+    {
+        "id": "dbac18f2-68dc-4d1d-bf0b-60c8ac9c25f1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jonathan Neal",
+            "gitHubID": "jonathantneal"
+        },
+        "signature": {
+            "signedAt": "2019-04-16T13:48:10.312Z"
+        }
     }
 ]
