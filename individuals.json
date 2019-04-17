@@ -1322,5 +1322,17 @@
         "signature": {
             "signedAt": "2019-04-16T13:48:10.312Z"
         }
+    },
+    {
+        "id": "e5f5caef-c029-4eee-92f8-a8749df706e0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Adrian Roach",
+            "gitHubID": "TheGrimSilence"
+        },
+        "signature": {
+            "signedAt": "2019-04-17T02:20:01.167Z"
+        }
     }
 ]
