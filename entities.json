@@ -544,5 +544,31 @@
             "signedByTitle": "Senior Engineer",
             "signedAt": "2019-03-08T08:03:43.579Z"
         }
+    },
+    {
+        "id": "1d85abfe-a983-405f-9c6c-fcec8dd643b6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tawesoft Ltd",
+            "address": "22 Wimblewood Close, West Cross, Swansea, SA3 5LQ",
+            "url": "https://www.tawesoft.co.uk/",
+            "gitHubOrganization": "tawesoft",
+            "contact1": {
+                "name": "Ben Golightly",
+                "email": "ben@tawesoft.co.uk",
+                "gitHubID": "golightlyb"
+            },
+            "contact2": {
+                "name": "Ben Golightly",
+                "email": "golightly.ben@googlemail.com",
+                "gitHubID": "golightlyb"
+            }
+        },
+        "signature": {
+            "signedBy": "Ben Golightly",
+            "signedByTitle": "Director",
+            "signedAt": "2019-04-19T15:49:24.189Z"
+        }
     }
 ]
