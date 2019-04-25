@@ -1346,5 +1346,17 @@
         "signature": {
             "signedAt": "2019-04-19T01:36:56.627Z"
         }
+    },
+    {
+        "id": "7b205fba-2f88-4074-a6e2-dbf639d5931f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Arfat Salman",
+            "gitHubID": "ArfatSalman"
+        },
+        "signature": {
+            "signedAt": "2019-04-25T17:47:41.816Z"
+        }
     }
 ]
