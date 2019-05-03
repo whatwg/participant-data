@@ -570,5 +570,26 @@
             "signedByTitle": "Director",
             "signedAt": "2019-04-19T15:49:24.189Z"
         }
+    },
+    {
+        "id": "2ee46e73-91a9-49a3-90ca-31bbd14869b2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Pesto Tech, Inc.",
+            "address": "Gurugram, Haryana 122016, India",
+            "url": "http://pesto.tech/",
+            "gitHubOrganization": "PestoTech",
+            "contact1": {
+                "name": "Arfat Salman",
+                "email": "giney.paradise@gmail.com",
+                "gitHubID": "ArfatSalman"
+            }
+        },
+        "signature": {
+            "signedBy": "Arfat Salman",
+            "signedByTitle": "Director of Education",
+            "signedAt": "2019-05-03T03:05:55.088Z"
+        }
     }
 ]
