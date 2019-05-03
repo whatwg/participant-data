@@ -547,7 +547,7 @@
     },
     {
         "id": "1d85abfe-a983-405f-9c6c-fcec8dd643b6",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Tawesoft Ltd",
