@@ -1358,5 +1358,17 @@
         "signature": {
             "signedAt": "2019-04-25T17:47:41.816Z"
         }
+    },
+    {
+        "id": "7246d7b4-13c5-4db9-b918-42197e7acc15",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ehsan Karamad",
+            "gitHubID": "ehsan-karamad"
+        },
+        "signature": {
+            "signedAt": "2019-05-06T16:08:07.955Z"
+        }
     }
 ]
