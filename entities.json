@@ -573,7 +573,7 @@
     },
     {
         "id": "2ee46e73-91a9-49a3-90ca-31bbd14869b2",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Pesto Tech, Inc.",
