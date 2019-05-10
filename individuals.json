@@ -1361,7 +1361,7 @@
     },
     {
         "id": "bf52f044-ad0d-47bd-933d-34ac33ded423",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Andy Davies",
