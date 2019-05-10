@@ -1348,18 +1348,6 @@
         }
     },
     {
-        "id": "7246d7b4-13c5-4db9-b918-42197e7acc15",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Ehsan Karamad",
-            "gitHubID": "ehsan-karamad"
-        },
-        "signature": {
-            "signedAt": "2019-05-06T16:08:07.955Z"
-        }
-    },
-    {
         "id": "bf52f044-ad0d-47bd-933d-34ac33ded423",
         "verified": true,
         "workstreams": "all",
