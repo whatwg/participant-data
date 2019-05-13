@@ -1358,5 +1358,17 @@
         "signature": {
             "signedAt": "2019-05-10T09:48:51.698Z"
         }
+    },
+    {
+        "id": "adb5468a-5871-4f5b-a166-961201d20917",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "John Law",
+            "gitHubID": "poyea"
+        },
+        "signature": {
+            "signedAt": "2019-05-13T08:46:31.401Z"
+        }
     }
 ]
