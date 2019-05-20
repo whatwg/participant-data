@@ -1370,5 +1370,17 @@
         "signature": {
             "signedAt": "2019-05-13T08:46:31.401Z"
         }
+    },
+    {
+        "id": "8de6ff1d-f487-4829-9195-e7da0f552d27",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "何志翔",
+            "gitHubID": "b9a1"
+        },
+        "signature": {
+            "signedAt": "2019-05-20T15:28:07.128Z"
+        }
     }
 ]
