@@ -1373,7 +1373,7 @@
     },
     {
         "id": "8de6ff1d-f487-4829-9195-e7da0f552d27",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "何志翔",
