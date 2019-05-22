@@ -1382,5 +1382,17 @@
         "signature": {
             "signedAt": "2019-05-20T15:28:07.128Z"
         }
+    },
+    {
+        "id": "4bf12196-483d-45b6-ba7a-71969c58baca",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ian Henderson",
+            "gitHubID": "ianh"
+        },
+        "signature": {
+            "signedAt": "2019-05-22T09:37:00.320Z"
+        }
     }
 ]
