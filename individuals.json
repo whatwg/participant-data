@@ -1385,7 +1385,7 @@
     },
     {
         "id": "4bf12196-483d-45b6-ba7a-71969c58baca",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Ian Henderson",
