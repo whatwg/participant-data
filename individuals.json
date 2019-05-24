@@ -1394,5 +1394,17 @@
         "signature": {
             "signedAt": "2019-05-22T09:37:00.320Z"
         }
+    },
+    {
+        "id": "6d81a2f3-f8de-424d-a692-9ed2bd2e3603",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Derek Wood",
+            "gitHubID": "sheriffderek"
+        },
+        "signature": {
+            "signedAt": "2019-05-24T16:51:35.549Z"
+        }
     }
 ]
