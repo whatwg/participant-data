@@ -1406,5 +1406,17 @@
         "signature": {
             "signedAt": "2019-05-24T16:51:35.549Z"
         }
+    },
+    {
+        "id": "0bc9ef67-32a5-4b37-bc2c-8211ed9986e6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Titus Wormer",
+            "gitHubID": "wooorm"
+        },
+        "signature": {
+            "signedAt": "2019-05-25T13:48:04.853Z"
+        }
     }
 ]
