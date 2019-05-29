@@ -1418,5 +1418,17 @@
         "signature": {
             "signedAt": "2019-05-25T13:48:04.853Z"
         }
+    },
+    {
+        "id": "94c696e3-6043-4a3c-96c2-953f862feeb5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yi Xu",
+            "gitHubID": "yiyix"
+        },
+        "signature": {
+            "signedAt": "2019-05-29T17:26:34.900Z"
+        }
     }
 ]
