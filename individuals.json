@@ -1430,5 +1430,17 @@
         "signature": {
             "signedAt": "2019-05-29T17:26:34.900Z"
         }
+    },
+    {
+        "id": "7735a780-53cf-4cf6-8cf3-9a7444784422",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Russel Porosky",
+            "gitHubID": "metaloha"
+        },
+        "signature": {
+            "signedAt": "2019-05-31T05:28:50.666Z"
+        }
     }
 ]
