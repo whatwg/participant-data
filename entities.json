@@ -591,5 +591,26 @@
             "signedByTitle": "Director of Education",
             "signedAt": "2019-05-03T03:05:55.088Z"
         }
+    },
+    {
+        "id": "4018ab30-af7a-4cd5-9910-08fc55b33c18",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "myles-systems",
+            "address": "Friedrich Ebert Straße 157 42117 Wuppertal",
+            "url": "https://myles.systems/",
+            "gitHubOrganization": "myles-systems",
+            "contact1": {
+                "name": "Paul Vollmer",
+                "email": "mail@paulvollmer.net",
+                "gitHubID": "paulvollmer"
+            }
+        },
+        "signature": {
+            "signedBy": "Paul Vollmer",
+            "signedByTitle": "Software Engineer",
+            "signedAt": "2019-06-05T13:21:04.701Z"
+        }
     }
 ]
