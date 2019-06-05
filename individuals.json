@@ -1442,5 +1442,17 @@
         "signature": {
             "signedAt": "2019-05-31T05:28:50.666Z"
         }
+    },
+    {
+        "id": "8fff5c3d-1c97-4e3f-a225-c1e0a70cd791",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Edgar Chen",
+            "gitHubID": "EdgarChen"
+        },
+        "signature": {
+            "signedAt": "2019-06-05T12:28:32.741Z"
+        }
     }
 ]
