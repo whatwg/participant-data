@@ -1454,5 +1454,17 @@
         "signature": {
             "signedAt": "2019-05-31T05:28:50.666Z"
         }
+    },
+    {
+        "id": "81ba3f88-1123-4c85-b2ae-1bd8b9d7b8ec",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dan Mulvey",
+            "gitHubID": "danmulvey"
+        },
+        "signature": {
+            "signedAt": "2019-06-09T21:41:46.522Z"
+        }
     }
 ]
