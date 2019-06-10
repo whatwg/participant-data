@@ -1478,5 +1478,17 @@
         "signature": {
             "signedAt": "2019-06-10T17:40:28.199Z"
         }
+    },
+    {
+        "id": "ed1203c1-4ab6-41d2-8324-9fa0a5770088",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Corey Daley",
+            "gitHubID": "coreydaley"
+        },
+        "signature": {
+            "signedAt": "2019-06-10T17:43:53.569Z"
+        }
     }
 ]
