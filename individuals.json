@@ -1466,5 +1466,17 @@
         "signature": {
             "signedAt": "2019-06-09T21:41:46.522Z"
         }
+    },
+    {
+        "id": "6e59eaf8-4366-486b-b83d-fa83a8430407",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Allan Wirth",
+            "gitHubID": "allanlw"
+        },
+        "signature": {
+            "signedAt": "2019-06-10T17:40:28.199Z"
+        }
     }
 ]
