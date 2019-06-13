@@ -1493,7 +1493,7 @@
     },
     {
         "id": "b74dd2d4-8fc5-4117-bfd6-7a33fb6a4b38",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Andreas Deuschlinger",
