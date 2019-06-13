@@ -1490,5 +1490,17 @@
         "signature": {
             "signedAt": "2019-06-10T17:43:53.569Z"
         }
+    },
+    {
+        "id": "b74dd2d4-8fc5-4117-bfd6-7a33fb6a4b38",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Andreas Deuschlinger",
+            "gitHubID": "AndyOGo"
+        },
+        "signature": {
+            "signedAt": "2019-06-13T20:30:40.657Z"
+        }
     }
 ]
