@@ -1457,7 +1457,7 @@
     },
     {
         "id": "81ba3f88-1123-4c85-b2ae-1bd8b9d7b8ec",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Dan Mulvey",
