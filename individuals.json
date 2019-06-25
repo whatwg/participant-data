@@ -1526,5 +1526,17 @@
         "signature": {
             "signedAt": "2019-06-23T12:15:38.585Z"
         }
+    },
+    {
+        "id": "6e5d2cbc-7f72-48c1-8c20-e1fcecedc8ff",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Pavel Kurochkin",
+            "gitHubID": "al-arz"
+        },
+        "signature": {
+            "signedAt": "2019-06-25T19:26:19.282Z"
+        }
     }
 ]
