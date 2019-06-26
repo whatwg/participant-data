@@ -24,18 +24,6 @@
         }
     },
     {
-        "id": "a958b5f8-fd5c-471a-bd75-c1d25188e250",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Tiancheng Gu",
-            "gitHubID": "TimothyGu"
-        },
-        "signature": {
-            "signedAt": "2017-12-12T19:09:05.920Z"
-        }
-    },
-    {
         "id": "ddb2a78e-e27a-4872-a014-e42931e9ef42",
         "verified": true,
         "workstreams": "all",
