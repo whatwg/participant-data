@@ -1526,5 +1526,17 @@
         "signature": {
             "signedAt": "2019-06-25T19:26:19.282Z"
         }
+    },
+    {
+        "id": "5ef07e8c-1b14-4cfa-bd85-001fdd8fcb49",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Robert Linder",
+            "gitHubID": "Malvoz"
+        },
+        "signature": {
+            "signedAt": "2019-06-27T15:04:15.220Z"
+        }
     }
 ]
