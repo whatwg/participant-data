@@ -1517,7 +1517,7 @@
     },
     {
         "id": "6e5d2cbc-7f72-48c1-8c20-e1fcecedc8ff",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Pavel Kurochkin",
