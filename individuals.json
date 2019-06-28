@@ -1538,5 +1538,17 @@
         "signature": {
             "signedAt": "2019-06-27T15:04:15.220Z"
         }
+    },
+    {
+        "id": "85b5bc49-0453-47d2-8076-9e80277a62c3",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "priyanshu mishra",
+            "gitHubID": "cedcoss-priyanshu"
+        },
+        "signature": {
+            "signedAt": "2019-06-28T04:35:59.085Z"
+        }
     }
 ]
