@@ -1529,7 +1529,7 @@
     },
     {
         "id": "5ef07e8c-1b14-4cfa-bd85-001fdd8fcb49",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Robert Linder",
