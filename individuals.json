@@ -1420,18 +1420,6 @@
         }
     },
     {
-        "id": "94c696e3-6043-4a3c-96c2-953f862feeb5",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Yi Xu",
-            "gitHubID": "yiyix"
-        },
-        "signature": {
-            "signedAt": "2019-05-29T17:26:34.900Z"
-        }
-    },
-    {
         "id": "7735a780-53cf-4cf6-8cf3-9a7444784422",
         "verified": false,
         "workstreams": "all",
