@@ -1550,5 +1550,17 @@
         "signature": {
             "signedAt": "2019-07-07T07:11:27.649Z"
         }
+    },
+    {
+        "id": "78c6d88f-c2dc-44fe-ad7c-e5a2e990a4a8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Daniel Michaelis",
+            "gitHubID": "easilyBaffled"
+        },
+        "signature": {
+            "signedAt": "2019-07-10T17:34:06.753Z"
+        }
     }
 ]
