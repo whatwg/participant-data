@@ -1562,5 +1562,17 @@
         "signature": {
             "signedAt": "2019-07-10T17:34:06.753Z"
         }
+    },
+    {
+        "id": "190f7310-e5e0-4329-bdfd-7bdd5ddf7ba0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Samuel Bronson",
+            "gitHubID": "SamB"
+        },
+        "signature": {
+            "signedAt": "2019-07-14T20:37:51.042Z"
+        }
     }
 ]
