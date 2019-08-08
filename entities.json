@@ -633,5 +633,31 @@
             "signedByTitle": "CEO",
             "signedAt": "2019-08-06T19:54:06.795Z"
         }
+    },
+    {
+        "id": "23ffbfcd-b9fc-4e14-b45a-a73ea24cb743",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Akriya Technologies LLP",
+            "address": "C-2, Sector 1, Noida",
+            "url": "https://akriya.cp.om/",
+            "gitHubOrganization": "akriyatech",
+            "contact1": {
+                "name": "Kartik Arora",
+                "email": "kartik.arora1214@gmail.com",
+                "gitHubID": "karx"
+            },
+            "contact2": {
+                "name": "Rahul Agarwal",
+                "email": "rahul@artiosys.com",
+                "gitHubID": "rahul1996"
+            }
+        },
+        "signature": {
+            "signedBy": "Kartik Arora",
+            "signedByTitle": "Director",
+            "signedAt": "2019-08-08T15:48:52.076Z"
+        }
     }
 ]
