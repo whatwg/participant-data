@@ -636,11 +636,11 @@
     },
     {
         "id": "23ffbfcd-b9fc-4e14-b45a-a73ea24cb743",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Akriya Technologies LLP",
-            "address": "C-2, Sector 1, Noida",
+            "address": "C-2, Sector 1, Noida, Uttar Pradesh 201301, India",
             "url": "https://akriya.cp.om/",
             "gitHubOrganization": "akriyatech",
             "contact1": {
