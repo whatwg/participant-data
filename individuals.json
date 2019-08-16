@@ -1586,5 +1586,17 @@
         "signature": {
             "signedAt": "2019-08-08T12:48:44.953Z"
         }
+    },
+    {
+        "id": "77e69730-a047-4cd4-ac9b-8cb9b79bc4cf",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alexandre Dieulot",
+            "gitHubID": "dieulot"
+        },
+        "signature": {
+            "signedAt": "2019-08-16T15:49:46.349Z"
+        }
     }
 ]
