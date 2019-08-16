@@ -1598,5 +1598,17 @@
         "signature": {
             "signedAt": "2019-08-16T15:49:46.349Z"
         }
+    },
+    {
+        "id": "d189d1f8-94bc-46b4-90ac-4b455e1aa0b6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Matiss Treinis",
+            "gitHubID": "Addvilz"
+        },
+        "signature": {
+            "signedAt": "2019-08-16T21:39:15.575Z"
+        }
     }
 ]
