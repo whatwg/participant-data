@@ -1589,7 +1589,7 @@
     },
     {
         "id": "77e69730-a047-4cd4-ac9b-8cb9b79bc4cf",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Alexandre Dieulot",
