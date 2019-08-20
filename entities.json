@@ -659,5 +659,26 @@
             "signedByTitle": "Director",
             "signedAt": "2019-08-08T15:48:52.076Z"
         }
+    },
+    {
+        "id": "32420992-6c87-4e74-bd13-4cba02d7bd9f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "The Paciello Group",
+            "address": "17757 US 19 North Suite 560  Clearwater, FL 33764",
+            "url": "https://www.paciellogroup.com/",
+            "gitHubOrganization": "ThePacielloGroup",
+            "contact1": {
+                "name": "Steve Faulkner",
+                "email": "sfaulkner@paciellogroup.com",
+                "gitHubID": "stevefaulkner"
+            }
+        },
+        "signature": {
+            "signedBy": "Scott O'Hara",
+            "signedByTitle": "Sr. Accessibility Engineer",
+            "signedAt": "2019-08-20T14:56:19.123Z"
+        }
     }
 ]
