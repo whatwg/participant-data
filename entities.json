@@ -662,7 +662,7 @@
     },
     {
         "id": "32420992-6c87-4e74-bd13-4cba02d7bd9f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "The Paciello Group",
