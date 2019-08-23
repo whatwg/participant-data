@@ -1576,18 +1576,6 @@
         }
     },
     {
-        "id": "4871a9a8-64b4-4a09-b52b-b51e6754a53e",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Scott O'Hara",
-            "gitHubID": "scottaohara"
-        },
-        "signature": {
-            "signedAt": "2019-08-08T12:48:44.953Z"
-        }
-    },
-    {
         "id": "77e69730-a047-4cd4-ac9b-8cb9b79bc4cf",
         "verified": true,
         "workstreams": "all",
