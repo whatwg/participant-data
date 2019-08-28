@@ -1598,5 +1598,17 @@
         "signature": {
             "signedAt": "2019-08-16T21:39:15.575Z"
         }
+    },
+    {
+        "id": "11adb0d5-8604-4930-bec4-3673939b64a0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Lawal Adedapo Gafar",
+            "gitHubID": "jamal2012"
+        },
+        "signature": {
+            "signedAt": "2019-08-28T16:27:45.051Z"
+        }
     }
 ]
