@@ -1610,5 +1610,17 @@
         "signature": {
             "signedAt": "2019-08-28T16:27:45.051Z"
         }
+    },
+    {
+        "id": "6939fc08-bb98-4a2f-8bd9-30320523aeda",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tomasz Wytrębowicz",
+            "gitHubID": "tomalec"
+        },
+        "signature": {
+            "signedAt": "2019-09-16T01:28:53.807Z"
+        }
     }
 ]
