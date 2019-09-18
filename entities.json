@@ -680,5 +680,26 @@
             "signedByTitle": "Sr. Accessibility Engineer",
             "signedAt": "2019-08-20T14:56:19.123Z"
         }
+    },
+    {
+        "id": "f50f6272-da6e-43b3-b868-274d9626b2ba",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Videsk",
+            "address": "Santiago, Chile",
+            "url": "https://videsk.io/",
+            "gitHubOrganization": "videsk",
+            "contact1": {
+                "name": "Matias Lopez",
+                "email": "mlopez@videsk.io",
+                "gitHubID": "matiaslopezd"
+            }
+        },
+        "signature": {
+            "signedBy": "Matias Lopez Diaz",
+            "signedByTitle": "CTO",
+            "signedAt": "2019-09-18T21:13:48.357Z"
+        }
     }
 ]
