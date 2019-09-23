@@ -1634,5 +1634,17 @@
         "signature": {
             "signedAt": "2019-09-21T22:10:05.134Z"
         }
+    },
+    {
+        "id": "a27b5206-0009-4876-a11a-8bc1b18cb23c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gurjot Singh",
+            "gitHubID": "gurjotsingh4398"
+        },
+        "signature": {
+            "signedAt": "2019-09-23T11:45:31.942Z"
+        }
     }
 ]
