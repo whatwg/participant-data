@@ -1646,5 +1646,17 @@
         "signature": {
             "signedAt": "2019-09-23T11:45:31.942Z"
         }
+    },
+    {
+        "id": "54e67883-5df5-4eae-94e3-87124553f9e8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Perry Jiang",
+            "gitHubID": "perryjiang"
+        },
+        "signature": {
+            "signedAt": "2019-09-24T03:11:42.201Z"
+        }
     }
 ]
