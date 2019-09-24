@@ -1637,7 +1637,7 @@
     },
     {
         "id": "a27b5206-0009-4876-a11a-8bc1b18cb23c",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Gurjot Singh",
