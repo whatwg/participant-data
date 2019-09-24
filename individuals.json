@@ -1661,7 +1661,7 @@
     },
     {
         "id": "3507ebf8-1eb8-48bb-964d-f29f467495c3",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Kagami Sascha Rosylight",
