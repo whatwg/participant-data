@@ -1682,5 +1682,17 @@
         "signature": {
             "signedAt": "2019-09-25T13:58:59.893Z"
         }
+    },
+    {
+        "id": "e44180c6-f8a9-4a6d-a0e0-9407a1e3dee3",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Juan Duran",
+            "gitHubID": "JuanDuran88"
+        },
+        "signature": {
+            "signedAt": "2019-09-25T23:40:31.790Z"
+        }
     }
 ]
