@@ -1673,7 +1673,7 @@
     },
     {
         "id": "5dc33a0f-bfe2-426e-b88d-4982430c3df5",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Willy Martin Aguirre Rodriguez",
