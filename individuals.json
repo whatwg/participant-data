@@ -1648,18 +1648,6 @@
         }
     },
     {
-        "id": "54e67883-5df5-4eae-94e3-87124553f9e8",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Perry Jiang",
-            "gitHubID": "perryjiang"
-        },
-        "signature": {
-            "signedAt": "2019-09-24T03:11:42.201Z"
-        }
-    },
-    {
         "id": "3507ebf8-1eb8-48bb-964d-f29f467495c3",
         "verified": true,
         "workstreams": "all",
