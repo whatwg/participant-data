@@ -1682,5 +1682,17 @@
         "signature": {
             "signedAt": "2019-09-25T23:40:31.790Z"
         }
+    },
+    {
+        "id": "44518709-13f1-4d8f-a936-800884c2562a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tom ten Thij",
+            "gitHubID": "tomtt"
+        },
+        "signature": {
+            "signedAt": "2019-10-04T12:05:50.038Z"
+        }
     }
 ]
