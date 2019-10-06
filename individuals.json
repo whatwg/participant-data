@@ -1685,7 +1685,7 @@
     },
     {
         "id": "44518709-13f1-4d8f-a936-800884c2562a",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Tom ten Thij",
