@@ -1624,18 +1624,6 @@
         }
     },
     {
-        "id": "7c257bf0-f72a-4a4c-9e5d-4807b2f9b7f3",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Tiger Oakes",
-            "gitHubID": "NotWoods"
-        },
-        "signature": {
-            "signedAt": "2019-09-21T22:10:05.134Z"
-        }
-    },
-    {
         "id": "a27b5206-0009-4876-a11a-8bc1b18cb23c",
         "verified": true,
         "workstreams": "all",
