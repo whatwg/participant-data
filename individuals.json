@@ -1682,5 +1682,17 @@
         "signature": {
             "signedAt": "2019-10-04T12:05:50.038Z"
         }
+    },
+    {
+        "id": "53f1a3c3-9b07-4a2d-872d-dd6ab0a25653",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alexander J. Moon",
+            "gitHubID": "moonmeister"
+        },
+        "signature": {
+            "signedAt": "2019-10-14T02:57:21.067Z"
+        }
     }
 ]
