@@ -1694,5 +1694,17 @@
         "signature": {
             "signedAt": "2019-10-14T02:57:21.067Z"
         }
+    },
+    {
+        "id": "d515f1f5-d4c8-4d9c-a340-68fdd39bcb95",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "almir",
+            "gitHubID": "almir-brazil"
+        },
+        "signature": {
+            "signedAt": "2019-10-18T04:06:27.948Z"
+        }
     }
 ]
