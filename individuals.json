@@ -1706,5 +1706,17 @@
         "signature": {
             "signedAt": "2019-10-18T04:06:27.948Z"
         }
+    },
+    {
+        "id": "fe94ee04-5db8-40f3-a642-ee49c6a47ca6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Brady Kondek",
+            "gitHubID": "bradykondek"
+        },
+        "signature": {
+            "signedAt": "2019-10-28T20:21:51.807Z"
+        }
     }
 ]
