@@ -701,5 +701,31 @@
             "signedByTitle": "CTO",
             "signedAt": "2019-09-18T21:13:48.357Z"
         }
+    },
+    {
+        "id": "6a32e173-2feb-455e-ba65-e7cfda60b208",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "salesforce.com, inc. ",
+            "address": "415 Mission Street, Suite 300, San Francisco, CA 94105",
+            "url": "http://www.salesforce.com/",
+            "gitHubOrganization": "salesforce",
+            "contact1": {
+                "name": "Diego Ferreiro Val",
+                "email": "dval@salesforce.com",
+                "gitHubID": "diervo"
+            },
+            "contact2": {
+                "name": "Caridy Patino ",
+                "email": "cpatino@salesforce.com",
+                "gitHubID": "caridy"
+            }
+        },
+        "signature": {
+            "signedBy": "Jacquelyn Galbreth ",
+            "signedByTitle": "Sr. Manager, Sourcing ",
+            "signedAt": "2019-10-28T19:24:55.327Z"
+        }
     }
 ]
