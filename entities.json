@@ -704,7 +704,7 @@
     },
     {
         "id": "6a32e173-2feb-455e-ba65-e7cfda60b208",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "salesforce.com, inc. ",
