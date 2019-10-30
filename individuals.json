@@ -1706,5 +1706,17 @@
         "signature": {
             "signedAt": "2019-10-28T20:21:51.807Z"
         }
+    },
+    {
+        "id": "ce4a0ca2-2153-4108-af15-038b44347d0a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Taylor Hunt",
+            "gitHubID": "tigt"
+        },
+        "signature": {
+            "signedAt": "2019-10-30T14:00:07.354Z"
+        }
     }
 ]
