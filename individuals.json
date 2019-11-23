@@ -1718,5 +1718,17 @@
         "signature": {
             "signedAt": "2019-10-30T14:00:07.354Z"
         }
+    },
+    {
+        "id": "71b6f051-2497-4e8d-b454-38a80ad4f3fb",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Foromo Daniel Soromou",
+            "gitHubID": "grandfather1"
+        },
+        "signature": {
+            "signedAt": "2019-11-23T00:44:48.318Z"
+        }
     }
 ]
