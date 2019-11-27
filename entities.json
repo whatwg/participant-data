@@ -748,5 +748,29 @@
             "signedByTitle": "Mr",
             "signedAt": "2019-11-08T15:32:32.135Z"
         }
+    },
+    {
+        "id": "87aeac5e-74ed-452c-982d-950e7f8f1789",
+        "verified": false,
+        "workstreams": [
+            "fullscreen",
+            "html"
+        ],
+        "info": {
+            "name": "IBM",
+            "address": "1 North Castle Drive, Armonk, NY 10504",
+            "url": "http://www.ibm.com/",
+            "gitHubOrganization": "ibm",
+            "contact1": {
+                "name": "Arnaud Le Hors",
+                "email": "lehors@us.ibm.com",
+                "gitHubID": "lehors"
+            }
+        },
+        "signature": {
+            "signedBy": "Arnaud Le Hors",
+            "signedByTitle": "Senior Technical Staff Member, Blockchain & Web Open Technologies",
+            "signedAt": "2019-11-27T15:29:59.293Z"
+        }
     }
 ]
