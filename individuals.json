@@ -1730,5 +1730,17 @@
         "signature": {
             "signedAt": "2019-11-23T00:44:48.318Z"
         }
+    },
+    {
+        "id": "12a3cf1b-ff20-4484-b456-a6b6c1c1735d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alexander Walter",
+            "gitHubID": "ArgonAlex"
+        },
+        "signature": {
+            "signedAt": "2019-12-03T23:28:46.202Z"
+        }
     }
 ]
