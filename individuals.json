@@ -1733,7 +1733,7 @@
     },
     {
         "id": "12a3cf1b-ff20-4484-b456-a6b6c1c1735d",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Alexander Walter",
