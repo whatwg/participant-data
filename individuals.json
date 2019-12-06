@@ -1742,5 +1742,17 @@
         "signature": {
             "signedAt": "2019-12-03T23:28:46.202Z"
         }
+    },
+    {
+        "id": "073c8f24-e533-4f94-b38e-4378e42481e2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ian Lamb",
+            "gitHubID": "ianlamb"
+        },
+        "signature": {
+            "signedAt": "2019-12-06T22:08:41.717Z"
+        }
     }
 ]
