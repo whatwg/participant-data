@@ -1778,5 +1778,17 @@
         "signature": {
             "signedAt": "2019-12-16T06:34:56.296Z"
         }
+    },
+    {
+        "id": "76eb88ea-17e4-4098-8ee1-d67a1bb08021",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alex Schmidt",
+            "gitHubID": "zyeri"
+        },
+        "signature": {
+            "signedAt": "2019-12-16T20:15:20.338Z"
+        }
     }
 ]
