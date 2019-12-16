@@ -1766,5 +1766,17 @@
         "signature": {
             "signedAt": "2019-12-12T05:32:39.016Z"
         }
+    },
+    {
+        "id": "b141e6df-e973-41ad-8d11-a719c78a79c5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chris Morgan",
+            "gitHubID": "chris-morgan"
+        },
+        "signature": {
+            "signedAt": "2019-12-16T06:34:56.296Z"
+        }
     }
 ]
