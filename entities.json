@@ -772,5 +772,26 @@
             "signedByTitle": "Senior Technical Staff Member, Blockchain & Web Open Technologies",
             "signedAt": "2019-11-27T15:29:59.293Z"
         }
+    },
+    {
+        "id": "1ce9f123-b86c-428e-9f51-b0d490762379",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "W3Techy",
+            "address": "Ita Egbe Road, Ita Atan, Ita Egbe, Ogun State, Nigeria ",
+            "url": "https://w3techy.com.ng/",
+            "gitHubOrganization": "w3techyopensource",
+            "contact1": {
+                "name": "Joseph Seyi Taiwo",
+                "email": "josegood@yandex.com",
+                "gitHubID": "w3techy"
+            }
+        },
+        "signature": {
+            "signedBy": "Joseph Seyi Taiwo",
+            "signedByTitle": "CEO",
+            "signedAt": "2019-12-17T18:02:22.308Z"
+        }
     }
 ]
