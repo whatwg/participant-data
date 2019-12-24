@@ -1790,5 +1790,17 @@
         "signature": {
             "signedAt": "2019-12-16T20:15:20.338Z"
         }
+    },
+    {
+        "id": "4633c4a3-78ed-42c1-b4c5-db1197d6176f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Eduardo P. Gomez",
+            "gitHubID": "EduApps-CDG"
+        },
+        "signature": {
+            "signedAt": "2019-12-24T06:32:55.767Z"
+        }
     }
 ]
