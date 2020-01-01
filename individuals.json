@@ -1814,5 +1814,17 @@
         "signature": {
             "signedAt": "2019-12-30T18:16:38.561Z"
         }
+    },
+    {
+        "id": "2b6fafca-3772-4ce3-879f-77bfe70a3cd2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bhupendra Singh Hada",
+            "gitHubID": "themoonbender"
+        },
+        "signature": {
+            "signedAt": "2020-01-01T05:55:32.215Z"
+        }
     }
 ]
