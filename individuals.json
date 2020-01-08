@@ -1838,5 +1838,17 @@
         "signature": {
             "signedAt": "2020-01-01T05:55:32.215Z"
         }
+    },
+    {
+        "id": "e93c4da0-ace9-4a59-9d8f-82e3f525c3ba",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Janice Shiu",
+            "gitHubID": "janiceshiu"
+        },
+        "signature": {
+            "signedAt": "2020-01-08T05:21:33.086Z"
+        }
     }
 ]
