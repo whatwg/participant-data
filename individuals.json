@@ -1841,7 +1841,7 @@
     },
     {
         "id": "e93c4da0-ace9-4a59-9d8f-82e3f525c3ba",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Janice Shiu",
