@@ -1850,5 +1850,17 @@
         "signature": {
             "signedAt": "2020-01-08T05:21:33.086Z"
         }
+    },
+    {
+        "id": "69c0df66-a99c-4b69-98c1-7faf317f0c13",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Maria Christabella Terrenal",
+            "gitHubID": "mdterrenal"
+        },
+        "signature": {
+            "signedAt": "2020-01-14T02:23:53.755Z"
+        }
     }
 ]
