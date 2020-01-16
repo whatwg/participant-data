@@ -793,5 +793,26 @@
             "signedByTitle": "CEO",
             "signedAt": "2019-12-17T18:02:22.308Z"
         }
+    },
+    {
+        "id": "c8c05170-09f6-40cb-9a39-5290c20b97fa",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Blur Busters / Rejhon Technologies Inc.",
+            "address": "34 PROCTOR BLVD",
+            "url": "https://www.blurbusters.com/adding-variable-refresh-rate-support-to-html-5-2/",
+            "gitHubOrganization": "blurbusters",
+            "contact1": {
+                "name": "Mark Rejhon",
+                "email": "mark@blurbusters.com",
+                "gitHubID": "mdrejhon"
+            }
+        },
+        "signature": {
+            "signedBy": "Mark Rejhon",
+            "signedByTitle": "Founder",
+            "signedAt": "2020-01-16T22:39:27.429Z"
+        }
     }
 ]
