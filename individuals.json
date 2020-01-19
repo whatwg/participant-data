@@ -1874,5 +1874,17 @@
         "signature": {
             "signedAt": "2020-01-18T05:27:59.844Z"
         }
+    },
+    {
+        "id": "2ff06e63-8e61-47aa-b424-ef2f53f55f52",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "thinkpadder1",
+            "gitHubID": "thinkpadder1"
+        },
+        "signature": {
+            "signedAt": "2020-01-19T20:32:44.071Z"
+        }
     }
 ]
