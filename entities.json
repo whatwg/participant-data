@@ -814,5 +814,26 @@
             "signedByTitle": "Founder",
             "signedAt": "2020-01-16T22:39:27.429Z"
         }
+    },
+    {
+        "id": "38f3c52d-70b2-4af5-9223-f96df2f25b82",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Grafton Studio",
+            "address": "119 Mt Auburn St, Suite 230, 02138 Cambridge MA USA",
+            "url": "https://graftonstudio.com/",
+            "gitHubOrganization": "graftonstudio",
+            "contact1": {
+                "name": "Matteo Cargnelutti",
+                "email": "matteo@graftonstudio.com",
+                "gitHubID": "matteocargnelutti"
+            }
+        },
+        "signature": {
+            "signedBy": "Matteo Cargnelutti",
+            "signedByTitle": "CTO",
+            "signedAt": "2020-01-27T15:01:05.388Z"
+        }
     }
 ]
