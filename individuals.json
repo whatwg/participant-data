@@ -1886,5 +1886,17 @@
         "signature": {
             "signedAt": "2020-01-19T20:32:44.071Z"
         }
+    },
+    {
+        "id": "055013a7-e492-41c1-abed-293e03fa4fa9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Eriko Kurimoto",
+            "gitHubID": "elkurin"
+        },
+        "signature": {
+            "signedAt": "2020-02-06T06:21:31.343Z"
+        }
     }
 ]
