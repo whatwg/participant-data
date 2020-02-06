@@ -1898,5 +1898,17 @@
         "signature": {
             "signedAt": "2020-02-06T06:21:31.343Z"
         }
+    },
+    {
+        "id": "beb375d9-f84c-43a4-a90a-178c63942e1f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ahmed Radi",
+            "gitHubID": "0xradi"
+        },
+        "signature": {
+            "signedAt": "2020-02-06T14:58:19.364Z"
+        }
     }
 ]
