@@ -1888,18 +1888,6 @@
         }
     },
     {
-        "id": "055013a7-e492-41c1-abed-293e03fa4fa9",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Eriko Kurimoto",
-            "gitHubID": "elkurin"
-        },
-        "signature": {
-            "signedAt": "2020-02-06T06:21:31.343Z"
-        }
-    },
-    {
         "id": "beb375d9-f84c-43a4-a90a-178c63942e1f",
         "verified": false,
         "workstreams": "all",
