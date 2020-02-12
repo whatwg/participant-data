@@ -1898,21 +1898,5 @@
         "signature": {
             "signedAt": "2020-02-06T14:58:19.364Z"
         }
-    },
-    {
-        "id": "78b81992-003c-4358-b6dd-cb9737b889bb",
-        "verified": false,
-        "workstreams": [
-            "dom",
-            "encoding",
-            "html"
-        ],
-        "info": {
-            "name": "Grisha Lyukshin",
-            "gitHubID": "gked"
-        },
-        "signature": {
-            "signedAt": "2020-02-12T00:47:29.344Z"
-        }
     }
 ]
