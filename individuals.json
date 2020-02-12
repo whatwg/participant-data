@@ -1898,5 +1898,17 @@
         "signature": {
             "signedAt": "2020-02-06T14:58:19.364Z"
         }
+    },
+    {
+        "id": "a99f2e06-0a1c-4430-876f-7d5cd76e25a8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Michael Champion",
+            "gitHubID": "michaelchampion"
+        },
+        "signature": {
+            "signedAt": "2020-02-12T15:44:34.500Z"
+        }
     }
 ]
