@@ -102,6 +102,11 @@
                 "name": "Travis Leithead",
                 "email": "travis.leithead@microsoft.com",
                 "gitHubID": "travisleithead"
+            },
+            "contact3": {
+                "name": "Grisha Lyukshin",
+                "email": "glyuk@microsoft.com",
+                "gitHubID": "gked"
             }
         },
         "signature": {
