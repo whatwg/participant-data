@@ -1910,5 +1910,17 @@
         "signature": {
             "signedAt": "2020-02-12T15:44:34.500Z"
         }
+    },
+    {
+        "id": "99bdc1f7-5080-49ab-80b0-6c2aa66b2982",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Josh Hufford",
+            "gitHubID": "ostomachion"
+        },
+        "signature": {
+            "signedAt": "2020-02-18T13:16:42.788Z"
+        }
     }
 ]
