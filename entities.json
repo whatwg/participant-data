@@ -25,9 +25,14 @@
             "url": "https://www.google.com/",
             "gitHubOrganization": "Google",
             "contact1": {
-                "name": "Shruthi Sreekanta",
-                "email": "sshruthi@google.com",
-                "gitHubID": "@henceproved"
+                "name": "Domenic Denicola",
+                "email": "domenic@google.com",
+                "gitHubID": "domenic"
+            },
+            "contact2": {
+                "name": "Philip Jägenstedt",
+                "email": "foolip@google.com",
+                "gitHubID": "foolip"
             }
         },
         "signature": {
