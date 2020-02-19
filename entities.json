@@ -457,9 +457,14 @@
             "url": "https://gov.uk/",
             "gitHubOrganization": "alphagov",
             "contact1": {
-                "name": "Terence Eden",
-                "email": "terence.eden@digital.cabinet-office.gov.uk",
-                "gitHubID": "edent"
+                "name": "James O'Neill",
+                "email": "james.oneill@digital.cabinet-office.gov.uk",
+                "gitHubID": "jameseoneill"
+            },
+            "contact2": {
+                "name": "Matt Hobbs",
+                "email": "matthew.hobbs@digital.cabinet-office.gov.uk",
+                "gitHubID": "Nooshu"
             }
         },
         "signature": {
