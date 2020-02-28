@@ -1946,5 +1946,17 @@
         "signature": {
             "signedAt": "2020-02-28T09:59:39.794Z"
         }
+    },
+    {
+        "id": "731af9ee-dd44-4403-bd1b-56f0326027b1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Johnny",
+            "gitHubID": "johnnyglauber"
+        },
+        "signature": {
+            "signedAt": "2020-02-28T15:26:26.490Z"
+        }
     }
 ]
