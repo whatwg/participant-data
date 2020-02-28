@@ -1934,5 +1934,17 @@
         "signature": {
             "signedAt": "2020-02-27T04:56:38.062Z"
         }
+    },
+    {
+        "id": "9ea8fa61-9a85-4dbc-8ab4-ec8f2097ec40",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dmitry Lazutkin",
+            "gitHubID": "lazdmx"
+        },
+        "signature": {
+            "signedAt": "2020-02-28T09:59:39.794Z"
+        }
     }
 ]
