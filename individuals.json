@@ -1937,7 +1937,7 @@
     },
     {
         "id": "9ea8fa61-9a85-4dbc-8ab4-ec8f2097ec40",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Dmitry Lazutkin",
