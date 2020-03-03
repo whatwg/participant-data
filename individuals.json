@@ -1961,7 +1961,7 @@
     },
     {
         "id": "cb9bbde9-4e25-4031-8d66-ec3090167955",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Jamie Liu",
