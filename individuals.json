@@ -1958,5 +1958,17 @@
         "signature": {
             "signedAt": "2020-02-28T15:26:26.490Z"
         }
+    },
+    {
+        "id": "cb9bbde9-4e25-4031-8d66-ec3090167955",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jamie Liu",
+            "gitHubID": "jamieliu386"
+        },
+        "signature": {
+            "signedAt": "2020-03-03T18:30:58.912Z"
+        }
     }
 ]
