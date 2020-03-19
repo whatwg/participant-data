@@ -1982,5 +1982,17 @@
         "signature": {
             "signedAt": "2020-03-19T16:14:02.564Z"
         }
+    },
+    {
+        "id": "0fce8e16-b24c-4f49-8897-fa5d8e36e5c9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "adroitwhiz",
+            "gitHubID": "adroitwhiz"
+        },
+        "signature": {
+            "signedAt": "2020-03-19T16:35:19.510Z"
+        }
     }
 ]
