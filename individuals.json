@@ -1972,18 +1972,6 @@
         }
     },
     {
-        "id": "455ef1b1-234b-4359-8343-52dda3fe9b98",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Test Test",
-            "gitHubID": "domenic"
-        },
-        "signature": {
-            "signedAt": "2020-03-19T16:14:02.564Z"
-        }
-    },
-    {
         "id": "0fce8e16-b24c-4f49-8897-fa5d8e36e5c9",
         "verified": false,
         "workstreams": "all",
