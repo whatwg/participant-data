@@ -1970,5 +1970,17 @@
         "signature": {
             "signedAt": "2020-03-03T18:30:58.912Z"
         }
+    },
+    {
+        "id": "455ef1b1-234b-4359-8343-52dda3fe9b98",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Test Test",
+            "gitHubID": "domenic"
+        },
+        "signature": {
+            "signedAt": "2020-03-19T16:14:02.564Z"
+        }
     }
 ]
