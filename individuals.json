@@ -1982,5 +1982,17 @@
         "signature": {
             "signedAt": "2020-03-19T16:35:19.510Z"
         }
+    },
+    {
+        "id": "3bee72cc-78bd-40ff-aacd-128cc26a4684",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Joaquim Medeiros",
+            "gitHubID": "medeirosjoaquim"
+        },
+        "signature": {
+            "signedAt": "2020-03-23T14:17:59.115Z"
+        }
     }
 ]
