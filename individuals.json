@@ -1985,7 +1985,7 @@
     },
     {
         "id": "3bee72cc-78bd-40ff-aacd-128cc26a4684",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Joaquim Medeiros",
