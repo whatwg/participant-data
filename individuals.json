@@ -1994,5 +1994,17 @@
         "signature": {
             "signedAt": "2020-03-23T14:17:59.115Z"
         }
+    },
+    {
+        "id": "ca17c5c0-b849-4145-8d71-c5406be071fc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Pedro Fragoso Maldonado",
+            "gitHubID": "tw1ttt3r"
+        },
+        "signature": {
+            "signedAt": "2020-03-24T01:42:11.248Z"
+        }
     }
 ]
