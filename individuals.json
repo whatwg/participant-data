@@ -2018,5 +2018,17 @@
         "signature": {
             "signedAt": "2020-03-28T17:00:41.208Z"
         }
+    },
+    {
+        "id": "3471bf89-e99a-451c-8c96-93a8c7b29043",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Pedro Martins Zamboni",
+            "gitHubID": "Zambonifofex"
+        },
+        "signature": {
+            "signedAt": "2020-03-30T22:26:43.384Z"
+        }
     }
 ]
