@@ -2021,7 +2021,7 @@
     },
     {
         "id": "3471bf89-e99a-451c-8c96-93a8c7b29043",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Pedro Martins Zamboni",
