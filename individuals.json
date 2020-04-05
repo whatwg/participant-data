@@ -2042,5 +2042,17 @@
         "signature": {
             "signedAt": "2020-04-02T17:15:55.441Z"
         }
+    },
+    {
+        "id": "d2dc6920-239c-402f-8a79-42784e6014d7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bradley Allen",
+            "gitHubID": "bradleyallen"
+        },
+        "signature": {
+            "signedAt": "2020-04-05T20:19:05.163Z"
+        }
     }
 ]
