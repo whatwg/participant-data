@@ -845,5 +845,26 @@
             "signedByTitle": "CTO",
             "signedAt": "2020-01-27T15:01:05.388Z"
         }
+    },
+    {
+        "id": "fbc64bbc-b790-42ae-add4-34c4c3588082",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Amazon.com Services LLC",
+            "address": "Test Test",
+            "url": "https://amazon.com/",
+            "gitHubOrganization": "test",
+            "contact1": {
+                "name": "Test Test",
+                "email": "test@test.com",
+                "gitHubID": "test"
+            }
+        },
+        "signature": {
+            "signedBy": "Test Test",
+            "signedByTitle": "Tester",
+            "signedAt": "2020-04-07T16:30:17.608Z"
+        }
     }
 ]
