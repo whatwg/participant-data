@@ -845,26 +845,5 @@
             "signedByTitle": "CTO",
             "signedAt": "2020-01-27T15:01:05.388Z"
         }
-    },
-    {
-        "id": "21d37a4a-b36a-4120-a886-e013a5970467",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Test Entity",
-            "address": "Test Test",
-            "url": "https://test.com/",
-            "gitHubOrganization": "test",
-            "contact1": {
-                "name": "Test Test",
-                "email": "test@test.com",
-                "gitHubID": "test"
-            }
-        },
-        "signature": {
-            "signedBy": "Test test",
-            "signedByTitle": "Tester",
-            "signedAt": "2020-04-07T16:39:34.365Z"
-        }
     }
 ]
