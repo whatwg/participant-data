@@ -2054,5 +2054,17 @@
         "signature": {
             "signedAt": "2020-04-05T20:19:05.163Z"
         }
+    },
+    {
+        "id": "3fc2bcf9-170c-4c59-87d4-7a9ca3e01b04",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Aaron Krajeski",
+            "gitHubID": "mysteryDate"
+        },
+        "signature": {
+            "signedAt": "2020-04-08T17:16:53.571Z"
+        }
     }
 ]
