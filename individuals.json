@@ -2054,5 +2054,17 @@
         "signature": {
             "signedAt": "2020-04-05T20:19:05.163Z"
         }
+    },
+    {
+        "id": "81f04734-f0e1-41a4-bc07-507315113de5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mason Freed",
+            "gitHubID": "mfreed7"
+        },
+        "signature": {
+            "signedAt": "2020-04-17T22:08:40.519Z"
+        }
     }
 ]
