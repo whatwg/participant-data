@@ -2066,5 +2066,17 @@
         "signature": {
             "signedAt": "2020-04-17T22:08:40.519Z"
         }
+    },
+    {
+        "id": "e5ddd4ab-32fb-4b83-b168-72334bb5e820",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yash Handa",
+            "gitHubID": "Yash-Handa"
+        },
+        "signature": {
+            "signedAt": "2020-04-23T17:38:19.474Z"
+        }
     }
 ]
