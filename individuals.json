@@ -2069,7 +2069,7 @@
     },
     {
         "id": "e5ddd4ab-32fb-4b83-b168-72334bb5e820",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Yash Handa",
