@@ -845,5 +845,31 @@
             "signedByTitle": "CTO",
             "signedAt": "2020-01-27T15:01:05.388Z"
         }
+    },
+    {
+        "id": "5d764930-3dd6-4523-82b5-413fbdfbe316",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Amazon.com Services LLC",
+            "address": "410 Terry Avenue North, Seattle, WA 98109-5210 ",
+            "url": "https://www.amazon.com/",
+            "gitHubOrganization": "Amazon-WHATWG",
+            "contact1": {
+                "name": "Addison Phillips ",
+                "email": "addison@lab126.com",
+                "gitHubID": "aphillips"
+            },
+            "contact2": {
+                "name": "James Peddicord",
+                "email": "peddicor@amazon.com",
+                "gitHubID": "jpeddicord"
+            }
+        },
+        "signature": {
+            "signedBy": "Michael Deal",
+            "signedByTitle": "President",
+            "signedAt": "2020-05-02T16:54:56.819Z"
+        }
     }
 ]
