@@ -2102,5 +2102,17 @@
         "signature": {
             "signedAt": "2020-04-29T02:45:24.875Z"
         }
+    },
+    {
+        "id": "36c50c7c-18d5-4f79-96e6-bba98c7e6606",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Julian Clot",
+            "gitHubID": "jclot"
+        },
+        "signature": {
+            "signedAt": "2020-05-10T05:57:40.954Z"
+        }
     }
 ]
