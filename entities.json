@@ -848,7 +848,7 @@
     },
     {
         "id": "5d764930-3dd6-4523-82b5-413fbdfbe316",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Amazon.com Services LLC",
