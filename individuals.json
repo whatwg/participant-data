@@ -2114,5 +2114,17 @@
         "signature": {
             "signedAt": "2020-05-10T05:57:40.954Z"
         }
+    },
+    {
+        "id": "5cf94d38-2c8b-4601-a5de-21b57eecdb25",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "René Schwarz",
+            "gitHubID": "DigNative"
+        },
+        "signature": {
+            "signedAt": "2020-05-15T09:24:46.738Z"
+        }
     }
 ]
