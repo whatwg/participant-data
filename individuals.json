@@ -2126,5 +2126,17 @@
         "signature": {
             "signedAt": "2020-05-15T09:24:46.738Z"
         }
+    },
+    {
+        "id": "deceed69-f8d6-45df-8346-d08698f1827e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Benji Bilheimer",
+            "gitHubID": "benjibee"
+        },
+        "signature": {
+            "signedAt": "2020-05-20T08:54:26.867Z"
+        }
     }
 ]
