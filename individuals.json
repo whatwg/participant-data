@@ -2138,5 +2138,17 @@
         "signature": {
             "signedAt": "2020-05-20T08:54:26.867Z"
         }
+    },
+    {
+        "id": "25570ed8-c78d-47be-bca1-8c5d7428f529",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hasnat Aslam",
+            "gitHubID": "HasnatJutt"
+        },
+        "signature": {
+            "signedAt": "2020-05-24T22:25:34.055Z"
+        }
     }
 ]
