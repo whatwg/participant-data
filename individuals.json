@@ -2162,5 +2162,17 @@
         "signature": {
             "signedAt": "2020-05-26T15:43:58.223Z"
         }
+    },
+    {
+        "id": "36812f9d-dfff-4ba9-925c-e144bf8dbb44",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Antoni Kepinski",
+            "gitHubID": "xxczaki"
+        },
+        "signature": {
+            "signedAt": "2020-05-26T21:21:22.184Z"
+        }
     }
 ]
