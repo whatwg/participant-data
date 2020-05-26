@@ -2150,5 +2150,17 @@
         "signature": {
             "signedAt": "2020-05-24T22:25:34.055Z"
         }
+    },
+    {
+        "id": "e6f5aed2-870d-495b-aba4-fba5af57ed94",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Darryl Pogue",
+            "gitHubID": "dpogue"
+        },
+        "signature": {
+            "signedAt": "2020-05-26T15:43:58.223Z"
+        }
     }
 ]
