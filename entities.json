@@ -871,5 +871,26 @@
             "signedByTitle": "President",
             "signedAt": "2020-05-02T16:54:56.819Z"
         }
+    },
+    {
+        "id": "9c6d7c10-5329-4d03-bc99-b3fc7e66af91",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "WHARFWEBSITE PTY LTD",
+            "address": "PO BOX 299, CRAIGIEBURN, STATE OF VICTORIA 3064, BRITISH COMMONWEALTH OF AUSTRALIA",
+            "url": "https://wharf.website/",
+            "gitHubOrganization": "Iniftar",
+            "contact1": {
+                "name": "Adib Murshed",
+                "email": "adib@flatfur.com",
+                "gitHubID": "AdibMurshed"
+            }
+        },
+        "signature": {
+            "signedBy": "ADIB MURSHED",
+            "signedByTitle": "CHAIRPERSON",
+            "signedAt": "2020-05-30T12:27:58.339Z"
+        }
     }
 ]
