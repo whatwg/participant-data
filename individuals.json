@@ -2174,5 +2174,28 @@
         "signature": {
             "signedAt": "2020-05-26T21:21:22.184Z"
         }
+    },
+    {
+        "id": "c1689cc3-ef5d-4e2b-9756-061e3ca04e27",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "fetch",
+            "fullscreen",
+            "html",
+            "notifications",
+            "quirks",
+            "storage",
+            "url"
+        ],
+        "info": {
+            "name": "Schalk Neethling",
+            "gitHubID": "schalkneethling"
+        },
+        "signature": {
+            "signedAt": "2020-05-31T09:39:35.312Z"
+        }
     }
 ]
