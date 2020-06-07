@@ -2186,5 +2186,17 @@
         "signature": {
             "signedAt": "2020-06-02T13:07:07.292Z"
         }
+    },
+    {
+        "id": "8f824213-5154-4f48-afbd-3a91b32d964f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Vipul Sinha",
+            "gitHubID": "vsasvipul0605"
+        },
+        "signature": {
+            "signedAt": "2020-06-07T12:27:25.655Z"
+        }
     }
 ]
