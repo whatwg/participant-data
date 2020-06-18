@@ -2210,5 +2210,17 @@
         "signature": {
             "signedAt": "2020-06-18T15:19:42.622Z"
         }
+    },
+    {
+        "id": "d3a3512d-0824-4363-9a64-e61041add70c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jordan Harband",
+            "gitHubID": "LJHarb"
+        },
+        "signature": {
+            "signedAt": "2020-06-18T21:22:54.938Z"
+        }
     }
 ]
