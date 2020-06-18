@@ -2198,17 +2198,5 @@
         "signature": {
             "signedAt": "2020-06-07T12:27:25.655Z"
         }
-    },
-    {
-        "id": "71770218-855c-4ae8-8217-7279dbbee287",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Tester Testsson",
-            "gitHubID": "foolip"
-        },
-        "signature": {
-            "signedAt": "2020-06-18T15:19:42.622Z"
-        }
     }
 ]
