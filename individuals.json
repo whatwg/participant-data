@@ -2200,18 +2200,6 @@
         }
     },
     {
-        "id": "71770218-855c-4ae8-8217-7279dbbee287",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Tester Testsson",
-            "gitHubID": "foolip"
-        },
-        "signature": {
-            "signedAt": "2020-06-18T15:19:42.622Z"
-        }
-    },
-    {
         "id": "d3a3512d-0824-4363-9a64-e61041add70c",
         "verified": true,
         "workstreams": "all",
