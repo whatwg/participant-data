@@ -2213,7 +2213,7 @@
     },
     {
         "id": "d3a3512d-0824-4363-9a64-e61041add70c",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Jordan Harband",
