@@ -2210,5 +2210,17 @@
         "signature": {
             "signedAt": "2020-06-18T21:22:54.938Z"
         }
+    },
+    {
+        "id": "4276576b-ac8f-44af-bb7b-52edee076de2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Beatriz Rezener Dourado Matos",
+            "gitHubID": "beatrizrezener"
+        },
+        "signature": {
+            "signedAt": "2020-06-20T21:03:38.169Z"
+        }
     }
 ]
