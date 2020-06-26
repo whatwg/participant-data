@@ -2032,18 +2032,6 @@
         }
     },
     {
-        "id": "1186676b-0804-41ae-b6f9-ca218b6d7d78",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Yi Xu",
-            "gitHubID": "yiyix"
-        },
-        "signature": {
-            "signedAt": "2020-04-02T17:15:55.441Z"
-        }
-    },
-    {
         "id": "d2dc6920-239c-402f-8a79-42784e6014d7",
         "verified": false,
         "workstreams": "all",
