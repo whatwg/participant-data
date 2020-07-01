@@ -2210,5 +2210,17 @@
         "signature": {
             "signedAt": "2020-06-20T21:03:38.169Z"
         }
+    },
+    {
+        "id": "ac58c84b-800a-4573-9b96-1220193acf97",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "LiShaoyang",
+            "gitHubID": "ShawnLee2018"
+        },
+        "signature": {
+            "signedAt": "2020-07-01T11:04:36.769Z"
+        }
     }
 ]
