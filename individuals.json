@@ -2225,7 +2225,7 @@
     },
     {
         "id": "12593733-b233-45b9-91cc-1daedb3d65e2",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "James Browning",
