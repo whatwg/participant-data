@@ -2222,5 +2222,17 @@
         "signature": {
             "signedAt": "2020-07-01T11:04:36.769Z"
         }
+    },
+    {
+        "id": "12593733-b233-45b9-91cc-1daedb3d65e2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "James Browning",
+            "gitHubID": "Jamesernator"
+        },
+        "signature": {
+            "signedAt": "2020-07-07T11:49:17.146Z"
+        }
     }
 ]
