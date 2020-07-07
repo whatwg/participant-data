@@ -895,7 +895,7 @@
     },
     {
         "id": "a43ee698-ebc5-4d02-b089-1b775e5168e2",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Powermapper Software Limited",
