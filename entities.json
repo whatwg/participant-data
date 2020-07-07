@@ -892,5 +892,26 @@
             "signedByTitle": "CHAIRPERSON",
             "signedAt": "2020-05-30T12:27:58.339Z"
         }
+    },
+    {
+        "id": "a43ee698-ebc5-4d02-b089-1b775e5168e2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Powermapper Software Limited",
+            "address": "9-10 St. Andrew Square, Edinburgh, UK",
+            "url": "https://www.powermapper.com/",
+            "gitHubOrganization": "powermapper",
+            "contact1": {
+                "name": "Mark Rogers",
+                "email": "mark.rogers@powermapper.com",
+                "gitHubID": "dd8"
+            }
+        },
+        "signature": {
+            "signedBy": "Mark Rogers",
+            "signedByTitle": "CEO",
+            "signedAt": "2020-07-07T14:14:06.402Z"
+        }
     }
 ]
