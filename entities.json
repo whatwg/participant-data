@@ -913,5 +913,26 @@
             "signedByTitle": "CEO",
             "signedAt": "2020-07-07T14:14:06.402Z"
         }
+    },
+    {
+        "id": "90f096e2-460d-4dd9-8338-8910d23b68ab",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "British Broadcasting Corporation",
+            "address": "BBC Broadcasting House, Portland Place, London, W1A 1AA, United Kingdom",
+            "url": "https://www.bbc.co.uk/",
+            "gitHubOrganization": "bbc",
+            "contact1": {
+                "name": "Chris Needham",
+                "email": "chris.needham@bbc.co.uk",
+                "gitHubID": "chrisn"
+            }
+        },
+        "signature": {
+            "signedBy": "Chris Needham",
+            "signedByTitle": "Principal Software Engineer",
+            "signedAt": "2020-07-09T13:39:16.383Z"
+        }
     }
 ]
