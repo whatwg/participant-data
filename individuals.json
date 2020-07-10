@@ -2234,5 +2234,17 @@
         "signature": {
             "signedAt": "2020-07-07T11:49:17.146Z"
         }
+    },
+    {
+        "id": "58d6ffa2-897e-496b-b356-b7cbd6630e17",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Martin Janecke",
+            "gitHubID": "prlbr"
+        },
+        "signature": {
+            "signedAt": "2020-07-10T22:10:28.497Z"
+        }
     }
 ]
