@@ -2246,5 +2246,17 @@
         "signature": {
             "signedAt": "2020-07-10T22:10:28.497Z"
         }
+    },
+    {
+        "id": "b6f84eb1-2cf4-4903-a6c8-f656914b320e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Soichiro Hayashi",
+            "gitHubID": "grgr-dkrk"
+        },
+        "signature": {
+            "signedAt": "2020-07-13T01:01:57.660Z"
+        }
     }
 ]
