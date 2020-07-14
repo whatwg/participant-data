@@ -2249,7 +2249,7 @@
     },
     {
         "id": "b6f84eb1-2cf4-4903-a6c8-f656914b320e",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Soichiro Hayashi",
