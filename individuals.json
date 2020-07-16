@@ -2258,5 +2258,17 @@
         "signature": {
             "signedAt": "2020-07-13T01:01:57.660Z"
         }
+    },
+    {
+        "id": "f8519dd5-2af2-4dfa-b824-385c1289923f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Maxim Tsoy",
+            "gitHubID": "muodov"
+        },
+        "signature": {
+            "signedAt": "2020-07-16T22:14:18.463Z"
+        }
     }
 ]
