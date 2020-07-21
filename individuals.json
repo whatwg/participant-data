@@ -891,7 +891,7 @@
     },
     {
         "id": "e7a4f2b3-edcd-4103-b6ac-cdcd2f2f44f1",
-        "verified": true,
+        "verified": false,
         "workstreams": "all",
         "info": {
             "name": "Yay295",
@@ -1133,7 +1133,7 @@
     },
     {
         "id": "a546e6f6-61fd-404f-ae40-99e415ab193f",
-        "verified": true,
+        "verified": false,
         "workstreams": "all",
         "info": {
             "name": "Osint Opsec",
