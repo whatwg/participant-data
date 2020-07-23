@@ -2261,7 +2261,7 @@
     },
     {
         "id": "f8519dd5-2af2-4dfa-b824-385c1289923f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Maxim Tsoy",
