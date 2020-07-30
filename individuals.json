@@ -2285,7 +2285,7 @@
     },
     {
         "id": "9fb35d5d-0a30-4d9a-a12a-34e7946cb0df",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Toru Kobayashi",
