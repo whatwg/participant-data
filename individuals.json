@@ -2282,5 +2282,17 @@
         "signature": {
             "signedAt": "2020-07-28T09:43:04.258Z"
         }
+    },
+    {
+        "id": "9fb35d5d-0a30-4d9a-a12a-34e7946cb0df",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Toru Kobayashi",
+            "gitHubID": "koba04"
+        },
+        "signature": {
+            "signedAt": "2020-07-30T11:46:32.932Z"
+        }
     }
 ]
