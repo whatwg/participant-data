@@ -2294,5 +2294,17 @@
         "signature": {
             "signedAt": "2020-07-30T11:46:32.932Z"
         }
+    },
+    {
+        "id": "9ac9a19e-b15d-4cc5-a61a-aaa33ce46d29",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kaustubha Govind",
+            "gitHubID": "krgovind"
+        },
+        "signature": {
+            "signedAt": "2020-08-03T23:44:13.782Z"
+        }
     }
 ]
