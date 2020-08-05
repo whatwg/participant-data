@@ -2297,7 +2297,7 @@
     },
     {
         "id": "e3d631c7-e137-4331-ac00-eb9ebffe03f9",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Sean B. Palmer",
