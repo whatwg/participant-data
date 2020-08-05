@@ -2294,5 +2294,17 @@
         "signature": {
             "signedAt": "2020-07-30T11:46:32.932Z"
         }
+    },
+    {
+        "id": "e3d631c7-e137-4331-ac00-eb9ebffe03f9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sean B. Palmer",
+            "gitHubID": "sbp"
+        },
+        "signature": {
+            "signedAt": "2020-08-05T14:16:58.095Z"
+        }
     }
 ]
