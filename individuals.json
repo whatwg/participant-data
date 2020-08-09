@@ -2306,5 +2306,17 @@
         "signature": {
             "signedAt": "2020-08-05T14:16:58.095Z"
         }
+    },
+    {
+        "id": "035f475c-645e-4e6e-bc77-547c888a0e27",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Christoph Päper",
+            "gitHubID": "Crissov"
+        },
+        "signature": {
+            "signedAt": "2020-08-09T13:42:35.259Z"
+        }
     }
 ]
