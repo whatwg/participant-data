@@ -2318,5 +2318,17 @@
         "signature": {
             "signedAt": "2020-08-09T13:42:35.259Z"
         }
+    },
+    {
+        "id": "727233d8-1233-4254-8a3a-ffe7f763ac72",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jesse Mykolyn",
+            "gitHubID": "jrmykolyn"
+        },
+        "signature": {
+            "signedAt": "2020-08-12T16:15:57.550Z"
+        }
     }
 ]
