@@ -2330,5 +2330,17 @@
         "signature": {
             "signedAt": "2020-08-12T16:15:57.550Z"
         }
+    },
+    {
+        "id": "0f755e84-11b0-4043-aab8-c0df7e37b1b2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Daphne Preston-Kendal",
+            "gitHubID": "dpk"
+        },
+        "signature": {
+            "signedAt": "2020-08-14T19:18:03.802Z"
+        }
     }
 ]
