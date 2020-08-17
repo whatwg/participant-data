@@ -2342,5 +2342,17 @@
         "signature": {
             "signedAt": "2020-08-14T19:18:03.802Z"
         }
+    },
+    {
+        "id": "b428b3e4-26b3-4e81-860f-ad57928eb5a4",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Raphael LANG",
+            "gitHubID": "nostalic"
+        },
+        "signature": {
+            "signedAt": "2020-08-17T00:43:08.203Z"
+        }
     }
 ]
