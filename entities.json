@@ -934,5 +934,26 @@
             "signedByTitle": "Principal Software Engineer",
             "signedAt": "2020-07-09T13:39:16.383Z"
         }
+    },
+    {
+        "id": "31da1ea7-6da8-4bd4-b3a0-4054c5d1fd6f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Keio University",
+            "address": " 2-15-45, Mita, Minato-ku, Tokyo, Japan 108-8345",
+            "url": "https://www.keio.ac.jp/en/",
+            "gitHubOrganization": "w3ckeio",
+            "contact1": {
+                "name": "Michael Smith",
+                "email": "mike@w3.org",
+                "gitHubID": "Sideshowbaker"
+            }
+        },
+        "signature": {
+            "signedBy": "Akira Haseyama",
+            "signedByTitle": "President",
+            "signedAt": "2020-08-18T01:41:23.447Z"
+        }
     }
 ]
