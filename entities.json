@@ -937,7 +937,7 @@
     },
     {
         "id": "31da1ea7-6da8-4bd4-b3a0-4054c5d1fd6f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Keio University",
@@ -947,7 +947,7 @@
             "contact1": {
                 "name": "Michael Smith",
                 "email": "mike@w3.org",
-                "gitHubID": "Sideshowbaker"
+                "gitHubID": "sideshowbarker"
             }
         },
         "signature": {
