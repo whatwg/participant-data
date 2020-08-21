@@ -2354,5 +2354,17 @@
         "signature": {
             "signedAt": "2020-08-17T00:43:08.203Z"
         }
+    },
+    {
+        "id": "2d0c3f0e-335c-472a-a027-a9d360b55ae9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Andrea Giammarchi",
+            "gitHubID": "WebReflection"
+        },
+        "signature": {
+            "signedAt": "2020-08-21T08:33:08.297Z"
+        }
     }
 ]
