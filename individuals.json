@@ -2366,5 +2366,17 @@
         "signature": {
             "signedAt": "2020-08-21T08:33:08.297Z"
         }
+    },
+    {
+        "id": "bf28150a-d619-4ae7-a7b4-1e5d7408f618",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Federico Bucchi",
+            "gitHubID": "federicobucchi"
+        },
+        "signature": {
+            "signedAt": "2020-08-22T18:40:26.793Z"
+        }
     }
 ]
