@@ -2378,5 +2378,17 @@
         "signature": {
             "signedAt": "2020-08-22T18:40:26.793Z"
         }
+    },
+    {
+        "id": "a0d3ec62-7586-4ba3-9b24-e3dc72ab5870",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "André Bezerra Lira",
+            "gitHubID": "fearandtrembling"
+        },
+        "signature": {
+            "signedAt": "2020-08-24T14:53:19.758Z"
+        }
     }
 ]
