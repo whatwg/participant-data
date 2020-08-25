@@ -2357,7 +2357,7 @@
     },
     {
         "id": "2d0c3f0e-335c-472a-a027-a9d360b55ae9",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Andrea Giammarchi",
