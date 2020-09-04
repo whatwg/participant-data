@@ -976,5 +976,31 @@
             "signedByTitle": "Software Engineer II",
             "signedAt": "2020-08-27T16:55:07.042Z"
         }
+    },
+    {
+        "id": "04d9aedf-11de-4f7b-be5c-bc8a04d69378",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "eyeo GmbH",
+            "address": "Lichtstr. 25 . 50825 Cologne . Germany",
+            "url": "https://eyeo.com/",
+            "gitHubOrganization": "eyeo-gmbh",
+            "contact1": {
+                "name": "Andrea Giammarchi",
+                "email": "a.giammarchi@eyeo.com",
+                "gitHubID": "WebReflection"
+            },
+            "contact2": {
+                "name": "Shwetank Dixit",
+                "email": "s.dixit@eyeo.com",
+                "gitHubID": "shwetank"
+            }
+        },
+        "signature": {
+            "signedBy": "Andrea Giammarchi",
+            "signedByTitle": "Core Tech Developer",
+            "signedAt": "2020-09-04T13:45:49.286Z"
+        }
     }
 ]
