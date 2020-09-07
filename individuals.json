@@ -2390,5 +2390,17 @@
         "signature": {
             "signedAt": "2020-08-24T14:53:19.758Z"
         }
+    },
+    {
+        "id": "956e4a75-60c7-4a56-b605-2669d3c24bc4",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jordan Stephens",
+            "gitHubID": "jordanstephens"
+        },
+        "signature": {
+            "signedAt": "2020-09-07T12:53:40.420Z"
+        }
     }
 ]
