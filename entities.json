@@ -979,7 +979,7 @@
     },
     {
         "id": "04d9aedf-11de-4f7b-be5c-bc8a04d69378",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "eyeo GmbH",

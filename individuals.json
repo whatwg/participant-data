@@ -2356,18 +2356,6 @@
         }
     },
     {
-        "id": "2d0c3f0e-335c-472a-a027-a9d360b55ae9",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Andrea Giammarchi",
-            "gitHubID": "WebReflection"
-        },
-        "signature": {
-            "signedAt": "2020-08-21T08:33:08.297Z"
-        }
-    },
-    {
         "id": "bf28150a-d619-4ae7-a7b4-1e5d7408f618",
         "verified": false,
         "workstreams": "all",
