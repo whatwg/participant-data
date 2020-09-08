@@ -2393,7 +2393,7 @@
     },
     {
         "id": "956e4a75-60c7-4a56-b605-2669d3c24bc4",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Jordan Stephens",
