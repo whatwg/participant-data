@@ -1002,5 +1002,26 @@
             "signedByTitle": "Core Tech Developer",
             "signedAt": "2020-09-04T13:45:49.286Z"
         }
+    },
+    {
+        "id": "eb495bbc-7173-4405-a112-7fc5f011d74b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Away Team Software Ltd",
+            "address": "Beechey House, 87 Church St, Crowthorne, Berks, RG45 7AW, UK",
+            "url": "https://www.awayteam.co.uk/",
+            "gitHubOrganization": "away-team-software",
+            "contact1": {
+                "name": "Rob Smith",
+                "email": "rob.smith@awayteam.co.uk",
+                "gitHubID": "rjksmith"
+            }
+        },
+        "signature": {
+            "signedBy": "Rob Smith",
+            "signedByTitle": "Director",
+            "signedAt": "2020-09-09T13:18:34.110Z"
+        }
     }
 ]
