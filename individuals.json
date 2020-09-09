@@ -2333,7 +2333,7 @@
     },
     {
         "id": "0f755e84-11b0-4043-aab8-c0df7e37b1b2",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Daphne Preston-Kendal",
