@@ -1023,5 +1023,31 @@
             "signedByTitle": "Director",
             "signedAt": "2020-09-09T13:18:34.110Z"
         }
+    },
+    {
+        "id": "bd840d61-6b54-42ae-8463-dd61e32335f1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Transcend Inc.",
+            "address": "832 Sansome St, San Francisco, CA 94111",
+            "url": "https://transcend.io/",
+            "gitHubOrganization": "transcend-io",
+            "contact1": {
+                "name": "Elijah Grey",
+                "email": "eli@transcend.io",
+                "gitHubID": "eligrey"
+            },
+            "contact2": {
+                "name": "Benjamin Brook",
+                "email": "ben@transcend.io",
+                "gitHubID": "bencmbrook"
+            }
+        },
+        "signature": {
+            "signedBy": "Elijah Grey",
+            "signedByTitle": "Senior Software Engineer",
+            "signedAt": "2020-09-10T02:00:33.385Z"
+        }
     }
 ]
