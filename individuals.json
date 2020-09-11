@@ -2390,5 +2390,28 @@
         "signature": {
             "signedAt": "2020-09-07T12:53:40.420Z"
         }
+    },
+    {
+        "id": "53197d31-6458-48ab-b499-ded8faf5c823",
+        "verified": false,
+        "workstreams": [
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "notifications",
+            "storage",
+            "url",
+            "xhr"
+        ],
+        "info": {
+            "name": "Nishu Goel",
+            "gitHubID": "nishugoel"
+        },
+        "signature": {
+            "signedAt": "2020-09-11T20:00:56.496Z"
+        }
     }
 ]
