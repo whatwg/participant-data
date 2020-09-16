@@ -2416,7 +2416,7 @@
     },
     {
         "id": "75b1f6e3-1013-4658-a834-34969d6015c2",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Marcos Cáceres",
