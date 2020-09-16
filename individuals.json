@@ -2425,5 +2425,17 @@
         "signature": {
             "signedAt": "2020-09-15T08:10:25.710Z"
         }
+    },
+    {
+        "id": "d92a40d4-a6a8-4d58-a379-2aa90400f994",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Shaofei Cheng",
+            "gitHubID": "wintercn"
+        },
+        "signature": {
+            "signedAt": "2020-09-16T12:32:12.050Z"
+        }
     }
 ]
