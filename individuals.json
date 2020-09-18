@@ -1,17 +1,5 @@
 [
     {
-        "id": "e2abce66-04cf-41cc-83fc-85994d6826ba",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Dominic Farolino",
-            "gitHubID": "domfarolino"
-        },
-        "signature": {
-            "signedAt": "2017-12-11T17:28:37.092Z"
-        }
-    },
-    {
         "id": "e92ec663-915d-4843-9dac-7c4c2c3e8a18",
         "verified": true,
         "workstreams": "all",
@@ -2041,18 +2029,6 @@
         },
         "signature": {
             "signedAt": "2020-04-05T20:19:05.163Z"
-        }
-    },
-    {
-        "id": "81f04734-f0e1-41a4-bc07-507315113de5",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Mason Freed",
-            "gitHubID": "mfreed7"
-        },
-        "signature": {
-            "signedAt": "2020-04-17T22:08:40.519Z"
         }
     },
     {
