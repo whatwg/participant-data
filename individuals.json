@@ -2415,6 +2415,18 @@
         }
     },
     {
+        "id": "297d29e1-1987-42ea-89a0-9a7f891b814d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Oisín Nolan",
+            "gitHubID": "oisinnolan"
+        },
+        "signature": {
+            "signedAt": "2020-09-17T11:43:59.413Z"
+        }
+    },
+    {
         "id": "29ee424e-1bcd-4058-9f41-d65f503f6073",
         "verified": false,
         "workstreams": "all",
