@@ -2425,5 +2425,17 @@
         "signature": {
             "signedAt": "2020-09-21T05:49:35.384Z"
         }
+    },
+    {
+        "id": "4453d53f-7879-4707-8e73-7a3d32d6fc77",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Fraipont Tristan",
+            "gitHubID": "Kaiido"
+        },
+        "signature": {
+            "signedAt": "2020-09-21T12:02:45.773Z"
+        }
     }
 ]
