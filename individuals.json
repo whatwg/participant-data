@@ -2416,7 +2416,7 @@
     },
     {
         "id": "297d29e1-1987-42ea-89a0-9a7f891b814d",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Oisín Nolan",
