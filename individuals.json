@@ -2461,5 +2461,17 @@
         "signature": {
             "signedAt": "2020-09-21T13:13:08.486Z"
         }
+    },
+    {
+        "id": "87b5b2df-9458-4d01-b16d-844a8a9500b3",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alwin Blok",
+            "gitHubID": "alwinb"
+        },
+        "signature": {
+            "signedAt": "2020-09-23T14:31:54.139Z"
+        }
     }
 ]
