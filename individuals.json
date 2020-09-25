@@ -2473,5 +2473,17 @@
         "signature": {
             "signedAt": "2020-09-23T14:31:54.139Z"
         }
+    },
+    {
+        "id": "a2788638-57fe-4e96-a760-5ea1e8457233",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Eric Skoglund",
+            "gitHubID": "EricIO"
+        },
+        "signature": {
+            "signedAt": "2020-09-25T18:02:11.493Z"
+        }
     }
 ]
