@@ -2485,17 +2485,5 @@
         "signature": {
             "signedAt": "2020-09-25T18:02:11.493Z"
         }
-    },
-    {
-        "id": "52358928-f71f-4569-8b22-29e27da19fa7",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Rob Smith",
-            "gitHubID": "rjksmith"
-        },
-        "signature": {
-            "signedAt": "2020-09-27T21:21:41.246Z"
-        }
     }
 ]
