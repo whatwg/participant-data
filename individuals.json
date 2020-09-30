@@ -2464,7 +2464,7 @@
     },
     {
         "id": "87b5b2df-9458-4d01-b16d-844a8a9500b3",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Alwin Blok",
