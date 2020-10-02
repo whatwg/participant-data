@@ -2497,5 +2497,17 @@
         "signature": {
             "signedAt": "2020-09-28T10:29:08.231Z"
         }
+    },
+    {
+        "id": "fcd974bd-4299-4fd7-a48a-567cd14d10bc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Javes Bastatas",
+            "gitHubID": "JavesBastatas"
+        },
+        "signature": {
+            "signedAt": "2020-10-02T01:45:46.637Z"
+        }
     }
 ]
