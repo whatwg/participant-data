@@ -2509,5 +2509,17 @@
         "signature": {
             "signedAt": "2020-10-02T01:45:46.637Z"
         }
+    },
+    {
+        "id": "60b97900-a6be-4e4c-b80c-3965ff69e840",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Michael Stone",
+            "gitHubID": "stonemic2293"
+        },
+        "signature": {
+            "signedAt": "2020-10-04T12:11:12.729Z"
+        }
     }
 ]
