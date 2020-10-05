@@ -2521,5 +2521,33 @@
         "signature": {
             "signedAt": "2020-10-04T12:11:12.729Z"
         }
+    },
+    {
+        "id": "60b27cc8-413a-42fd-a107-2cd259b56007",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "url",
+            "xhr"
+        ],
+        "info": {
+            "name": "Thomas Hori",
+            "gitHubID": "harjitmoe"
+        },
+        "signature": {
+            "signedAt": "2020-10-05T13:47:54.871Z"
+        }
     }
 ]
