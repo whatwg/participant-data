@@ -2561,5 +2561,17 @@
         "signature": {
             "signedAt": "2020-10-07T13:59:00.474Z"
         }
+    },
+    {
+        "id": "d8b71522-e909-476b-9fbf-9d416ebe42db",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Taha Dharamsi",
+            "gitHubID": "tahanzania"
+        },
+        "signature": {
+            "signedAt": "2020-10-07T16:25:55.145Z"
+        }
     }
 ]
