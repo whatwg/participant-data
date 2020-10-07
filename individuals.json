@@ -2549,5 +2549,17 @@
         "signature": {
             "signedAt": "2020-10-05T13:47:54.871Z"
         }
+    },
+    {
+        "id": "53d1ab6f-00c9-469b-b9e1-85bd3d44315a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Baptiste Destombes",
+            "gitHubID": "t1st3"
+        },
+        "signature": {
+            "signedAt": "2020-10-07T13:59:00.474Z"
+        }
     }
 ]
