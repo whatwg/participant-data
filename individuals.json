@@ -2573,5 +2573,17 @@
         "signature": {
             "signedAt": "2020-10-07T16:25:55.145Z"
         }
+    },
+    {
+        "id": "4d002ef9-9996-4597-91bf-c85d5679524c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Andrew Macpherson",
+            "gitHubID": "fuzzbomb"
+        },
+        "signature": {
+            "signedAt": "2020-10-18T10:15:08.668Z"
+        }
     }
 ]
