@@ -2585,5 +2585,17 @@
         "signature": {
             "signedAt": "2020-10-18T10:15:08.668Z"
         }
+    },
+    {
+        "id": "f1dbf1cc-01cc-479a-9486-83eaeacfee89",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Art Bergquist",
+            "gitHubID": "abergquist"
+        },
+        "signature": {
+            "signedAt": "2020-10-22T02:27:15.056Z"
+        }
     }
 ]
