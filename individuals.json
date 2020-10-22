@@ -2597,5 +2597,17 @@
         "signature": {
             "signedAt": "2020-10-22T02:27:15.056Z"
         }
+    },
+    {
+        "id": "8ef2a9f3-a16a-443f-ac4e-f5e6d913be35",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Cem",
+            "gitHubID": "ctur"
+        },
+        "signature": {
+            "signedAt": "2020-10-22T11:25:45.196Z"
+        }
     }
 ]
