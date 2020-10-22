@@ -2600,10 +2600,10 @@
     },
     {
         "id": "8ef2a9f3-a16a-443f-ac4e-f5e6d913be35",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
-            "name": "Cem",
+            "name": "Cem Turesoy",
             "gitHubID": "ctur"
         },
         "signature": {
