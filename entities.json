@@ -1049,5 +1049,26 @@
             "signedByTitle": "Senior Software Engineer",
             "signedAt": "2020-09-10T02:00:33.385Z"
         }
+    },
+    {
+        "id": "b21c463e-0f35-46e1-b29a-5e17071d6d99",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "blind man",
+            "address": "6853s Florentine way",
+            "url": "https://blindmanyo22/",
+            "gitHubOrganization": "workstream",
+            "contact1": {
+                "name": "blind man",
+                "email": "blindmanyo@gmail.com",
+                "gitHubID": "blindmanyo"
+            }
+        },
+        "signature": {
+            "signedBy": "blind man",
+            "signedByTitle": "thing",
+            "signedAt": "2020-11-02T11:26:13.562Z"
+        }
     }
 ]
