@@ -2621,5 +2621,17 @@
         "signature": {
             "signedAt": "2020-11-05T15:26:29.443Z"
         }
+    },
+    {
+        "id": "d2c92a44-cb7b-4552-ba71-d298b8ec8484",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yu Huojiang",
+            "gitHubID": "jddxf"
+        },
+        "signature": {
+            "signedAt": "2020-11-06T20:32:11.295Z"
+        }
     }
 ]
