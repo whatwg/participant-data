@@ -2636,7 +2636,7 @@
     },
     {
         "id": "c517f7d0-856a-4ee4-ac76-be093741f6f0",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Benjamin Gruenbaum",
