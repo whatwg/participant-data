@@ -2633,5 +2633,17 @@
         "signature": {
             "signedAt": "2020-11-06T20:32:11.295Z"
         }
+    },
+    {
+        "id": "c517f7d0-856a-4ee4-ac76-be093741f6f0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Benjamin Gruenbaum",
+            "gitHubID": "benjamingr"
+        },
+        "signature": {
+            "signedAt": "2020-11-10T08:18:02.092Z"
+        }
     }
 ]
