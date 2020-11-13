@@ -2645,5 +2645,19 @@
         "signature": {
             "signedAt": "2020-11-10T08:18:02.092Z"
         }
+    },
+    {
+        "id": "41f66417-2fa3-4b5f-ab71-84508ca4d3a0",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Olushesi Toheeb",
+            "gitHubID": "olushesitoheeb"
+        },
+        "signature": {
+            "signedAt": "2020-11-13T17:36:58.881Z"
+        }
     }
 ]
