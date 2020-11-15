@@ -2659,5 +2659,17 @@
         "signature": {
             "signedAt": "2020-11-13T17:36:58.881Z"
         }
+    },
+    {
+        "id": "a637a4e2-e4a2-46d5-95ed-fb4bac59e697",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Franklin Shirley",
+            "gitHubID": "145recordings"
+        },
+        "signature": {
+            "signedAt": "2020-11-15T05:34:32.747Z"
+        }
     }
 ]
