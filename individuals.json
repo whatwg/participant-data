@@ -2662,7 +2662,7 @@
     },
     {
         "id": "a637a4e2-e4a2-46d5-95ed-fb4bac59e697",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Franklin Shirley",
