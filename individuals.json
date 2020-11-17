@@ -2671,5 +2671,17 @@
         "signature": {
             "signedAt": "2020-11-15T05:34:32.747Z"
         }
+    },
+    {
+        "id": "5f7bd9c4-e3dd-4d96-911e-46c92aa173bf",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yusuke Abe",
+            "gitHubID": "chansuke"
+        },
+        "signature": {
+            "signedAt": "2020-11-17T10:03:22.244Z"
+        }
     }
 ]
