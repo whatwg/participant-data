@@ -2695,5 +2695,17 @@
         "signature": {
             "signedAt": "2020-11-19T02:37:50.536Z"
         }
+    },
+    {
+        "id": "50166ca2-f73f-49dc-9291-e86e08c931fd",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yukai Chou",
+            "gitHubID": "muzimuzhi"
+        },
+        "signature": {
+            "signedAt": "2020-11-19T10:58:55.427Z"
+        }
     }
 ]
