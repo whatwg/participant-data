@@ -2683,5 +2683,17 @@
         "signature": {
             "signedAt": "2020-11-17T10:03:22.244Z"
         }
+    },
+    {
+        "id": "d8810163-9b87-4ef4-8e51-3809e40bced5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kyle Koceski",
+            "gitHubID": "koceskik"
+        },
+        "signature": {
+            "signedAt": "2020-11-19T02:37:50.536Z"
+        }
     }
 ]
