@@ -2698,7 +2698,7 @@
     },
     {
         "id": "50166ca2-f73f-49dc-9291-e86e08c931fd",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Yukai Chou",
