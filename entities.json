@@ -1070,26 +1070,5 @@
             "signedByTitle": "thing",
             "signedAt": "2020-11-02T11:26:13.562Z"
         }
-    },
-    {
-        "id": "3efa7065-7948-4e01-9cdc-71445e55209c",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Google",
-            "address": "1600 Amphitheatre Parkway Mountain View, CA 94043",
-            "url": "https://google.com/",
-            "gitHubOrganization": "google",
-            "contact1": {
-                "name": "Dominic Farolino",
-                "email": "domfarolino@gmail.com",
-                "gitHubID": "domfarolino"
-            }
-        },
-        "signature": {
-            "signedBy": "Dominic Farolino",
-            "signedByTitle": "Software Engineer",
-            "signedAt": "2020-11-20T03:35:14.268Z"
-        }
     }
 ]
