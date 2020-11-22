@@ -2707,5 +2707,17 @@
         "signature": {
             "signedAt": "2020-11-19T10:58:55.427Z"
         }
+    },
+    {
+        "id": "b4830b4f-b8ca-4818-821d-ce03306e1565",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Lic. Kai Olaf K e t e l h u t sic",
+            "gitHubID": "SCpSCp"
+        },
+        "signature": {
+            "signedAt": "2020-11-22T08:38:10.895Z"
+        }
     }
 ]
