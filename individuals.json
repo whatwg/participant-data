@@ -2719,5 +2719,17 @@
         "signature": {
             "signedAt": "2020-11-22T08:38:10.895Z"
         }
+    },
+    {
+        "id": "4d04e16b-35ae-4bd1-b652-98e057666a2d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sara Tasche",
+            "gitHubID": "sa-tasche"
+        },
+        "signature": {
+            "signedAt": "2020-11-23T17:26:55.106Z"
+        }
     }
 ]
