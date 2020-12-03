@@ -1070,5 +1070,31 @@
             "signedByTitle": "thing",
             "signedAt": "2020-11-02T11:26:13.562Z"
         }
+    },
+    {
+        "id": "8dba4b3e-6e45-473e-8553-75e86751c682",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mitsue-Links Co., Ltd.",
+            "address": "Sumitomo Fudosan Shinjuku Grand Tower 33F, 8-17-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo JAPAN",
+            "url": "https://www.mitsue.co.jp/",
+            "gitHubOrganization": "mitsue-links",
+            "contact1": {
+                "name": "Naoki Nakamura",
+                "email": "nakamura-naoki@mitsue.co.jp",
+                "gitHubID": "momdo"
+            },
+            "contact2": {
+                "name": "Kiyochika Nakamura",
+                "email": "nakamura-kiyochika@mitsue.co.jp",
+                "gitHubID": "kiyochika"
+            }
+        },
+        "signature": {
+            "signedBy": "Kazuhito Kidachi",
+            "signedByTitle": "CTO",
+            "signedAt": "2020-12-03T09:01:53.203Z"
+        }
     }
 ]
