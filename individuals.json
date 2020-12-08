@@ -2734,7 +2734,7 @@
     },
     {
         "id": "c0c33427-28ba-458b-93e0-e1e419610397",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Max Schulte",
