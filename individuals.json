@@ -2731,5 +2731,17 @@
         "signature": {
             "signedAt": "2020-11-23T17:26:55.106Z"
         }
+    },
+    {
+        "id": "c0c33427-28ba-458b-93e0-e1e419610397",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Max Schulte",
+            "gitHubID": "MaxOSchulte"
+        },
+        "signature": {
+            "signedAt": "2020-12-08T09:38:49.461Z"
+        }
     }
 ]
