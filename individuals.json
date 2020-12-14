@@ -2746,7 +2746,7 @@
     },
     {
         "id": "cfe51bf7-558e-44ea-8552-d54c8995eea7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Anna Sidwell",
