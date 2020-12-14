@@ -2743,5 +2743,17 @@
         "signature": {
             "signedAt": "2020-12-08T09:38:49.461Z"
         }
+    },
+    {
+        "id": "cfe51bf7-558e-44ea-8552-d54c8995eea7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Anna Sidwell",
+            "gitHubID": "takkaria"
+        },
+        "signature": {
+            "signedAt": "2020-12-14T13:53:37.196Z"
+        }
     }
 ]
