@@ -2755,5 +2755,17 @@
         "signature": {
             "signedAt": "2020-12-14T13:53:37.196Z"
         }
+    },
+    {
+        "id": "7e9e89c0-92c2-4c92-8e44-a336efb3f143",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Andre Luiz Ferreira do Nascimento",
+            "gitHubID": "andreluiz28"
+        },
+        "signature": {
+            "signedAt": "2020-12-17T22:39:54.967Z"
+        }
     }
 ]
