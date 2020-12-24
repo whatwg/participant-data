@@ -2767,5 +2767,17 @@
         "signature": {
             "signedAt": "2020-12-17T22:39:54.967Z"
         }
+    },
+    {
+        "id": "1aa6a07e-159c-4b80-8845-f4bf82bbc2ec",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tetsuharu Ohzeki",
+            "gitHubID": "tetsuharuohzeki"
+        },
+        "signature": {
+            "signedAt": "2020-12-24T08:35:36.314Z"
+        }
     }
 ]
