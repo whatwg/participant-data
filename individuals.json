@@ -2779,5 +2779,17 @@
         "signature": {
             "signedAt": "2020-12-24T08:35:36.314Z"
         }
+    },
+    {
+        "id": "01982d02-64e7-4942-b07e-e8fa6cb46908",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Burawi",
+            "gitHubID": "burawi"
+        },
+        "signature": {
+            "signedAt": "2021-01-15T15:26:38.682Z"
+        }
     }
 ]
