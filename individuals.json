@@ -2791,5 +2791,17 @@
         "signature": {
             "signedAt": "2021-01-15T15:26:38.682Z"
         }
+    },
+    {
+        "id": "7267ccb4-f6c7-49ce-88fb-319be1ef2a81",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mayeul Cantan",
+            "gitHubID": "MayeulC"
+        },
+        "signature": {
+            "signedAt": "2021-01-21T18:28:54.516Z"
+        }
     }
 ]
