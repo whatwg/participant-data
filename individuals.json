@@ -2803,5 +2803,17 @@
         "signature": {
             "signedAt": "2021-01-21T18:28:54.516Z"
         }
+    },
+    {
+        "id": "446ca469-7b79-4544-a23c-818227a79a96",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Rashika Jaggi",
+            "gitHubID": "Rashika101"
+        },
+        "signature": {
+            "signedAt": "2021-01-24T13:11:18.045Z"
+        }
     }
 ]
