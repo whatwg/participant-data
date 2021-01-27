@@ -2815,5 +2815,17 @@
         "signature": {
             "signedAt": "2021-01-24T13:11:18.045Z"
         }
+    },
+    {
+        "id": "1826867f-c50c-44b4-9a8f-9bba49dac3b4",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Frank Prins",
+            "gitHubID": "PrinsFrank"
+        },
+        "signature": {
+            "signedAt": "2021-01-27T13:56:40.045Z"
+        }
     }
 ]
