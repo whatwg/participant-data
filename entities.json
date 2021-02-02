@@ -482,7 +482,8 @@
         "id": "6c4ef136-eb6a-4581-98ea-581af399af63",
         "verified": true,
         "workstreams": [
-            "html"
+            "html",
+            "fetch"
         ],
         "info": {
             "name": "Intel Corporation",
