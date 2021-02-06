@@ -2839,5 +2839,17 @@
         "signature": {
             "signedAt": "2021-02-02T02:32:37.018Z"
         }
+    },
+    {
+        "id": "5760a319-eb2a-476c-946e-1d23f05f430f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "захарыч_андрюха _айварович",
+            "gitHubID": "crypto-mantra"
+        },
+        "signature": {
+            "signedAt": "2021-02-06T13:02:43.281Z"
+        }
     }
 ]
