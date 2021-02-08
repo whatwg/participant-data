@@ -2851,5 +2851,17 @@
         "signature": {
             "signedAt": "2021-02-06T13:02:43.281Z"
         }
+    },
+    {
+        "id": "c39189a5-06b1-494c-88bb-5475fc61f716",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ikko Ashimine",
+            "gitHubID": "eltociear"
+        },
+        "signature": {
+            "signedAt": "2021-02-08T09:39:49.215Z"
+        }
     }
 ]
