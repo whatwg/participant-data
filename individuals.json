@@ -2863,5 +2863,17 @@
         "signature": {
             "signedAt": "2021-02-08T09:39:49.215Z"
         }
+    },
+    {
+        "id": "23aa2f5c-75e8-4752-87c8-09a200511443",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dylan Harris",
+            "gitHubID": "devongarde"
+        },
+        "signature": {
+            "signedAt": "2021-02-09T09:17:42.979Z"
+        }
     }
 ]
