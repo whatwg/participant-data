@@ -2875,5 +2875,17 @@
         "signature": {
             "signedAt": "2021-02-09T09:17:42.979Z"
         }
+    },
+    {
+        "id": "c16d4d23-73d7-48ce-9d77-bf7ee08d98af",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chulki Lee",
+            "gitHubID": "chulkilee"
+        },
+        "signature": {
+            "signedAt": "2021-02-11T02:56:59.656Z"
+        }
     }
 ]
