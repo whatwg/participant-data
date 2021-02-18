@@ -2899,5 +2899,17 @@
         "signature": {
             "signedAt": "2021-02-13T16:06:21.599Z"
         }
+    },
+    {
+        "id": "86988558-e610-4272-985a-352114bb782a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alex Soncodi",
+            "gitHubID": "soncodi"
+        },
+        "signature": {
+            "signedAt": "2021-02-18T20:21:51.412Z"
+        }
     }
 ]
