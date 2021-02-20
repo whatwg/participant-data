@@ -2935,5 +2935,17 @@
         "signature": {
             "signedAt": "2021-02-20T09:17:52.820Z"
         }
+    },
+    {
+        "id": "e6d0b767-09b2-4ad0-b656-99cdda9a26f5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Eric Bollens",
+            "gitHubID": "ebollens"
+        },
+        "signature": {
+            "signedAt": "2021-02-20T18:47:48.045Z"
+        }
     }
 ]
