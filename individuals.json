@@ -2947,5 +2947,17 @@
         "signature": {
             "signedAt": "2021-02-20T18:47:48.045Z"
         }
+    },
+    {
+        "id": "c9f6f636-1ef6-4f85-88ff-5c8f4b33f9e6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alexandre Morgaut",
+            "gitHubID": "AMorgaut"
+        },
+        "signature": {
+            "signedAt": "2021-02-25T10:07:58.693Z"
+        }
     }
 ]
