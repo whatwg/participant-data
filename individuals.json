@@ -2959,5 +2959,17 @@
         "signature": {
             "signedAt": "2021-02-25T10:07:58.693Z"
         }
+    },
+    {
+        "id": "7dfa0255-bef6-4e9d-bdf2-226f4c89e1e7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ivan Panchenko",
+            "gitHubID": "ivan-pan"
+        },
+        "signature": {
+            "signedAt": "2021-02-28T01:01:37.245Z"
+        }
     }
 ]
