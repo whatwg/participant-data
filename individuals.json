@@ -2141,7 +2141,7 @@
     },
     {
         "id": "1e5f88c2-7e1a-454c-af11-1b6c93eb64f0",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Karl Wagner",
