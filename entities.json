@@ -1097,5 +1097,28 @@
             "signedByTitle": "CTO",
             "signedAt": "2020-12-03T09:01:53.203Z"
         }
+    },
+    {
+        "id": "ae4c945a-67dc-4dc1-90ab-957565e912c7",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Rivoal Technology",
+            "address": "24 Bocho, Fukakusa, Fushimiku, Kyoto, Japan",
+            "url": "https://tech.rivoal.net/",
+            "gitHubOrganization": "Rivoal-Technology",
+            "contact1": {
+                "name": "Florian Rivoal",
+                "email": "whatwg@florian.rivoal.net",
+                "gitHubID": "frivoal"
+            }
+        },
+        "signature": {
+            "signedBy": "Florian Rivoal",
+            "signedByTitle": "General Manager",
+            "signedAt": "2021-03-04T09:13:19.777Z"
+        }
     }
 ]
