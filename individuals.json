@@ -2971,5 +2971,17 @@
         "signature": {
             "signedAt": "2021-02-28T01:01:37.245Z"
         }
+    },
+    {
+        "id": "eeea3487-03fb-4cd9-a3c3-7f26b87977dd",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "James M Snell",
+            "gitHubID": "jasnell"
+        },
+        "signature": {
+            "signedAt": "2021-03-11T15:55:52.945Z"
+        }
     }
 ]
