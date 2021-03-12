@@ -2974,7 +2974,7 @@
     },
     {
         "id": "eeea3487-03fb-4cd9-a3c3-7f26b87977dd",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "James M Snell",
