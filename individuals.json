@@ -2986,7 +2986,7 @@
     },
     {
         "id": "256cfd88-2141-4e14-a789-4b4a9505ea9f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Yukio Hirose",
