@@ -3007,5 +3007,17 @@
         "signature": {
             "signedAt": "2021-03-18T16:42:23.701Z"
         }
+    },
+    {
+        "id": "dc94e05a-dbf7-43ac-a3b0-85a918983ca5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Shogo Sensui",
+            "gitHubID": "1000ch"
+        },
+        "signature": {
+            "signedAt": "2021-03-20T11:04:41.315Z"
+        }
     }
 ]
