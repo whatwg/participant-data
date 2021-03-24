@@ -3019,5 +3019,17 @@
         "signature": {
             "signedAt": "2021-03-20T11:04:41.315Z"
         }
+    },
+    {
+        "id": "2cb1f7c0-e646-4493-a562-ac4aab9d8ccc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ryan Wilson",
+            "gitHubID": "deopdeop"
+        },
+        "signature": {
+            "signedAt": "2021-03-24T13:28:00.259Z"
+        }
     }
 ]
