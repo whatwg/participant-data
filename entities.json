@@ -1123,7 +1123,7 @@
     },
     {
         "id": "4ba6148c-972b-4369-89d7-c2f79009ac92",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Noam Rosenthal",
