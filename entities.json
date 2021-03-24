@@ -1120,5 +1120,26 @@
             "signedByTitle": "General Manager",
             "signedAt": "2021-03-04T09:13:19.777Z"
         }
+    },
+    {
+        "id": "4ba6148c-972b-4369-89d7-c2f79009ac92",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Noam Rosenthal",
+            "address": "Hamaale 18 Pardes-Hanna Israel",
+            "url": "https://github.com/noam-rosenthal",
+            "gitHubOrganization": "noam-rosenthal",
+            "contact1": {
+                "name": "Noam Rosenthal",
+                "email": "noam.j.rosenthal@gmail.com",
+                "gitHubID": "noamr"
+            }
+        },
+        "signature": {
+            "signedBy": "Noam Rosenthal",
+            "signedByTitle": "Software Consultant",
+            "signedAt": "2021-03-24T09:53:54.641Z"
+        }
     }
 ]
