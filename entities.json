@@ -1141,5 +1141,26 @@
             "signedByTitle": "Software Consultant",
             "signedAt": "2021-03-24T09:53:54.641Z"
         }
+    },
+    {
+        "id": "a9886846-f970-4103-8cab-42bcef4a4026",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Birchill, Inc.",
+            "address": "Tokyo Sankei Building 27F, Otemachi 1-7-2, Chiyoda-ku Tokyo 100-0004, Japan",
+            "url": "https://birchill.co.jp/",
+            "gitHubOrganization": "birchill",
+            "contact1": {
+                "name": "Brian Birtles",
+                "email": "brian@birchill.co.jp",
+                "gitHubID": "birtles"
+            }
+        },
+        "signature": {
+            "signedBy": "Brian Birtles",
+            "signedByTitle": "Chief Executive Office",
+            "signedAt": "2021-03-26T04:38:07.816Z"
+        }
     }
 ]
