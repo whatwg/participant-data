@@ -3031,5 +3031,22 @@
         "signature": {
             "signedAt": "2021-03-24T13:28:00.259Z"
         }
+    },
+    {
+        "id": "f32428c3-3387-4501-921a-f76a66c81818",
+        "verified": false,
+        "workstreams": [
+            "dom",
+            "html",
+            "infra",
+            "url"
+        ],
+        "info": {
+            "name": "Yuki Okushi",
+            "gitHubID": "JohnTitor"
+        },
+        "signature": {
+            "signedAt": "2021-04-01T04:19:05.514Z"
+        }
     }
 ]
