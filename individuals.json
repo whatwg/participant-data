@@ -1949,7 +1949,7 @@
     },
     {
         "id": "0fce8e16-b24c-4f49-8897-fa5d8e36e5c9",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Maxwell Winkler",
