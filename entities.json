@@ -1006,7 +1006,7 @@
     },
     {
         "id": "eb495bbc-7173-4405-a112-7fc5f011d74b",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Away Team Software Ltd",
