@@ -2794,7 +2794,7 @@
     },
     {
         "id": "7267ccb4-f6c7-49ce-88fb-319be1ef2a81",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Mayeul Cantan",
