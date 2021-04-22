@@ -3048,5 +3048,17 @@
         "signature": {
             "signedAt": "2021-04-01T04:19:05.514Z"
         }
+    },
+    {
+        "id": "ce44be23-2875-430f-9da0-76a38221ef5d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Osric Wilkinson",
+            "gitHubID": "moosemorals"
+        },
+        "signature": {
+            "signedAt": "2021-04-22T19:22:45.408Z"
+        }
     }
 ]
