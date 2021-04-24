@@ -3060,5 +3060,17 @@
         "signature": {
             "signedAt": "2021-04-22T19:22:45.408Z"
         }
+    },
+    {
+        "id": "89c7cf60-47f1-46d1-bb0e-913082bd6d99",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mitchell John McLaughlin",
+            "gitHubID": "mitc-mcla"
+        },
+        "signature": {
+            "signedAt": "2021-04-24T01:48:40.236Z"
+        }
     }
 ]
