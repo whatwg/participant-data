@@ -1162,5 +1162,31 @@
             "signedByTitle": "Chief Executive Office",
             "signedAt": "2021-03-26T04:38:07.816Z"
         }
+    },
+    {
+        "id": "c2356cf6-c3ca-429c-a537-a0311022272f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Deno Land Inc",
+            "address": "251 LITTLE FALLS DR, WILMINGTON DE 19808-1674, USA",
+            "url": "https://deno.com/",
+            "gitHubOrganization": "denoland",
+            "contact1": {
+                "name": "Ryan Dahl",
+                "email": "ry@deno.com",
+                "gitHubID": "ry"
+            },
+            "contact2": {
+                "name": "Bert Belder",
+                "email": "bert@deno.com",
+                "gitHubID": "piscisaureus"
+            }
+        },
+        "signature": {
+            "signedBy": "Ryan Dahl",
+            "signedByTitle": "CEO",
+            "signedAt": "2021-04-27T17:29:27.412Z"
+        }
     }
 ]
