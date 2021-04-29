@@ -3072,5 +3072,18 @@
         "signature": {
             "signedAt": "2021-04-24T01:48:40.236Z"
         }
+    },
+    {
+        "id": "4f944969-5d96-4cf6-9231-6bf729deea30",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Dominique Hazaël-Massieux",
+            "gitHubID": "dontcallmedom"
+        },
+        "signature": {
+            "signedAt": "2021-04-29T06:15:01.734Z"
+        },
+        "invited": true
     }
 ]
