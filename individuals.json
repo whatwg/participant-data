@@ -3085,5 +3085,17 @@
             "signedAt": "2021-04-29T06:15:01.734Z"
         },
         "invited": true
+    },
+    {
+        "id": "ceedb57a-b96e-4d33-88d8-fdc5249c1cf6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Michal Vašíček",
+            "gitHubID": "vasimi"
+        },
+        "signature": {
+            "signedAt": "2021-05-05T22:44:01.237Z"
+        }
     }
 ]
