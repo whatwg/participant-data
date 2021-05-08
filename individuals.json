@@ -3097,5 +3097,17 @@
         "signature": {
             "signedAt": "2021-05-05T22:44:01.237Z"
         }
+    },
+    {
+        "id": "0711da6e-0461-43ec-bce8-f0e620accfac",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kai Hollberg",
+            "gitHubID": "Schweinepriester"
+        },
+        "signature": {
+            "signedAt": "2021-05-08T04:42:12.484Z"
+        }
     }
 ]
