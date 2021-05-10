@@ -3112,7 +3112,7 @@
     },
     {
         "id": "16358791-f805-444c-b62f-b22e26206cb7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Jens Oliver Meiert",
