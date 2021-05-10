@@ -3121,5 +3121,17 @@
         "signature": {
             "signedAt": "2021-05-10T11:44:28.691Z"
         }
+    },
+    {
+        "id": "dd9347e5-741e-4387-aa8b-27d42da3fe2f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Plamen Dragiyski",
+            "gitHubID": "Dragiyski"
+        },
+        "signature": {
+            "signedAt": "2021-05-10T15:55:55.301Z"
+        }
     }
 ]
