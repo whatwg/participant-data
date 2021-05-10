@@ -3109,5 +3109,17 @@
         "signature": {
             "signedAt": "2021-05-08T04:42:12.484Z"
         }
+    },
+    {
+        "id": "16358791-f805-444c-b62f-b22e26206cb7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jens Oliver Meiert",
+            "gitHubID": "j9t"
+        },
+        "signature": {
+            "signedAt": "2021-05-10T11:44:28.691Z"
+        }
     }
 ]
