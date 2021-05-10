@@ -3100,7 +3100,7 @@
     },
     {
         "id": "0711da6e-0461-43ec-bce8-f0e620accfac",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Kai Hollberg",
