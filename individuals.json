@@ -3124,7 +3124,7 @@
     },
     {
         "id": "dd9347e5-741e-4387-aa8b-27d42da3fe2f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Plamen Dragiyski",
