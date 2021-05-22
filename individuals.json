@@ -2141,7 +2141,7 @@
     },
     {
         "id": "1e5f88c2-7e1a-454c-af11-1b6c93eb64f0",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Karl Wagner",
@@ -2926,7 +2926,7 @@
     },
     {
         "id": "165a83c9-1718-4c5f-9090-26e4f95b9d65",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Satrujit Behera",
@@ -2946,6 +2946,30 @@
         },
         "signature": {
             "signedAt": "2021-02-20T18:47:48.045Z"
+        }
+    },
+    {
+        "id": "c9f6f636-1ef6-4f85-88ff-5c8f4b33f9e6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alexandre Morgaut",
+            "gitHubID": "AMorgaut"
+        },
+        "signature": {
+            "signedAt": "2021-02-25T10:07:58.693Z"
+        }
+    },
+    {
+        "id": "7dfa0255-bef6-4e9d-bdf2-226f4c89e1e7",
+        "verified": true,
+        "workstreams": "all",
+        "info": {
+            "name": "Ivan Panchenko",
+            "gitHubID": "ivan-pan"
+        },
+        "signature": {
+            "signedAt": "2021-02-28T01:01:37.245Z"
         }
     }
 ]
