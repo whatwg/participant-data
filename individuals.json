@@ -3157,5 +3157,17 @@
         "signature": {
             "signedAt": "2021-05-27T06:37:38.676Z"
         }
+    },
+    {
+        "id": "fe92921c-38b4-4512-a514-95bf33211464",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chris de Almeida",
+            "gitHubID": "ctcpip"
+        },
+        "signature": {
+            "signedAt": "2021-05-27T16:26:19.786Z"
+        }
     }
 ]
