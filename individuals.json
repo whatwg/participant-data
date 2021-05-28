@@ -3169,5 +3169,19 @@
         "signature": {
             "signedAt": "2021-05-27T16:26:19.786Z"
         }
+    },
+    {
+        "id": "69aff179-ebbf-4982-8a69-df0fe4dd9f94",
+        "verified": false,
+        "workstreams": [
+            "mimesniff"
+        ],
+        "info": {
+            "name": "Gacel Perfinian",
+            "gitHubID": "gacelperfinian"
+        },
+        "signature": {
+            "signedAt": "2021-05-28T16:52:04.119Z"
+        }
     }
 ]
