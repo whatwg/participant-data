@@ -3183,5 +3183,17 @@
         "signature": {
             "signedAt": "2021-05-28T16:52:04.119Z"
         }
+    },
+    {
+        "id": "f7f11200-d3b0-401e-9d99-de3d5105dfd0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Paul Strobach",
+            "gitHubID": "luap42"
+        },
+        "signature": {
+            "signedAt": "2021-05-30T17:22:43.070Z"
+        }
     }
 ]
