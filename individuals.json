@@ -3195,5 +3195,18 @@
         "signature": {
             "signedAt": "2021-05-30T17:22:43.070Z"
         }
+    },
+    {
+        "id": "53e878a1-6860-463c-a569-d02dc90f9fd1",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Sherri Nicole",
+            "gitHubID": "redspoonfed"
+        },
+        "signature": {
+            "signedAt": "2021-06-06T00:50:41.089Z"
+        },
+        "invited": true
     }
 ]
