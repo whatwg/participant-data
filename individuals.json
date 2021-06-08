@@ -3208,5 +3208,33 @@
             "signedAt": "2021-06-06T00:50:41.089Z"
         },
         "invited": true
+    },
+    {
+        "id": "48379a2e-80eb-414c-992f-666641a895ae",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "url",
+            "xhr"
+        ],
+        "info": {
+            "name": "Chance Shofner",
+            "gitHubID": "xchancex"
+        },
+        "signature": {
+            "signedAt": "2021-06-08T03:33:46.890Z"
+        }
     }
 ]
