@@ -1165,7 +1165,7 @@
     },
     {
         "id": "c2356cf6-c3ca-429c-a537-a0311022272f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Deno Land Inc",
