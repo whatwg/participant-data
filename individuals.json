@@ -3236,5 +3236,17 @@
         "signature": {
             "signedAt": "2021-06-08T03:33:46.890Z"
         }
+    },
+    {
+        "id": "af924737-b17e-4c87-af81-b17c8eaa42eb",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sora Morimoto",
+            "gitHubID": "smorimoto"
+        },
+        "signature": {
+            "signedAt": "2021-06-25T10:18:39.784Z"
+        }
     }
 ]
