@@ -3248,5 +3248,17 @@
         "signature": {
             "signedAt": "2021-06-25T10:18:39.784Z"
         }
+    },
+    {
+        "id": "7c58410e-d852-4fc5-9ad0-e069b0afaa4a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "ninevra",
+            "gitHubID": "ninevra"
+        },
+        "signature": {
+            "signedAt": "2021-06-30T20:31:02.796Z"
+        }
     }
 ]
