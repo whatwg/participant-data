@@ -3260,5 +3260,17 @@
         "signature": {
             "signedAt": "2021-06-30T20:31:02.796Z"
         }
+    },
+    {
+        "id": "6dd81ce7-1483-41df-ba97-7d1c0da15d9c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dennis German",
+            "gitHubID": "DG12"
+        },
+        "signature": {
+            "signedAt": "2021-07-16T19:30:51.458Z"
+        }
     }
 ]
