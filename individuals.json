@@ -3272,5 +3272,17 @@
         "signature": {
             "signedAt": "2021-07-16T19:30:51.458Z"
         }
+    },
+    {
+        "id": "42ba1b38-c501-4320-bdee-a277d7121518",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Aryan Mohanty",
+            "gitHubID": "Aryan-Mohanty"
+        },
+        "signature": {
+            "signedAt": "2021-07-23T06:07:52.477Z"
+        }
     }
 ]
