@@ -2476,7 +2476,7 @@
     },
     {
         "id": "a2788638-57fe-4e96-a760-5ea1e8457233",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Eric Skoglund",
