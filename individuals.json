@@ -3284,5 +3284,17 @@
         "signature": {
             "signedAt": "2021-07-23T06:07:52.477Z"
         }
+    },
+    {
+        "id": "dee6d764-7330-4856-89ca-381c5c887944",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "방성범",
+            "gitHubID": "bangseongbeom"
+        },
+        "signature": {
+            "signedAt": "2021-08-03T16:11:53.119Z"
+        }
     }
 ]
