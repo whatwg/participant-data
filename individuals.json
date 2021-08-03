@@ -3287,7 +3287,7 @@
     },
     {
         "id": "dee6d764-7330-4856-89ca-381c5c887944",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "방성범",
