@@ -3308,5 +3308,17 @@
         "signature": {
             "signedAt": "2021-08-04T18:50:46.781Z"
         }
+    },
+    {
+        "id": "2257c477-7729-46d4-b7bb-b7ea6c03599e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Zhangyuan Nie",
+            "gitHubID": "zhangyuannie"
+        },
+        "signature": {
+            "signedAt": "2021-08-06T16:20:49.431Z"
+        }
     }
 ]
