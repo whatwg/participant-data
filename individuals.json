@@ -3323,7 +3323,7 @@
     },
     {
         "id": "b30c6035-0c51-4d32-99b6-cf581574a7b7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "王华",
