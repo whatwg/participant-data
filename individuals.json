@@ -3332,5 +3332,17 @@
         "signature": {
             "signedAt": "2021-08-11T07:00:57.680Z"
         }
+    },
+    {
+        "id": "da613042-38ee-4d49-b795-cca997ccf7bc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nicolò Ribaudo",
+            "gitHubID": "nicolo-ribaudo"
+        },
+        "signature": {
+            "signedAt": "2021-08-12T12:41:10.645Z"
+        }
     }
 ]
