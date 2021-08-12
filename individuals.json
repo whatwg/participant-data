@@ -3344,5 +3344,17 @@
         "signature": {
             "signedAt": "2021-08-12T12:41:10.645Z"
         }
+    },
+    {
+        "id": "ebcee7a8-7658-4e77-bde3-1b5ce90d1e77",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Terence Eden",
+            "gitHubID": "edent"
+        },
+        "signature": {
+            "signedAt": "2021-08-12T13:51:51.166Z"
+        }
     }
 ]
