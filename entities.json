@@ -1188,5 +1188,26 @@
             "signedByTitle": "CEO",
             "signedAt": "2021-04-27T17:29:27.412Z"
         }
+    },
+    {
+        "id": "78e5bf44-b988-479b-84bc-20e6865ebdf7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sietehr",
+            "address": "na",
+            "url": "https://www.wikipexiah.org/",
+            "gitHubOrganization": "FieldberryGruppe",
+            "contact1": {
+                "name": "Lic. Kai Olaf K e t e l h u t sīc",
+                "email": "kaiolafketelhut187@gmail.com",
+                "gitHubID": "SCpSCp"
+            }
+        },
+        "signature": {
+            "signedBy": "Kai Olaf K e t e l h u t",
+            "signedByTitle": "Dipl.-Ing. (Univ. FU Berlin)",
+            "signedAt": "2021-08-13T08:08:31.011Z"
+        }
     }
 ]
