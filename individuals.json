@@ -3359,7 +3359,7 @@
     },
     {
         "id": "64e4514b-3d76-4e51-aae3-7a0c13e50183",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Tomoaki Kawada",
