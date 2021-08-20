@@ -3356,5 +3356,17 @@
         "signature": {
             "signedAt": "2021-08-12T13:51:51.166Z"
         }
+    },
+    {
+        "id": "64e4514b-3d76-4e51-aae3-7a0c13e50183",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tomoaki Kawada",
+            "gitHubID": "yvt"
+        },
+        "signature": {
+            "signedAt": "2021-08-20T12:17:15.855Z"
+        }
     }
 ]
