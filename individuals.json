@@ -3299,7 +3299,7 @@
     },
     {
         "id": "15eeae98-faaf-4729-805e-6b4f8d2a5636",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Philip Brembeck",
