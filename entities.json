@@ -1209,5 +1209,26 @@
             "signedByTitle": "Dipl.-Ing. (Univ. FU Berlin)",
             "signedAt": "2021-08-13T08:08:31.011Z"
         }
+    },
+    {
+        "id": "493bb66b-7250-481d-965f-443058bda33c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Boffins Technologies",
+            "address": "Russgatan 5",
+            "url": "https://www.boffins.se/",
+            "gitHubOrganization": "nxtedition",
+            "contact1": {
+                "name": "Robert Nagy",
+                "email": "robert@boffins.se",
+                "gitHubID": "ronag"
+            }
+        },
+        "signature": {
+            "signedBy": "Robert Nagy",
+            "signedByTitle": "Lead Developer",
+            "signedAt": "2021-08-30T17:11:04.919Z"
+        }
     }
 ]
