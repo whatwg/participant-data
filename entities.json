@@ -1212,7 +1212,7 @@
     },
     {
         "id": "493bb66b-7250-481d-965f-443058bda33c",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Boffins Technologies",
