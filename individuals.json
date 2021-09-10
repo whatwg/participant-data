@@ -1312,18 +1312,6 @@
         }
     },
     {
-        "id": "5d2e6825-6a83-4d60-beba-65a12f42c33a",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Michael Ficarra",
-            "gitHubID": "michaelficarra"
-        },
-        "signature": {
-            "signedAt": "2019-04-19T01:36:56.627Z"
-        }
-    },
-    {
         "id": "bf52f044-ad0d-47bd-933d-34ac33ded423",
         "verified": true,
         "workstreams": "all",

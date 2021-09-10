@@ -959,7 +959,7 @@
     },
     {
         "id": "0d8c677e-a7b5-404b-b0eb-3eb88c362b30",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "F5 Networks (Shape Security)",
