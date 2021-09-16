@@ -3368,5 +3368,17 @@
         "signature": {
             "signedAt": "2021-08-29T01:16:46.943Z"
         }
+    },
+    {
+        "id": "14bb7e1b-00ca-47df-b93f-d82124dd0f2d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hiroya Uga",
+            "gitHubID": "heppokofrontend"
+        },
+        "signature": {
+            "signedAt": "2021-09-16T20:10:55.632Z"
+        }
     }
 ]
