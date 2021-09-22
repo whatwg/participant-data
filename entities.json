@@ -970,11 +970,16 @@
                 "name": "Andrew Rottier",
                 "email": "a.rottier@f5.com",
                 "gitHubID": "andrewrot"
+            },
+             "contact2": {
+                "name": "Tim Disney",
+                "email": "t.disney@f5.com",
+                "gitHubID": "disnet"
             }
         },
         "signature": {
             "signedBy": "Andrew Rottier",
-            "signedByTitle": "Software Engineer II",
+            "signedByTitle": "Software Engineer III",
             "signedAt": "2020-08-27T16:55:07.042Z"
         }
     },
