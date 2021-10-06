@@ -3404,5 +3404,17 @@
         "signature": {
             "signedAt": "2021-10-06T03:09:39.653Z"
         }
+    },
+    {
+        "id": "d0b054ee-d3f8-4f66-b9b1-8012939bdea4",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "PJ Fancher",
+            "gitHubID": "pjfancher"
+        },
+        "signature": {
+            "signedAt": "2021-10-06T13:22:04.889Z"
+        }
     }
 ]
