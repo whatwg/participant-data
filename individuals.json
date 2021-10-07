@@ -3416,5 +3416,17 @@
         "signature": {
             "signedAt": "2021-10-06T13:22:04.889Z"
         }
+    },
+    {
+        "id": "06052445-08b1-443a-81a0-cc3198ebeba8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Michael Weissbacher",
+            "gitHubID": "mweissbacher"
+        },
+        "signature": {
+            "signedAt": "2021-10-07T03:22:24.675Z"
+        }
     }
 ]
