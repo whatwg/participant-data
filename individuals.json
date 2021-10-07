@@ -3428,5 +3428,17 @@
         "signature": {
             "signedAt": "2021-10-07T03:22:24.675Z"
         }
+    },
+    {
+        "id": "ea50ae0b-81b5-422a-9de6-c7c297feda8d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gerald Wodni",
+            "gitHubID": "GeraldWodni"
+        },
+        "signature": {
+            "signedAt": "2021-10-07T18:05:06.822Z"
+        }
     }
 ]
