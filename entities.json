@@ -58,18 +58,20 @@
             "quirks",
             "storage",
             "streams",
+            "testutils",
             "url",
+            "webidl",
             "xhr"
         ],
         "info": {
             "name": "Mozilla Corporation",
-            "address": "331 E Evelyn Avenue, Mountain View, CA 94041, USA",
+            "address": "2 Harrison Street, Suite 175, San Francisco, CA 94105, USA",
             "url": "https://www.mozilla.org/",
             "gitHubOrganization": "mozilla-standards",
             "contact1": {
-                "name": "L. David Baron",
-                "email": "dbaron@dbaron.org",
-                "gitHubID": "dbaron"
+                "name": "Tantek Çelik",
+                "email": "tantek@mozilla.com",
+                "gitHubID": "tantek"
             },
             "contact2": {
                 "name": "Anne van Kesteren",
