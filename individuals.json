@@ -3440,5 +3440,17 @@
         "signature": {
             "signedAt": "2021-10-07T18:05:06.822Z"
         }
+    },
+    {
+        "id": "fa84ae70-b012-4076-be84-666cd6a8e743",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Moby",
+            "gitHubID": "mahanstreamer"
+        },
+        "signature": {
+            "signedAt": "2021-10-11T15:53:33.870Z"
+        }
     }
 ]
