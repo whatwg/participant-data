@@ -3455,11 +3455,11 @@
     },
     {
         "id": "144ae74a-4e3f-40ad-be39-22944c633ec7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Chirag S Kumar",
-            "gitHubID": "fictionistique"
+            "gitHubID": "Fictionistique"
         },
         "signature": {
             "signedAt": "2021-10-16T09:31:25.402Z"
