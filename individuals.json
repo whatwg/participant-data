@@ -3494,5 +3494,17 @@
         "signature": {
             "signedAt": "2021-10-23T23:13:43.947Z"
         }
+    },
+    {
+        "id": "07ec6d28-9ffc-48c2-a7dc-724fe8e43782",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dan Cătălin Burzo",
+            "gitHubID": "danburzo"
+        },
+        "signature": {
+            "signedAt": "2021-10-27T07:27:40.202Z"
+        }
     }
 ]
