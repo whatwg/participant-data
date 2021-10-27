@@ -3497,7 +3497,7 @@
     },
     {
         "id": "07ec6d28-9ffc-48c2-a7dc-724fe8e43782",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Dan Cătălin Burzo",
