@@ -3518,5 +3518,17 @@
         "signature": {
             "signedAt": "2021-10-28T14:23:48.752Z"
         }
+    },
+    {
+        "id": "b476e76a-81b9-40b9-926d-5d73b0d7692e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Afroze Amjad",
+            "gitHubID": "afroze9"
+        },
+        "signature": {
+            "signedAt": "2021-10-29T05:18:00.462Z"
+        }
     }
 ]
