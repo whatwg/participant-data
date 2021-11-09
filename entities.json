@@ -371,9 +371,9 @@
             "url": "https://www.akamai.com/",
             "gitHubOrganization": "akamai-whatwg",
             "contact1": {
-                "name": "Charles Vazac",
-                "email": "cvazac@akamai.com",
-                "gitHubID": "cvazac"
+                "name": "Nic Jansma",
+                "email": "njansma@akamai.com",
+                "gitHubID": "nicjansma"
             }
         },
         "signature": {
