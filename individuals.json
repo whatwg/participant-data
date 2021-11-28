@@ -3542,5 +3542,17 @@
         "signature": {
             "signedAt": "2021-11-22T20:21:00.098Z"
         }
+    },
+    {
+        "id": "5a23d16a-efec-4c84-8fbf-a5fd1a23bdc0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "James Pryor",
+            "gitHubID": "dubiousjim"
+        },
+        "signature": {
+            "signedAt": "2021-11-28T18:59:04.686Z"
+        }
     }
 ]
