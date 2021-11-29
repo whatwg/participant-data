@@ -3554,5 +3554,17 @@
         "signature": {
             "signedAt": "2021-11-28T18:59:04.686Z"
         }
+    },
+    {
+        "id": "6b856369-6fd8-4cc7-8502-e184860aa141",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kaleidea",
+            "gitHubID": "Kaleidea"
+        },
+        "signature": {
+            "signedAt": "2021-11-29T12:16:22.899Z"
+        }
     }
 ]
