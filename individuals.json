@@ -3566,5 +3566,17 @@
         "signature": {
             "signedAt": "2021-11-29T12:16:22.899Z"
         }
+    },
+    {
+        "id": "d0d064a8-365d-47ed-9418-d411ce1882be",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Samuel Atkins",
+            "gitHubID": "atkinssj"
+        },
+        "signature": {
+            "signedAt": "2021-12-13T16:46:41.130Z"
+        }
     }
 ]
