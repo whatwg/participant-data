@@ -487,7 +487,8 @@
         "verified": true,
         "workstreams": [
             "fetch",
-            "html"
+            "html",
+            "webidl"
         ],
         "info": {
             "name": "Intel Corporation",
