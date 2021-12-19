@@ -3578,5 +3578,17 @@
         "signature": {
             "signedAt": "2021-12-13T16:46:41.130Z"
         }
+    },
+    {
+        "id": "7eca313b-7ba3-4574-8e39-efa8e4ca7f1a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Issei Horie",
+            "gitHubID": "is2ei"
+        },
+        "signature": {
+            "signedAt": "2021-12-19T04:43:42.419Z"
+        }
     }
 ]
