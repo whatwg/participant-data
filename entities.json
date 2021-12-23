@@ -976,7 +976,7 @@
                 "email": "a.rottier@f5.com",
                 "gitHubID": "andrewrot"
             },
-             "contact2": {
+            "contact2": {
                 "name": "Tim Disney",
                 "email": "t.disney@f5.com",
                 "gitHubID": "disnet"
@@ -1239,6 +1239,32 @@
             "signedBy": "Robert Nagy",
             "signedByTitle": "Lead Developer",
             "signedAt": "2021-08-30T17:11:04.919Z"
+        }
+    },
+    {
+        "id": "55540d3f-ffd2-410f-952a-ad9dae5e8ed1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "DAISY Consortium",
+            "address": "Head Office: DAISY Consortium, c/o Swiss Library for the Blind and Visually Impaired (SBS), Grubenstrasse 12, 8045 Zurich, Switzerland.",
+            "url": "https://daisy.org/",
+            "gitHubOrganization": "daisy",
+            "contact1": {
+                "name": "Avneesh Singh",
+                "email": "avneesh.sg@gmail.com",
+                "gitHubID": "avneeshsingh"
+            },
+            "contact2": {
+                "name": "George Kerscher",
+                "email": "kerscher@montana.com",
+                "gitHubID": "georgekerscher"
+            }
+        },
+        "signature": {
+            "signedBy": "Avneesh Singh",
+            "signedByTitle": "Chief Operating Officer",
+            "signedAt": "2021-12-23T13:52:02.348Z"
         }
     }
 ]
