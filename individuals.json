@@ -3581,7 +3581,7 @@
     },
     {
         "id": "7eca313b-7ba3-4574-8e39-efa8e4ca7f1a",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Issei Horie",
