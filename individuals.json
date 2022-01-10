@@ -3602,5 +3602,17 @@
         "signature": {
             "signedAt": "2021-12-19T22:05:15.382Z"
         }
+    },
+    {
+        "id": "e98f3c58-8b4b-4c05-99b4-3b79ac10d215",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "James May",
+            "gitHubID": "fowl2"
+        },
+        "signature": {
+            "signedAt": "2022-01-10T02:18:57.237Z"
+        }
     }
 ]
