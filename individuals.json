@@ -1828,18 +1828,6 @@
         }
     },
     {
-        "id": "ebe60f3e-2613-4553-9c8c-858b016c4271",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Andreu Botella Botella",
-            "gitHubID": "andreubotella"
-        },
-        "signature": {
-            "signedAt": "2020-01-18T05:27:59.844Z"
-        }
-    },
-    {
         "id": "2ff06e63-8e61-47aa-b424-ef2f53f55f52",
         "verified": false,
         "workstreams": "all",
