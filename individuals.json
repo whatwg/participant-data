@@ -3593,7 +3593,7 @@
     },
     {
         "id": "e98f3c58-8b4b-4c05-99b4-3b79ac10d215",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "James May",
