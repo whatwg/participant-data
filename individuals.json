@@ -3614,5 +3614,17 @@
         "signature": {
             "signedAt": "2022-01-11T17:49:39.896Z"
         }
+    },
+    {
+        "id": "dca01e80-d2e4-4808-a150-4c068efbd885",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Vas Sudanagunta",
+            "gitHubID": "vassudanagunta"
+        },
+        "signature": {
+            "signedAt": "2022-01-14T21:53:14.216Z"
+        }
     }
 ]
