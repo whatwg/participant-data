@@ -1266,5 +1266,31 @@
             "signedByTitle": "Chief Operating Officer",
             "signedAt": "2021-12-23T13:52:02.348Z"
         }
+    },
+    {
+        "id": "4bb42e0f-7d48-4812-b8ff-38fa77e96280",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "OddBird",
+            "address": "20711 County Rd 38, Goshen IN 46526 USA",
+            "url": "https://www.oddbird.net/",
+            "gitHubOrganization": "oddbird",
+            "contact1": {
+                "name": "Miriam Suzanne",
+                "email": "miriam@oddbird.net",
+                "gitHubID": "mirisuzanne"
+            },
+            "contact2": {
+                "name": "Jonny Gerig Meyer",
+                "email": "jonny@oddbird.net",
+                "gitHubID": "jgerigmeyer"
+            }
+        },
+        "signature": {
+            "signedBy": "Jonny Gerig Meyer",
+            "signedByTitle": "Member & Authorized Signatory",
+            "signedAt": "2022-01-17T20:14:52.804Z"
+        }
     }
 ]
