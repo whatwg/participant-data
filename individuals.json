@@ -3617,7 +3617,7 @@
     },
     {
         "id": "dca01e80-d2e4-4808-a150-4c068efbd885",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Vas Sudanagunta",
