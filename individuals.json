@@ -3626,5 +3626,17 @@
         "signature": {
             "signedAt": "2022-01-14T21:53:14.216Z"
         }
+    },
+    {
+        "id": "cf34e876-e69b-4677-aed6-8cf47cc4fb73",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Juan Miguel Huertas Delgado",
+            "gitHubID": "juanmihd"
+        },
+        "signature": {
+            "signedAt": "2022-01-31T20:50:57.066Z"
+        }
     }
 ]
