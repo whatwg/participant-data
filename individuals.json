@@ -3652,5 +3652,19 @@
         "signature": {
             "signedAt": "2022-02-03T20:31:21.135Z"
         }
+    },
+    {
+        "id": "2977bd05-9e3c-4070-86ff-5ac245177d93",
+        "verified": false,
+        "workstreams": [
+            "url"
+        ],
+        "info": {
+            "name": "James Addison",
+            "gitHubID": "jayaddison"
+        },
+        "signature": {
+            "signedAt": "2022-02-07T13:33:44.949Z"
+        }
     }
 ]
