@@ -226,6 +226,7 @@
             "storage",
             "streams",
             "url",
+            "webidl",
             "xhr"
         ],
         "info": {
