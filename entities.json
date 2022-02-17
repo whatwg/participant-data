@@ -1244,7 +1244,7 @@
     },
     {
         "id": "55540d3f-ffd2-410f-952a-ad9dae5e8ed1",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "DAISY Consortium",
