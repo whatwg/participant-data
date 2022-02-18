@@ -3666,5 +3666,17 @@
         "signature": {
             "signedAt": "2022-02-07T13:33:44.949Z"
         }
+    },
+    {
+        "id": "076e1bd7-06e6-457a-a24a-39cdeb36572b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hardik Soni",
+            "gitHubID": "iamhardikat11"
+        },
+        "signature": {
+            "signedAt": "2022-02-18T23:56:03.175Z"
+        }
     }
 ]
