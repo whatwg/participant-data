@@ -1293,5 +1293,26 @@
             "signedByTitle": "Member & Authorized Signatory",
             "signedAt": "2022-01-17T20:14:52.804Z"
         }
+    },
+    {
+        "id": "b110017b-15b1-4ef2-b4fa-aaf9e7d6b8cc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "HCL America",
+            "address": "330 Potrero Ave, Sunnyvale, CA 94085",
+            "url": "https://www.hcl.com/",
+            "gitHubOrganization": "HCL-TECH-SOFTWARE",
+            "contact1": {
+                "name": "Doug Conmy",
+                "email": "dconmy@pnp-hcl.com",
+                "gitHubID": "dconmy"
+            }
+        },
+        "signature": {
+            "signedBy": "Robert McDowell",
+            "signedByTitle": "Authorized Signatory",
+            "signedAt": "2022-03-03T18:03:03.949Z"
+        }
     }
 ]
