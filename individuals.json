@@ -3690,5 +3690,17 @@
         "signature": {
             "signedAt": "2022-03-09T17:15:14.162Z"
         }
+    },
+    {
+        "id": "250c0aee-ca0f-4793-a443-15d11546bee3",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Andres Miranda",
+            "gitHubID": "andresmo01"
+        },
+        "signature": {
+            "signedAt": "2022-03-13T11:38:11.599Z"
+        }
     }
 ]
