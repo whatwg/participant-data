@@ -3705,7 +3705,7 @@
     },
     {
         "id": "2382e5ad-51a9-46a2-985e-56c5a5b5c142",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Hidde de Vries",
