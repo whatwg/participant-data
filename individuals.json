@@ -3702,5 +3702,17 @@
         "signature": {
             "signedAt": "2022-03-13T11:38:11.599Z"
         }
+    },
+    {
+        "id": "2382e5ad-51a9-46a2-985e-56c5a5b5c142",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hidde de Vries",
+            "gitHubID": "hidde"
+        },
+        "signature": {
+            "signedAt": "2022-03-14T14:22:02.185Z"
+        }
     }
 ]
