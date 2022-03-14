@@ -3681,10 +3681,10 @@
     },
     {
         "id": "49cd2afe-c091-417a-9bd6-e65ea8b378d1",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
-            "name": "Gokhan",
+            "name": "Gokhan Kabar",
             "gitHubID": "GokhanKabar"
         },
         "signature": {
