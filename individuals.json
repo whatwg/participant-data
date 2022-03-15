@@ -3717,7 +3717,7 @@
     },
     {
         "id": "c5b199a4-0038-4ed3-b8f4-b02fdf018d55",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Ryo Kajiwara",
