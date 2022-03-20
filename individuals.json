@@ -3726,5 +3726,17 @@
         "signature": {
             "signedAt": "2022-03-15T12:41:50.453Z"
         }
+    },
+    {
+        "id": "49790448-fb95-4bc1-92d1-0185a9767a6d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Mario Toledo",
+            "gitHubID": "mariotoledo"
+        },
+        "signature": {
+            "signedAt": "2022-03-20T18:01:46.670Z"
+        }
     }
 ]
