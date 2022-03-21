@@ -3738,5 +3738,19 @@
         "signature": {
             "signedAt": "2022-03-20T18:01:46.670Z"
         }
+    },
+    {
+        "id": "d9264a98-1268-4fd9-a58a-c0427dc1fc45",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Ilias Dewachter",
+            "gitHubID": "IliasDewachter"
+        },
+        "signature": {
+            "signedAt": "2022-03-21T13:19:21.286Z"
+        }
     }
 ]
