@@ -3752,5 +3752,17 @@
         "signature": {
             "signedAt": "2022-03-21T13:19:21.286Z"
         }
+    },
+    {
+        "id": "6efabb2f-54eb-4892-b7e3-8cd60934109e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "R. A. Caudle",
+            "gitHubID": "0XAU007"
+        },
+        "signature": {
+            "signedAt": "2022-03-22T04:19:36.640Z"
+        }
     }
 ]
