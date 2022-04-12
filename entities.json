@@ -225,6 +225,7 @@
             "quirks",
             "storage",
             "streams",
+            "testutils",
             "url",
             "webidl",
             "xhr"
