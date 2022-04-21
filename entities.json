@@ -1315,5 +1315,26 @@
             "signedByTitle": "Authorized Signatory",
             "signedAt": "2022-03-03T18:03:03.949Z"
         }
+    },
+    {
+        "id": "cf666cc1-ab25-481e-bcb5-3f7f2072bef5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Humble Tech Ltd",
+            "address": "69 Wilson St",
+            "url": "https://pagerframe.work/",
+            "gitHubOrganization": "pagerworks",
+            "contact1": {
+                "name": "Felix Boehm",
+                "email": "felix@pager.works",
+                "gitHubID": "fb55"
+            }
+        },
+        "signature": {
+            "signedBy": "Felix Boehm",
+            "signedByTitle": "CEO",
+            "signedAt": "2022-04-21T10:35:56.824Z"
+        }
     }
 ]
