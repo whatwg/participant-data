@@ -3788,5 +3788,17 @@
         "signature": {
             "signedAt": "2022-04-06T14:57:44.566Z"
         }
+    },
+    {
+        "id": "a7fed9f0-bec4-4757-99c0-84a95aa2f67b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nan Jiang",
+            "gitHubID": "nan-bmth"
+        },
+        "signature": {
+            "signedAt": "2022-04-26T08:57:27.011Z"
+        }
     }
 ]
