@@ -3800,5 +3800,17 @@
         "signature": {
             "signedAt": "2022-04-26T08:57:27.011Z"
         }
+    },
+    {
+        "id": "57c93868-a910-40bd-acbc-238010220798",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Aminu Abdul Manaf",
+            "gitHubID": "yaaminu"
+        },
+        "signature": {
+            "signedAt": "2022-04-27T16:25:39.570Z"
+        }
     }
 ]
