@@ -3812,5 +3812,17 @@
         "signature": {
             "signedAt": "2022-04-27T16:25:39.570Z"
         }
+    },
+    {
+        "id": "f903a202-4680-46d4-a2ac-2d9c9bb7ccd2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Aaron Lowe",
+            "gitHubID": "CyberFlameGO"
+        },
+        "signature": {
+            "signedAt": "2022-05-09T05:16:08.185Z"
+        }
     }
 ]
