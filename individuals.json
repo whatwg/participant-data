@@ -3848,5 +3848,17 @@
         "signature": {
             "signedAt": "2022-05-19T13:57:49.239Z"
         }
+    },
+    {
+        "id": "9dc21680-06e5-45d3-a104-65245086e841",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Randy D White",
+            "gitHubID": "RANDYDWHITEPHOTOGRAPHY"
+        },
+        "signature": {
+            "signedAt": "2022-05-19T16:17:55.155Z"
+        }
     }
 ]
