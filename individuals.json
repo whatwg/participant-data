@@ -3860,5 +3860,17 @@
         "signature": {
             "signedAt": "2022-05-19T16:17:55.155Z"
         }
+    },
+    {
+        "id": "3601205a-16b6-47c2-9d78-5d0592d86729",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ryo Ogawa",
+            "gitHubID": "negibokken"
+        },
+        "signature": {
+            "signedAt": "2022-05-22T06:23:51.956Z"
+        }
     }
 ]
