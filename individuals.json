@@ -3872,5 +3872,17 @@
         "signature": {
             "signedAt": "2022-05-22T06:23:51.956Z"
         }
+    },
+    {
+        "id": "1c9dc265-305b-4eab-844f-c6b9bf4c385d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bin Hua",
+            "gitHubID": "huabin"
+        },
+        "signature": {
+            "signedAt": "2022-05-23T23:50:42.130Z"
+        }
     }
 ]
