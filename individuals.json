@@ -3884,5 +3884,17 @@
         "signature": {
             "signedAt": "2022-05-23T23:50:42.130Z"
         }
+    },
+    {
+        "id": "10fa6ac0-3973-414b-ad9c-8eec66b703a7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "David Michael Hale Jr",
+            "gitHubID": "dmhalejr"
+        },
+        "signature": {
+            "signedAt": "2022-05-26T00:59:58.389Z"
+        }
     }
 ]
