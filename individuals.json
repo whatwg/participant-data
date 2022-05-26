@@ -3887,7 +3887,7 @@
     },
     {
         "id": "10fa6ac0-3973-414b-ad9c-8eec66b703a7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "David Michael Hale Jr",
