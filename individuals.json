@@ -3896,5 +3896,17 @@
         "signature": {
             "signedAt": "2022-05-26T00:59:58.389Z"
         }
+    },
+    {
+        "id": "3afb26ba-670c-4657-98b6-93abc0bf3e94",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Knute Sears",
+            "gitHubID": "knutesears"
+        },
+        "signature": {
+            "signedAt": "2022-05-28T19:36:22.751Z"
+        }
     }
 ]
