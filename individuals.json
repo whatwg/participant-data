@@ -3920,5 +3920,17 @@
         "signature": {
             "signedAt": "2022-05-29T12:04:35.715Z"
         }
+    },
+    {
+        "id": "4c357ca9-686b-4c09-873b-142edc767e6f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yonathan Randolph",
+            "gitHubID": "Yonrsn"
+        },
+        "signature": {
+            "signedAt": "2022-05-31T04:03:42.682Z"
+        }
     }
 ]
