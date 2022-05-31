@@ -3932,5 +3932,17 @@
         "signature": {
             "signedAt": "2022-05-31T04:03:42.682Z"
         }
+    },
+    {
+        "id": "842eab89-26eb-4b1a-9ec8-c9c842be9296",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Reuben",
+            "gitHubID": "reububble"
+        },
+        "signature": {
+            "signedAt": "2022-05-31T07:48:23.638Z"
+        }
     }
 ]
