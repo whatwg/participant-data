@@ -1336,5 +1336,31 @@
             "signedByTitle": "CEO",
             "signedAt": "2022-04-21T10:35:56.824Z"
         }
+    },
+    {
+        "id": "76b89e47-235a-4e50-89d3-989be30f18a7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bloomberg LP",
+            "address": "731 Lexington Ave, New York, NY",
+            "url": "http://bloomberg.com/",
+            "gitHubOrganization": "Bloomberg",
+            "contact1": {
+                "name": "Robert Palmer",
+                "email": "rpalmer57@bloomberg.net",
+                "gitHubID": "robpalme"
+            },
+            "contact2": {
+                "name": "Daniel Eherenberg",
+                "email": "deherenberg@bloomberg.net",
+                "gitHubID": "littledan"
+            }
+        },
+        "signature": {
+            "signedBy": "Shawn Edwards",
+            "signedByTitle": "Chief Technology Officer",
+            "signedAt": "2022-06-28T21:27:16.647Z"
+        }
     }
 ]
