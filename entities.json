@@ -1362,5 +1362,26 @@
             "signedByTitle": "Chief Technology Officer",
             "signedAt": "2022-06-28T21:27:16.647Z"
         }
+    },
+    {
+        "id": "5b1d6967-3e25-4e7c-a496-824eaeccac58",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Shopify",
+            "address": "33 New Montgomery St #750, San Francisco, CA 94105, USA",
+            "url": "https://www.shopify.com/",
+            "gitHubOrganization": "Shopify",
+            "contact1": {
+                "name": "Ilya Grigorik",
+                "email": "ilya.grigorik@shopify.com",
+                "gitHubID": "igrigorik"
+            }
+        },
+        "signature": {
+            "signedBy": "Ilya Grigorik",
+            "signedByTitle": "Principal Engineer",
+            "signedAt": "2022-06-29T16:05:18.386Z"
+        }
     }
 ]
