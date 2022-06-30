@@ -321,9 +321,9 @@
             "url": "https://www.igalia.com/",
             "gitHubOrganization": "Igalia",
             "contact1": {
-                "name": "Daniel Ehrenberg",
-                "email": "littledan@igalia.com",
-                "gitHubID": "littledan"
+                "name": "Brian Kardell",
+                "email": "bkardell@igalia.com",
+                "gitHubID": "bkardell"
             },
             "contact2": {
                 "name": "Manuel Rego Casasnovas",
