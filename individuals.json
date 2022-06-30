@@ -3956,5 +3956,17 @@
         "signature": {
             "signedAt": "2022-06-02T15:03:58.143Z"
         }
+    },
+    {
+        "id": "9a05e67f-f245-4f83-82b5-ef056007e248",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Livia Medeiros",
+            "gitHubID": "LiviaMedeiros"
+        },
+        "signature": {
+            "signedAt": "2022-06-30T12:49:52.100Z"
+        }
     }
 ]
