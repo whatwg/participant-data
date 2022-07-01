@@ -3980,5 +3980,17 @@
         "signature": {
             "signedAt": "2022-07-01T07:20:59.273Z"
         }
+    },
+    {
+        "id": "58434048-7b50-4fdc-b026-8a54129e6c52",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Markus Cadonau",
+            "gitHubID": "cadonau"
+        },
+        "signature": {
+            "signedAt": "2022-07-01T15:54:23.417Z"
+        }
     }
 ]
