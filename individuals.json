@@ -3968,5 +3968,17 @@
         "signature": {
             "signedAt": "2022-06-30T12:49:52.100Z"
         }
+    },
+    {
+        "id": "1cd94297-1140-474a-99f2-5b465904f9b6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tim Sartoris",
+            "gitHubID": "Timsartoris"
+        },
+        "signature": {
+            "signedAt": "2022-07-01T07:20:59.273Z"
+        }
     }
 ]
