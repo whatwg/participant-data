@@ -3992,5 +3992,17 @@
         "signature": {
             "signedAt": "2022-07-01T15:54:23.417Z"
         }
+    },
+    {
+        "id": "5170cfc6-cedf-42f9-b641-18f1d886c464",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Guy Bedford",
+            "gitHubID": "guybedford"
+        },
+        "signature": {
+            "signedAt": "2022-07-04T18:40:48.427Z"
+        }
     }
 ]
