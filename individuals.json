@@ -4004,5 +4004,35 @@
         "signature": {
             "signedAt": "2022-07-06T07:23:18.235Z"
         }
+    },
+    {
+        "id": "b842ed81-3cf6-46bc-99c5-187d6064a789",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Jon frutos",
+            "gitHubID": "Wyze5280"
+        },
+        "signature": {
+            "signedAt": "2022-07-23T20:20:52.923Z"
+        }
     }
 ]
