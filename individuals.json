@@ -4034,5 +4034,17 @@
         "signature": {
             "signedAt": "2022-07-23T20:20:52.923Z"
         }
+    },
+    {
+        "id": "161b3d55-a0d9-4d7e-9502-f0fd98a257d4",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Joe DeLuca",
+            "gitHubID": "joedeluca"
+        },
+        "signature": {
+            "signedAt": "2022-07-25T19:08:00.746Z"
+        }
     }
 ]
