@@ -4046,5 +4046,35 @@
         "signature": {
             "signedAt": "2022-07-25T19:08:00.746Z"
         }
+    },
+    {
+        "id": "94475f40-41d2-42ac-8bf9-aaf521ee3701",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Ryan Gosdin",
+            "gitHubID": "Rgosdin"
+        },
+        "signature": {
+            "signedAt": "2022-07-30T20:05:48.078Z"
+        }
     }
 ]
