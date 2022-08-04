@@ -4076,5 +4076,17 @@
         "signature": {
             "signedAt": "2022-07-30T20:05:48.078Z"
         }
+    },
+    {
+        "id": "97e84cdb-27f1-4f0b-bb61-3c91293bcd22",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Giovanni Benussi",
+            "gitHubID": "giovannibenussi"
+        },
+        "signature": {
+            "signedAt": "2022-08-04T00:22:19.888Z"
+        }
     }
 ]
