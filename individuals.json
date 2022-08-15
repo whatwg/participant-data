@@ -4091,7 +4091,7 @@
     },
     {
         "id": "2dd9fcc0-bf27-41f9-835d-0e5f084f9679",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Paulo Freitas",
