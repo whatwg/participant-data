@@ -1383,5 +1383,31 @@
             "signedByTitle": "Principal Engineer",
             "signedAt": "2022-06-29T16:05:18.386Z"
         }
+    },
+    {
+        "id": "0c0220fc-78b6-49d9-a88d-aca6ffd45d03",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Agoric Systems Operating Company",
+            "address": "1025 Alameda de las Pulgas Suite 120 Belmont, CA 94002",
+            "url": "https://agoric.com/",
+            "gitHubOrganization": "Agoric",
+            "contact1": {
+                "name": "Richard Gibson",
+                "email": "gibson@agoric.com",
+                "gitHubID": "gibson042"
+            },
+            "contact2": {
+                "name": "Mathieu Hofman",
+                "email": "mathieu@agoric.com",
+                "gitHubID": "mhofman"
+            }
+        },
+        "signature": {
+            "signedBy": "Richard Gibson",
+            "signedByTitle": "Software Engineer",
+            "signedAt": "2022-08-19T21:14:23.951Z"
+        }
     }
 ]
