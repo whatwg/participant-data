@@ -1386,7 +1386,7 @@
     },
     {
         "id": "0c0220fc-78b6-49d9-a88d-aca6ffd45d03",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Agoric Systems Operating Company",
