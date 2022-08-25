@@ -1409,5 +1409,44 @@
             "signedByTitle": "Software Engineer",
             "signedAt": "2022-08-19T21:14:23.951Z"
         }
+    },
+    {
+        "id": "713393e7-9220-4a8e-a2b4-460705b3979d",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Alibaba (China) Co., Ltd",
+            "address": "969 West Wen Yi Road Yu Hang District Hangzhou 311121 Zhejiang Province China",
+            "url": "http://www.alibabagroup.com/",
+            "gitHubOrganization": "alibaba",
+            "contact1": {
+                "name": "Wenliang Shu",
+                "email": "wenliang.shuwl@alibaba-inc.com",
+                "gitHubID": "Evance"
+            }
+        },
+        "signature": {
+            "signedBy": "Wenliang Shu",
+            "signedByTitle": "Director",
+            "signedAt": "2022-08-25T12:39:47.073Z"
+        }
     }
 ]
