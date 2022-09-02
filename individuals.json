@@ -4100,5 +4100,17 @@
         "signature": {
             "signedAt": "2022-08-13T06:46:01.682Z"
         }
+    },
+    {
+        "id": "a067e4b0-1596-4292-ad6b-627e6225f85d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Arthur Miler",
+            "gitHubID": "amno1"
+        },
+        "signature": {
+            "signedAt": "2022-09-02T05:48:05.115Z"
+        }
     }
 ]
