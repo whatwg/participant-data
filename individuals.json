@@ -4112,5 +4112,17 @@
         "signature": {
             "signedAt": "2022-09-02T05:48:05.115Z"
         }
+    },
+    {
+        "id": "5f72cda6-2d9e-4d31-880c-ce7649fb871e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gihyeon Sung",
+            "gitHubID": "gihyeonsung"
+        },
+        "signature": {
+            "signedAt": "2022-09-05T14:56:54.214Z"
+        }
     }
 ]
