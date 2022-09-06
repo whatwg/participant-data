@@ -3299,7 +3299,7 @@
     },
     {
         "id": "da613042-38ee-4d49-b795-cca997ccf7bc",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Nicolò Ribaudo",
