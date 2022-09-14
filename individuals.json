@@ -3298,18 +3298,6 @@
         }
     },
     {
-        "id": "da613042-38ee-4d49-b795-cca997ccf7bc",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Nicolò Ribaudo",
-            "gitHubID": "nicolo-ribaudo"
-        },
-        "signature": {
-            "signedAt": "2021-08-12T12:41:10.645Z"
-        }
-    },
-    {
         "id": "ebcee7a8-7658-4e77-bde3-1b5ce90d1e77",
         "verified": true,
         "workstreams": "all",
