@@ -4128,5 +4128,17 @@
         "signature": {
             "signedAt": "2022-09-13T23:13:56.482Z"
         }
+    },
+    {
+        "id": "0896bbe0-6b4c-4991-8f15-8590e865b684",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tasha Syarifah",
+            "gitHubID": "tashasyarifah"
+        },
+        "signature": {
+            "signedAt": "2022-09-15T03:08:52.320Z"
+        }
     }
 ]
