@@ -4140,5 +4140,19 @@
         "signature": {
             "signedAt": "2022-09-15T03:08:52.320Z"
         }
+    },
+    {
+        "id": "8ca11c25-0d2c-45ff-9e3a-41b0fa67e96d",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Teik Guan Tan",
+            "gitHubID": "tanteikg"
+        },
+        "signature": {
+            "signedAt": "2022-09-19T02:44:54.364Z"
+        }
     }
 ]
