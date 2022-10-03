@@ -4190,5 +4190,17 @@
         "signature": {
             "signedAt": "2022-09-30T13:47:55.340Z"
         }
+    },
+    {
+        "id": "a5ff1478-f11a-40c8-8a62-1aab790ebbeb",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nereida Rondon",
+            "gitHubID": "NereidaRondon"
+        },
+        "signature": {
+            "signedAt": "2022-10-03T15:52:41.962Z"
+        }
     }
 ]
