@@ -1448,26 +1448,5 @@
             "signedByTitle": "Director",
             "signedAt": "2022-08-25T12:39:47.073Z"
         }
-    },
-    {
-        "id": "48ecbd9d-3a07-4380-a2a2-4a4521840a07",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Google",
-            "address": "111 8th Avenue, New York City, New York",
-            "url": "https://about.google/",
-            "gitHubOrganization": "Google",
-            "contact1": {
-                "name": "Daseul Lee",
-                "email": "dslee@google.com",
-                "gitHubID": "dslee414"
-            }
-        },
-        "signature": {
-            "signedBy": "Daseul Lee",
-            "signedByTitle": "Software Engineer",
-            "signedAt": "2022-10-03T21:49:20.940Z"
-        }
     }
 ]
