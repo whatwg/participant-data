@@ -4202,5 +4202,17 @@
         "signature": {
             "signedAt": "2022-10-03T15:52:41.962Z"
         }
+    },
+    {
+        "id": "e72d0c2a-68fd-49f8-a416-0715da371ae8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Michał Niedziółka",
+            "gitHubID": "NiedziolkaMichal"
+        },
+        "signature": {
+            "signedAt": "2022-10-13T09:46:40.514Z"
+        }
     }
 ]
