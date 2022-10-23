@@ -4214,5 +4214,17 @@
         "signature": {
             "signedAt": "2022-10-13T09:46:40.514Z"
         }
+    },
+    {
+        "id": "f7f9de64-8bbf-431c-922e-079f27b928af",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sebastian Krüger",
+            "gitHubID": "mathe42"
+        },
+        "signature": {
+            "signedAt": "2022-10-23T16:46:21.215Z"
+        }
     }
 ]
