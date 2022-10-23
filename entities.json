@@ -1427,5 +1427,26 @@
             "signedByTitle": "Director",
             "signedAt": "2022-08-25T12:39:47.073Z"
         }
+    },
+    {
+        "id": "d993b2c9-9b4c-4de1-9601-f347dcfe0a26",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hypothesis",
+            "address": "2261 Market St #632",
+            "url": "https://hypothes.is/",
+            "gitHubOrganization": "hypothesis",
+            "contact1": {
+                "name": "Dan Whaley",
+                "email": "dwhaley@hypothes.is",
+                "gitHubID": "dwhly"
+            }
+        },
+        "signature": {
+            "signedBy": "Dan Whaley",
+            "signedByTitle": "CEO",
+            "signedAt": "2022-10-23T01:39:36.835Z"
+        }
     }
 ]
