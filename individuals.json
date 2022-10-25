@@ -4226,5 +4226,17 @@
         "signature": {
             "signedAt": "2022-10-23T16:46:21.215Z"
         }
+    },
+    {
+        "id": "ee4c931a-7c63-4f6b-a904-b2fe0e8679ec",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Logan Moore",
+            "gitHubID": "ThoseGrapefruits"
+        },
+        "signature": {
+            "signedAt": "2022-10-25T19:49:37.693Z"
+        }
     }
 ]
