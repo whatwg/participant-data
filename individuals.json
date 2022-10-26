@@ -4229,7 +4229,7 @@
     },
     {
         "id": "ee4c931a-7c63-4f6b-a904-b2fe0e8679ec",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Logan Moore",
