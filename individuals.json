@@ -4262,5 +4262,18 @@
         "signature": {
             "signedAt": "2022-11-04T07:59:22.146Z"
         }
+    },
+    {
+        "id": "b7499eb2-127d-4277-b492-81ebb95c4daf",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Jorge Bautista ",
+            "gitHubID": "Jbo100"
+        },
+        "signature": {
+            "signedAt": "2022-11-06T13:40:35.116Z"
+        },
+        "invited": true
     }
 ]
