@@ -4275,5 +4275,17 @@
             "signedAt": "2022-11-06T13:40:35.116Z"
         },
         "invited": true
+    },
+    {
+        "id": "cbc9b654-3775-468a-8ebd-483a0ac20e33",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Guillaume Lebas",
+            "gitHubID": "cdoublev"
+        },
+        "signature": {
+            "signedAt": "2022-11-10T03:29:50.289Z"
+        }
     }
 ]
