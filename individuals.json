@@ -4341,5 +4341,17 @@
         "signature": {
             "signedAt": "2022-11-17T20:17:54.733Z"
         }
+    },
+    {
+        "id": "ba03eb9f-efea-43b9-90ac-3f4d9e6c5fa9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Samantha Nguyen",
+            "gitHubID": "neoncitylights"
+        },
+        "signature": {
+            "signedAt": "2022-11-27T02:50:21.322Z"
+        }
     }
 ]
