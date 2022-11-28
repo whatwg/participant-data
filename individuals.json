@@ -4278,7 +4278,7 @@
     },
     {
         "id": "cbc9b654-3775-468a-8ebd-483a0ac20e33",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Guillaume Lebas",
