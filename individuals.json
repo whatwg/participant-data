@@ -4365,5 +4365,17 @@
         "signature": {
             "signedAt": "2022-11-29T02:34:12.169Z"
         }
+    },
+    {
+        "id": "0934046a-3af1-4067-a139-f4f4f462e8e6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Christoffer Ramsland",
+            "gitHubID": "Stufur"
+        },
+        "signature": {
+            "signedAt": "2022-12-07T00:02:27.866Z"
+        }
     }
 ]
