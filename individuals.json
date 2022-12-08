@@ -4377,5 +4377,17 @@
         "signature": {
             "signedAt": "2022-12-07T00:02:27.866Z"
         }
+    },
+    {
+        "id": "7dc584b2-24ea-4874-b0a4-12d37424e595",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Dawei Wang",
+            "gitHubID": "dawei-wang"
+        },
+        "signature": {
+            "signedAt": "2022-12-08T18:01:06.274Z"
+        }
     }
 ]
