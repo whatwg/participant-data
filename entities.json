@@ -192,20 +192,20 @@
             "url": "https://bocoup.com/",
             "gitHubOrganization": "bocoup",
             "contact1": {
-                "name": "Simon Pieters",
-                "email": "simon@bocoup.com",
-                "gitHubID": "zcorpan"
-            },
-            "contact2": {
                 "name": "Boaz Sender",
                 "email": "boaz@bocoup.com",
                 "gitHubID": "boazsender"
+            },
+            "contact2": {
+                "name": "Chris Cuellar",
+                "email": "chris@bocoup.com",
+                "gitHubID": "ChrisC"
             }
         },
         "signature": {
-            "signedBy": "Simon Pieters",
-            "signedByTitle": "Sr. Open Web Engineer",
-            "signedAt": "2017-12-21T23:25:52.791Z"
+            "signedBy": "Boaz Sender",
+            "signedByTitle": "Principal",
+            "signedAt": "2022-12-06T22:57:28.791Z"
         }
     },
     {
