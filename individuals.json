@@ -4380,7 +4380,7 @@
     },
     {
         "id": "7dc584b2-24ea-4874-b0a4-12d37424e595",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Dawei Wang",
