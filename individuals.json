@@ -4401,5 +4401,17 @@
         "signature": {
             "signedAt": "2022-12-09T12:02:23.089Z"
         }
+    },
+    {
+        "id": "0584cc59-b006-408c-9a51-4ef7313af3f7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Christopher Fritz",
+            "gitHubID": "ChristopherFritz"
+        },
+        "signature": {
+            "signedAt": "2023-01-09T18:48:25.136Z"
+        }
     }
 ]
