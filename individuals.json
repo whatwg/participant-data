@@ -4404,7 +4404,7 @@
     },
     {
         "id": "0584cc59-b006-408c-9a51-4ef7313af3f7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Christopher Fritz",
