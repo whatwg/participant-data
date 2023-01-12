@@ -1448,5 +1448,26 @@
             "signedByTitle": "CEO",
             "signedAt": "2022-10-23T01:39:36.835Z"
         }
+    },
+    {
+        "id": "4a4c5d6f-5aeb-44bd-b703-59342bd73364",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Netflix, Inc.",
+            "address": "121 Albright Way",
+            "url": "https://www.netflix.com/",
+            "gitHubOrganization": "Netflix",
+            "contact1": {
+                "name": "Jon Jensen",
+                "email": "jonj@netflix.com",
+                "gitHubID": "jenseng"
+            }
+        },
+        "signature": {
+            "signedBy": "Jon Jensen",
+            "signedByTitle": "Senior Software Engineer",
+            "signedAt": "2023-01-12T01:40:15.135Z"
+        }
     }
 ]
