@@ -4413,5 +4413,35 @@
         "signature": {
             "signedAt": "2023-01-09T18:48:25.136Z"
         }
+    },
+    {
+        "id": "a1f28347-3a38-4a5a-b1f3-7d2f57e61b53",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Yashwanth",
+            "gitHubID": "YASHWANTHKESAGONI"
+        },
+        "signature": {
+            "signedAt": "2023-01-26T08:26:31.416Z"
+        }
     }
 ]
