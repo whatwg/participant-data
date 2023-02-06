@@ -1469,5 +1469,37 @@
             "signedByTitle": "Senior Software Engineer",
             "signedAt": "2023-01-12T01:40:15.135Z"
         }
+    },
+    {
+        "id": "8552bf5b-8f04-4bff-96a0-6d20b309b78b",
+        "verified": false,
+        "workstreams": [
+            "console",
+            "encoding",
+            "fetch",
+            "streams",
+            "url"
+        ],
+        "info": {
+            "name": "Suborbital Software Systems Inc.",
+            "address": "2900 –550 Burrard Street, Vancouver BC V6C 0A3, Canada",
+            "url": "https://suborbital.dev/",
+            "gitHubOrganization": "suborbital",
+            "contact1": {
+                "name": "István Szmozsánszky",
+                "email": "flaki@suborbital.dev",
+                "gitHubID": "flaki"
+            },
+            "contact2": {
+                "name": "Connor Hicks",
+                "email": "connor@suborbital.dev",
+                "gitHubID": "cohix"
+            }
+        },
+        "signature": {
+            "signedBy": "István Szmozsánszky",
+            "signedByTitle": "Developer Experience Engineer",
+            "signedAt": "2023-02-06T20:38:44.557Z"
+        }
     }
 ]
