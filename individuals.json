@@ -4443,5 +4443,17 @@
         "signature": {
             "signedAt": "2023-01-26T08:26:31.416Z"
         }
+    },
+    {
+        "id": "918aa138-41e3-4970-9d49-d207dac86ff6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yagiz Nizipli",
+            "gitHubID": "anonrig"
+        },
+        "signature": {
+            "signedAt": "2023-02-08T13:52:47.409Z"
+        }
     }
 ]
