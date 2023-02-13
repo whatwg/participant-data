@@ -4455,5 +4455,17 @@
         "signature": {
             "signedAt": "2023-02-08T13:52:47.409Z"
         }
+    },
+    {
+        "id": "6dd9bf23-2529-492b-a87e-39eb51a5e820",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "David Zero",
+            "gitHubID": "Zer0-One"
+        },
+        "signature": {
+            "signedAt": "2023-02-13T04:27:41.503Z"
+        }
     }
 ]
