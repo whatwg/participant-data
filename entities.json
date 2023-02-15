@@ -1501,28 +1501,5 @@
             "signedByTitle": "Developer Experience Engineer",
             "signedAt": "2023-02-06T20:38:44.557Z"
         }
-    },
-    {
-        "id": "4d9cb6bf-8723-42b3-b880-3e1137520367",
-        "verified": false,
-        "workstreams": [
-            "dom"
-        ],
-        "info": {
-            "name": "Google",
-            "address": "1600 Amphitheatre Parkway Mountain View, CA 94043 United States",
-            "url": "https://about.google/",
-            "gitHubOrganization": "googlers",
-            "contact1": {
-                "name": "Yoshisato Yanagisawa",
-                "email": "yyanagisawa@google.com",
-                "gitHubID": "yoshisatoyanagisawa"
-            }
-        },
-        "signature": {
-            "signedBy": "Yoshisato Yanagisawa",
-            "signedByTitle": "Software Engineer",
-            "signedAt": "2023-02-15T10:25:02.918Z"
-        }
     }
 ]
