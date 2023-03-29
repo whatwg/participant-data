@@ -4494,7 +4494,7 @@
     },
     {
         "id": "4b962247-5eae-4727-8b64-9650874b66a0",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Andreas Englisch",
