@@ -4515,5 +4515,17 @@
         "signature": {
             "signedAt": "2023-03-28T12:03:18.271Z"
         }
+    },
+    {
+        "id": "a4de55be-4319-47a1-8dbb-7fe751d13c07",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Gabriel Nick Pivovarov",
+            "gitHubID": "gnpivo"
+        },
+        "signature": {
+            "signedAt": "2023-04-04T03:54:25.366Z"
+        }
     }
 ]
