@@ -4527,5 +4527,17 @@
         "signature": {
             "signedAt": "2023-04-04T03:54:25.366Z"
         }
+    },
+    {
+        "id": "0198b0d0-3734-4761-9827-24c1213f51b2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Miki Lombardi",
+            "gitHubID": "TheJoin95"
+        },
+        "signature": {
+            "signedAt": "2023-04-07T13:19:06.872Z"
+        }
     }
 ]
