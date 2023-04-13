@@ -4539,5 +4539,17 @@
         "signature": {
             "signedAt": "2023-04-07T13:19:06.872Z"
         }
+    },
+    {
+        "id": "117aaae1-aae1-4514-a1d1-16f73fd76f34",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Rastislav Vašička",
+            "gitHubID": "rastislavcore"
+        },
+        "signature": {
+            "signedAt": "2023-04-13T06:44:14.715Z"
+        }
     }
 ]
