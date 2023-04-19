@@ -4563,5 +4563,18 @@
         "signature": {
             "signedAt": "2023-04-17T12:40:20.128Z"
         }
+    },
+    {
+        "id": "8f9122ff-0421-4bdb-af74-a4319f65351c",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Robert Tiffin",
+            "gitHubID": "ret334"
+        },
+        "signature": {
+            "signedAt": "2023-04-19T13:59:37.735Z"
+        },
+        "invited": true
     }
 ]
