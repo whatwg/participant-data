@@ -4600,18 +4600,5 @@
         "signature": {
             "signedAt": "2023-04-24T09:39:27.249Z"
         }
-    },
-    {
-        "id": "442560d8-0d4c-4d87-b84b-d64272b16348",
-        "verified": false,
-        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
-        "info": {
-            "name": "Vincent Hilla",
-            "gitHubID": "vinhill"
-        },
-        "signature": {
-            "signedAt": "2023-04-25T07:18:26.091Z"
-        },
-        "invited": true
     }
 ]
