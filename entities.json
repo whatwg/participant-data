@@ -1527,5 +1527,49 @@
             "signedByTitle": "Software Engineer",
             "signedAt": "2023-04-03T11:40:37.378Z"
         }
+    },
+    {
+        "id": "f2470f23-8f2a-4802-8153-ae1b80e226d6",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Automattic Inc.",
+            "address": "60 29th St, San Francisco, CA 94110 USA",
+            "url": "http://www.automattic.com/",
+            "gitHubOrganization": "Automattic",
+            "contact1": {
+                "name": "Jarda Snajdr",
+                "email": "neil.peretz@automattic.com",
+                "gitHubID": "jsnajdr"
+            },
+            "contact2": {
+                "name": "Neil Peretz",
+                "email": "neil.peretz@automattic.com",
+                "gitHubID": "jishudev1"
+            }
+        },
+        "signature": {
+            "signedBy": "Neil Peretz",
+            "signedByTitle": "AGC",
+            "signedAt": "2023-05-25T03:55:01.487Z"
+        }
     }
 ]
