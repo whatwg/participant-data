@@ -4600,5 +4600,17 @@
         "signature": {
             "signedAt": "2023-05-30T17:00:40.160Z"
         }
+    },
+    {
+        "id": "bf46fe8c-40f8-4ff7-843b-462cf5140736",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kenneth Laskoski",
+            "gitHubID": "kennethlaskoski"
+        },
+        "signature": {
+            "signedAt": "2023-05-31T22:24:48.933Z"
+        }
     }
 ]
