@@ -4612,5 +4612,20 @@
         "signature": {
             "signedAt": "2023-05-31T22:24:48.933Z"
         }
+    },
+    {
+        "id": "012783d4-1dda-4ae0-8d70-77e42b3b491b",
+        "verified": false,
+        "workstreams": [
+            "dom",
+            "html"
+        ],
+        "info": {
+            "name": "Sayan Sivakumaran",
+            "gitHubID": "sivakusayan"
+        },
+        "signature": {
+            "signedAt": "2023-06-02T14:02:42.968Z"
+        }
     }
 ]
