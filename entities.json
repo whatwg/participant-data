@@ -1571,5 +1571,26 @@
             "signedByTitle": "AGC",
             "signedAt": "2023-05-25T03:55:01.487Z"
         }
+    },
+    {
+        "id": "32fb8518-38d2-4201-8462-89e30db35381",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Southwood IT-Systems Ltd.",
+            "address": "5 South Charlotte Street",
+            "url": "https://www.southwoodsystems.com/",
+            "gitHubOrganization": "sorskog",
+            "contact1": {
+                "name": "Eric C. Westgren",
+                "email": "support@southwoodsystems.com",
+                "gitHubID": "switsys"
+            }
+        },
+        "signature": {
+            "signedBy": "Eric C. Westgren",
+            "signedByTitle": "CTO",
+            "signedAt": "2023-06-02T17:44:27.617Z"
+        }
     }
 ]
