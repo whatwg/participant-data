@@ -4639,5 +4639,17 @@
         "signature": {
             "signedAt": "2023-06-05T10:20:04.411Z"
         }
+    },
+    {
+        "id": "2d0638ba-8a5e-4df1-832e-c19f6c2af3a2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Benjamin Shuster",
+            "gitHubID": "bentzi-shuster"
+        },
+        "signature": {
+            "signedAt": "2023-06-05T16:56:54.744Z"
+        }
     }
 ]
