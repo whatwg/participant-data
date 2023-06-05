@@ -4627,5 +4627,17 @@
         "signature": {
             "signedAt": "2023-06-02T14:02:42.968Z"
         }
+    },
+    {
+        "id": "282f39a0-a201-4741-9cc0-d5187f9a545f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Caleb A. Olojo",
+            "gitHubID": "kaf-lamed-beyt"
+        },
+        "signature": {
+            "signedAt": "2023-06-05T10:20:04.411Z"
+        }
     }
 ]
