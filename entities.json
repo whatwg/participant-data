@@ -1318,7 +1318,7 @@
     },
     {
         "id": "76b89e47-235a-4e50-89d3-989be30f18a7",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Bloomberg LP",
