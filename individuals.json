@@ -4651,5 +4651,17 @@
         "signature": {
             "signedAt": "2023-06-11T15:53:34.431Z"
         }
+    },
+    {
+        "id": "f5eace19-b18c-47e4-99a4-6b8f63b4da1a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Patrick H. Lauke",
+            "gitHubID": "patrickhlauke"
+        },
+        "signature": {
+            "signedAt": "2023-07-23T21:13:45.167Z"
+        }
     }
 ]
