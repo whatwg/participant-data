@@ -4654,7 +4654,7 @@
     },
     {
         "id": "f5eace19-b18c-47e4-99a4-6b8f63b4da1a",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Patrick H. Lauke",
