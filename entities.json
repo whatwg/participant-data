@@ -1595,7 +1595,7 @@
     },
     {
         "id": "4886efe3-2285-4981-978a-7f10f24664c5",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Cerphus Software AB",
