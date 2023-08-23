@@ -4699,17 +4699,5 @@
         "signature": {
             "signedAt": "2023-08-21T09:23:28.001Z"
         }
-    },
-    {
-        "id": "bb2140a6-ee8f-48fc-a973-b667b77e26ee",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Andrew Kaster",
-            "gitHubID": "ADKaster"
-        },
-        "signature": {
-            "signedAt": "2023-08-23T04:03:32.995Z"
-        }
     }
 ]
