@@ -1592,5 +1592,26 @@
             "signedByTitle": "CTO",
             "signedAt": "2023-06-02T17:44:27.617Z"
         }
+    },
+    {
+        "id": "4886efe3-2285-4981-978a-7f10f24664c5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Cerphus Software AB",
+            "address": "Släntstigen 14, 43253 Varberg, Sweden",
+            "url": "https://github.com/Cerphus",
+            "gitHubOrganization": "Cerphus",
+            "contact1": {
+                "name": "Andreas Kling",
+                "email": "awesomekling@gmail.com",
+                "gitHubID": "awesomekling"
+            }
+        },
+        "signature": {
+            "signedBy": "Andreas Kling",
+            "signedByTitle": "CEO",
+            "signedAt": "2023-08-23T17:25:51.709Z"
+        }
     }
 ]
