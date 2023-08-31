@@ -4690,7 +4690,7 @@
     },
     {
         "id": "4b4e546f-5a12-4208-b312-0baa88e1ee0a",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Henrik Lievonen",
