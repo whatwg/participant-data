@@ -4723,5 +4723,17 @@
         "signature": {
             "signedAt": "2023-08-31T20:29:48.049Z"
         }
+    },
+    {
+        "id": "d230e0dd-8be9-4a75-b46c-ec8ac2def89c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jamieson Roberts",
+            "gitHubID": "JamiesonRoberts"
+        },
+        "signature": {
+            "signedAt": "2023-09-03T01:43:16.877Z"
+        }
     }
 ]
