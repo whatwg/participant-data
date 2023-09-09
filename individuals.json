@@ -4747,5 +4747,17 @@
         "signature": {
             "signedAt": "2023-09-08T17:30:21.833Z"
         }
+    },
+    {
+        "id": "69093176-3bdf-4352-97fb-5d34a35f6881",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Christine Belzie ",
+            "gitHubID": "CBID2"
+        },
+        "signature": {
+            "signedAt": "2023-09-09T23:48:23.183Z"
+        }
     }
 ]
