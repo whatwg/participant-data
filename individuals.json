@@ -4759,5 +4759,17 @@
         "signature": {
             "signedAt": "2023-09-09T23:48:23.183Z"
         }
+    },
+    {
+        "id": "faee38dd-eb63-4064-8008-7daa01bcad97",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "İsmail Arılık",
+            "gitHubID": "ismailarilik"
+        },
+        "signature": {
+            "signedAt": "2023-09-14T11:14:21.677Z"
+        }
     }
 ]
