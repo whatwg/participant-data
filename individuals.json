@@ -1456,18 +1456,6 @@
         }
     },
     {
-        "id": "0b8afbb3-399d-4096-a96e-1978919fe99d",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Alexey Shvayka",
-            "gitHubID": "shvaikalesh"
-        },
-        "signature": {
-            "signedAt": "2019-06-23T12:15:38.585Z"
-        }
-    },
-    {
         "id": "6e5d2cbc-7f72-48c1-8c20-e1fcecedc8ff",
         "verified": true,
         "workstreams": "all",
