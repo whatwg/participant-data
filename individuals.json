@@ -4771,5 +4771,17 @@
         "signature": {
             "signedAt": "2023-09-19T00:34:46.600Z"
         }
+    },
+    {
+        "id": "60563a9c-baa3-4f1f-b8aa-b9b680845a6e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Martin Fischer",
+            "gitHubID": "not-my-profile"
+        },
+        "signature": {
+            "signedAt": "2023-09-23T13:39:39.421Z"
+        }
     }
 ]
