@@ -4774,7 +4774,7 @@
     },
     {
         "id": "60563a9c-baa3-4f1f-b8aa-b9b680845a6e",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Martin Fischer",
