@@ -4750,7 +4750,7 @@
     },
     {
         "id": "faee38dd-eb63-4064-8008-7daa01bcad97",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "İsmail Arılık",
