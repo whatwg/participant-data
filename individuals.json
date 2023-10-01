@@ -4566,18 +4566,6 @@
         }
     },
     {
-        "id": "1907df12-77dd-4df1-9d91-e4af98e09428",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "CanadaHonk",
-            "gitHubID": "CanadaHonk"
-        },
-        "signature": {
-            "signedAt": "2023-05-30T17:00:40.160Z"
-        }
-    },
-    {
         "id": "bf46fe8c-40f8-4ff7-843b-462cf5140736",
         "verified": false,
         "workstreams": "all",
