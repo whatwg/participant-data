@@ -103,14 +103,14 @@
             "url": "https://www.microsoft.com/",
             "gitHubOrganization": "MicrosoftWHATWGContributors",
             "contact1": {
-                "name": "Travis Leithead",
-                "email": "travis.leithead@microsoft.com",
-                "gitHubID": "travisleithead"
+                "name": "Diego González",
+                "email": "luigonza@microsoft.com",
+                "gitHubID": "diekus"
             },
             "contact2": {
-                "name": "Jatinder Mann",
-                "email": "jmann@microsoft.com",
-                "gitHubID": "jatindersmann"
+                "name": "Andrew Nolan",
+                "email": "annolan@microsoft.com",
+                "gitHubID": "anolan4"
             }
         },
         "signature": {
