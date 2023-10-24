@@ -4783,5 +4783,17 @@
         "signature": {
             "signedAt": "2023-10-24T12:42:39.761Z"
         }
+    },
+    {
+        "id": "01a5c0f5-974c-4d35-a98e-e58a95835cca",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Julien Cretel",
+            "gitHubID": "jub0bs"
+        },
+        "signature": {
+            "signedAt": "2023-10-24T16:00:12.036Z"
+        }
     }
 ]
