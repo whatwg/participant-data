@@ -4771,5 +4771,17 @@
         "signature": {
             "signedAt": "2023-09-23T13:39:39.421Z"
         }
+    },
+    {
+        "id": "7888999b-29cc-4677-af3d-20e1e2c7df6a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Harun Oz",
+            "gitHubID": "harunoz"
+        },
+        "signature": {
+            "signedAt": "2023-10-24T12:42:39.761Z"
+        }
     }
 ]
