@@ -4795,5 +4795,35 @@
         "signature": {
             "signedAt": "2023-10-24T16:00:12.036Z"
         }
+    },
+    {
+        "id": "fc9d0827-8e05-485a-96ff-3c7384248bd8",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Ujjwal Das",
+            "gitHubID": "gfggithubleet"
+        },
+        "signature": {
+            "signedAt": "2023-10-27T17:02:26.774Z"
+        }
     }
 ]
