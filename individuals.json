@@ -4825,5 +4825,17 @@
         "signature": {
             "signedAt": "2023-10-27T17:02:26.774Z"
         }
+    },
+    {
+        "id": "efc0264c-8b90-4648-b2b8-02968db7feb1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Varun Varada",
+            "gitHubID": "getsnoopy"
+        },
+        "signature": {
+            "signedAt": "2023-11-03T02:01:56.588Z"
+        }
     }
 ]
