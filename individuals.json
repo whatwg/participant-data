@@ -4786,7 +4786,7 @@
     },
     {
         "id": "01a5c0f5-974c-4d35-a98e-e58a95835cca",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Julien Cretel",
