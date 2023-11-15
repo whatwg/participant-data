@@ -4849,5 +4849,17 @@
         "signature": {
             "signedAt": "2023-11-05T19:22:30.607Z"
         }
+    },
+    {
+        "id": "969af0be-636d-482a-b51f-e03930b4e0d2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Artem Zakharchenko",
+            "gitHubID": "kettanaito"
+        },
+        "signature": {
+            "signedAt": "2023-11-15T21:03:40.151Z"
+        }
     }
 ]
