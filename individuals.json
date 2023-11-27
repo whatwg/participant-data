@@ -4861,5 +4861,19 @@
         "signature": {
             "signedAt": "2023-11-15T21:03:40.151Z"
         }
+    },
+    {
+        "id": "0f897c08-7250-4e28-aa40-151e3cf3710d",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Darius Miksys",
+            "gitHubID": "Technomama"
+        },
+        "signature": {
+            "signedAt": "2023-11-27T10:31:49.360Z"
+        }
     }
 ]
