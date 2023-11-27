@@ -4875,5 +4875,17 @@
         "signature": {
             "signedAt": "2023-11-27T10:31:49.360Z"
         }
+    },
+    {
+        "id": "0d539377-e583-4388-9943-0e8110394fb8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hermann Stanew",
+            "gitHubID": "junaga"
+        },
+        "signature": {
+            "signedAt": "2023-11-27T10:52:34.453Z"
+        }
     }
 ]
