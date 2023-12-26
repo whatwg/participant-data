@@ -1613,5 +1613,26 @@
             "signedByTitle": "CEO",
             "signedAt": "2023-08-23T17:25:51.709Z"
         }
+    },
+    {
+        "id": "4c819884-dc07-40bc-bbdb-d5509d6139a5",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yocto",
+            "address": "Voorberghlaan 1",
+            "url": "https://yocto.com/",
+            "gitHubOrganization": "yocto",
+            "contact1": {
+                "name": "Ben van Hartingsveldt",
+                "email": "ben@yocto.com",
+                "gitHubID": "ben221199"
+            }
+        },
+        "signature": {
+            "signedBy": "Ben van Hartingsveldt",
+            "signedByTitle": "CEO",
+            "signedAt": "2023-12-26T12:12:44.785Z"
+        }
     }
 ]
