@@ -4911,5 +4911,17 @@
         "signature": {
             "signedAt": "2023-12-23T22:54:18.564Z"
         }
+    },
+    {
+        "id": "a298b640-2526-44d3-894c-ad58fcc33242",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Evan Kirkiles",
+            "gitHubID": "evankirkiles"
+        },
+        "signature": {
+            "signedAt": "2024-01-01T10:46:53.357Z"
+        }
     }
 ]
