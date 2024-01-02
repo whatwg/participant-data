@@ -4923,5 +4923,17 @@
         "signature": {
             "signedAt": "2024-01-01T10:46:53.357Z"
         }
+    },
+    {
+        "id": "bb3d1630-503c-402b-b2bd-b7ac11d673e8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Marco Ippolito",
+            "gitHubID": "marco-ippolito"
+        },
+        "signature": {
+            "signedAt": "2024-01-02T14:52:17.365Z"
+        }
     }
 ]
