@@ -4935,5 +4935,17 @@
         "signature": {
             "signedAt": "2024-01-02T14:52:17.365Z"
         }
+    },
+    {
+        "id": "17c9f287-cdda-4905-b9ce-38240f8b0be6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Abimael Barea",
+            "gitHubID": "abimaelbarea"
+        },
+        "signature": {
+            "signedAt": "2024-01-04T10:26:16.345Z"
+        }
     }
 ]
