@@ -4959,5 +4959,17 @@
         "signature": {
             "signedAt": "2024-01-10T11:45:44.395Z"
         }
+    },
+    {
+        "id": "5834688b-4303-447a-9cd5-f01016b0e485",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "T.J. Crowder",
+            "gitHubID": "farsightsoftware"
+        },
+        "signature": {
+            "signedAt": "2024-01-10T11:47:23.308Z"
+        }
     }
 ]
