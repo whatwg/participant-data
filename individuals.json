@@ -4971,5 +4971,19 @@
         "signature": {
             "signedAt": "2024-01-10T11:47:23.308Z"
         }
+    },
+    {
+        "id": "b911b18a-b475-4b9b-8b0c-d14f74e50c8e",
+        "verified": false,
+        "workstreams": [
+            "infra"
+        ],
+        "info": {
+            "name": "Rami Daoud",
+            "gitHubID": "rami-daoud"
+        },
+        "signature": {
+            "signedAt": "2024-01-11T16:53:02.446Z"
+        }
     }
 ]
