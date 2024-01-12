@@ -4950,7 +4950,7 @@
     },
     {
         "id": "4f9fc66b-a84d-4b2d-9303-a99c556ffa1e",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "T.J. Crowder",
@@ -4962,7 +4962,7 @@
     },
     {
         "id": "5834688b-4303-447a-9cd5-f01016b0e485",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "T.J. Crowder",
