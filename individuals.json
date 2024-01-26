@@ -4985,5 +4985,17 @@
         "signature": {
             "signedAt": "2024-01-11T16:53:02.446Z"
         }
+    },
+    {
+        "id": "a4818326-d0e7-4a6a-9d2b-10d7e92d6a1d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Marcus Otterström",
+            "gitHubID": "MarcusOtter"
+        },
+        "signature": {
+            "signedAt": "2024-01-26T16:57:14.234Z"
+        }
     }
 ]
