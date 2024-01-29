@@ -4997,5 +4997,17 @@
         "signature": {
             "signedAt": "2024-01-26T16:57:14.234Z"
         }
+    },
+    {
+        "id": "bce67e41-8260-4497-9cb4-69013f8cce96",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chase Burkdoll",
+            "gitHubID": "chaburk"
+        },
+        "signature": {
+            "signedAt": "2024-01-29T13:38:50.503Z"
+        }
     }
 ]
