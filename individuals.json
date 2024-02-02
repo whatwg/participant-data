@@ -4988,7 +4988,7 @@
     },
     {
         "id": "a4818326-d0e7-4a6a-9d2b-10d7e92d6a1d",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Marcus Otterström",
