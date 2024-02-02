@@ -5009,5 +5009,17 @@
         "signature": {
             "signedAt": "2024-01-29T13:38:50.503Z"
         }
+    },
+    {
+        "id": "6f29ac60-3231-444c-8c92-0aa858cda3b7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Addison Phillips",
+            "gitHubID": "aphillips"
+        },
+        "signature": {
+            "signedAt": "2024-02-02T17:16:29.303Z"
+        }
     }
 ]
