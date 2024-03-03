@@ -5045,5 +5045,17 @@
         "signature": {
             "signedAt": "2024-02-29T06:40:19.495Z"
         }
+    },
+    {
+        "id": "d86227da-80ac-4ac4-b8c9-b939daeace1a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Stas",
+            "gitHubID": "stasoid"
+        },
+        "signature": {
+            "signedAt": "2024-03-03T10:11:34.897Z"
+        }
     }
 ]
