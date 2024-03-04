@@ -5036,10 +5036,10 @@
     },
     {
         "id": "a5c0a7a7-aca9-4236-9a2d-7564a53674b1",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
-            "name": "Tawanda",
+            "name": "Tawanda Moyo",
             "gitHubID": "tawandamoyo"
         },
         "signature": {
