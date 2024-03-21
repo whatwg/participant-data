@@ -5057,5 +5057,17 @@
         "signature": {
             "signedAt": "2024-03-03T10:11:34.897Z"
         }
+    },
+    {
+        "id": "f884602e-2ca8-4218-a8b7-6b3e0cefbfa8",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yves-Marie K. Rinquin",
+            "gitHubID": "rubycon"
+        },
+        "signature": {
+            "signedAt": "2024-03-21T10:58:54.433Z"
+        }
     }
 ]
