@@ -4749,18 +4749,6 @@
         }
     },
     {
-        "id": "45c0457b-54bc-45f0-9324-9653cfaf7421",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Luke Warlow",
-            "gitHubID": "lukewarlow"
-        },
-        "signature": {
-            "signedAt": "2023-09-19T00:34:46.600Z"
-        }
-    },
-    {
         "id": "60563a9c-baa3-4f1f-b8aa-b9b680845a6e",
         "verified": true,
         "workstreams": "all",
