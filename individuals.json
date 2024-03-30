@@ -5057,5 +5057,17 @@
         "signature": {
             "signedAt": "2024-03-21T10:58:54.433Z"
         }
+    },
+    {
+        "id": "70793e48-70fd-42a5-b3dd-09e572d33332",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jeroen Zwartepoorte",
+            "gitHubID": "jpzwarte"
+        },
+        "signature": {
+            "signedAt": "2024-03-30T11:50:16.036Z"
+        }
     }
 ]
