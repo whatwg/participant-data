@@ -5069,5 +5069,17 @@
         "signature": {
             "signedAt": "2024-03-30T11:50:16.036Z"
         }
+    },
+    {
+        "id": "6d56689d-19d2-4a51-93ac-9d8a0b6e3e63",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sakina Maezawa",
+            "gitHubID": "mae616"
+        },
+        "signature": {
+            "signedAt": "2024-03-31T02:58:32.563Z"
+        }
     }
 ]
