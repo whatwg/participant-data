@@ -5081,5 +5081,17 @@
         "signature": {
             "signedAt": "2024-03-31T02:58:32.563Z"
         }
+    },
+    {
+        "id": "d6b92d2b-5573-460c-a3fe-6125b8e95595",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Simon Wülker",
+            "gitHubID": "Wuelle"
+        },
+        "signature": {
+            "signedAt": "2024-04-02T16:44:05.291Z"
+        }
     }
 ]
