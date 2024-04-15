@@ -1344,7 +1344,7 @@
     },
     {
         "id": "5b1d6967-3e25-4e7c-a496-824eaeccac58",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Shopify",
