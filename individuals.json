@@ -5048,7 +5048,7 @@
     },
     {
         "id": "f884602e-2ca8-4218-a8b7-6b3e0cefbfa8",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Yves-Marie K. Rinquin",
