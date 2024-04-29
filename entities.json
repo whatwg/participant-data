@@ -1660,5 +1660,26 @@
             "signedByTitle": "Managing Director",
             "signedAt": "2024-01-10T07:08:17.415Z"
         }
+    },
+    {
+        "id": "8e78ccea-3160-44ca-8635-e673307c8327",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Blue Spire",
+            "address": "7901 4th St N STE 300, St. Petersburg, FL 33702",
+            "url": "https://www.bluespire.com/",
+            "gitHubOrganization": "bluespire",
+            "contact1": {
+                "name": "Rob Eisenberg",
+                "email": "rob@bluespire.com",
+                "gitHubID": "EisenbergEffect"
+            }
+        },
+        "signature": {
+            "signedBy": "Robert H. Eisenberg",
+            "signedByTitle": "Owner",
+            "signedAt": "2024-04-29T20:29:53.465Z"
+        }
     }
 ]
