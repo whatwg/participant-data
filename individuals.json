@@ -5153,5 +5153,19 @@
         "signature": {
             "signedAt": "2024-05-21T13:48:53.601Z"
         }
+    },
+    {
+        "id": "c1c53110-c10b-4d9a-a6c9-d805f1e16092",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Adam Eisenreich",
+            "gitHubID": "Akxe"
+        },
+        "signature": {
+            "signedAt": "2024-05-21T23:18:01.629Z"
+        }
     }
 ]
