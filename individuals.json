@@ -5167,18 +5167,5 @@
         "signature": {
             "signedAt": "2024-05-21T23:18:01.629Z"
         }
-    },
-    {
-        "id": "33dad229-4207-401d-8d1d-489ff2c88f76",
-        "verified": false,
-        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
-        "info": {
-            "name": "Fabijan Čorak",
-            "gitHubID": "FabijanC"
-        },
-        "signature": {
-            "signedAt": "2024-05-30T07:55:24.556Z"
-        },
-        "invited": true
     }
 ]
