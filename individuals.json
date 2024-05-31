@@ -5167,5 +5167,19 @@
         "signature": {
             "signedAt": "2024-05-21T23:18:01.629Z"
         }
+    },
+    {
+        "id": "08ae2289-2c62-4cd8-94e0-85e5824039b2",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Fabijan Čorak",
+            "gitHubID": "FabijanC"
+        },
+        "signature": {
+            "signedAt": "2024-05-31T06:38:22.356Z"
+        }
     }
 ]
