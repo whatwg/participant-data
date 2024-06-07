@@ -1681,5 +1681,33 @@
             "signedByTitle": "Owner",
             "signedAt": "2024-04-29T20:29:53.465Z"
         }
+    },
+    {
+        "id": "5269e6e6-c6c7-4ecc-bf26-964d25c5e7de",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Atlassian US, Inc.",
+            "address": "350 Bush St, Floor 13, San Francisco, CA 94104",
+            "url": "https://www.atlassian.com/",
+            "gitHubOrganization": "atlassian-whatwg",
+            "contact1": {
+                "name": "Alex Reardon",
+                "email": "areardon@atlassian.com",
+                "gitHubID": "alexreardon"
+            },
+            "contact2": {
+                "name": "Jonathan Keslin",
+                "email": "jkeslin@atlassian.com",
+                "gitHubID": "decompil3d"
+            }
+        },
+        "signature": {
+            "signedBy": " Hari Lingamagunta",
+            "signedByTitle": "Head of Engineering, UI Platform",
+            "signedAt": "2024-06-07T06:11:09.263Z"
+        }
     }
 ]
