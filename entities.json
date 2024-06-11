@@ -1709,5 +1709,26 @@
             "signedByTitle": "Head of Engineering, UI Platform",
             "signedAt": "2024-06-07T06:11:09.263Z"
         }
+    },
+    {
+        "id": "0e7c1880-69d7-4d3a-a665-37d5f2338315",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "FOSS (Shanghai) Information Technology consulting Co., LTD.",
+            "address": "No. 575, Yuyao road, Jingan District, Shanghai, PRC",
+            "url": "https://github.com/gterzian",
+            "gitHubOrganization": "FOSS-Shanghai-Information-Technology",
+            "contact1": {
+                "name": "Gregory Terzian",
+                "email": "gregory.terzian@gmail.com",
+                "gitHubID": "gterzian"
+            }
+        },
+        "signature": {
+            "signedBy": "Gregory Terzian",
+            "signedByTitle": "legal representative",
+            "signedAt": "2024-06-11T19:46:40.813Z"
+        }
     }
 ]
