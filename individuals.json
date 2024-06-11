@@ -420,18 +420,6 @@
         }
     },
     {
-        "id": "50cf93cb-a640-4e9c-a913-a8ee6e3470be",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Gregory Terzian",
-            "gitHubID": "gterzian"
-        },
-        "signature": {
-            "signedAt": "2018-04-16T12:44:46.513Z"
-        }
-    },
-    {
         "id": "9d1ab604-638c-4d20-8a6f-cd878716dd88",
         "verified": false,
         "workstreams": "all",
