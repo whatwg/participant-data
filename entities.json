@@ -513,7 +513,8 @@
         "id": "25d5f0e2-5cd0-4062-a036-54c0cfcc57ea",
         "verified": true,
         "workstreams": [
-            "fetch"
+            "fetch",
+            "html"
         ],
         "info": {
             "name": "Fastly, Inc.",
@@ -521,14 +522,9 @@
             "url": "https://www.fastly.com/",
             "gitHubOrganization": "Fastly",
             "contact1": {
-                "name": "Mark Nottingham",
-                "email": "mnot@fastly.com",
-                "gitHubID": "mnot"
-            },
-            "contact2": {
-                "name": "Neal Hannan",
-                "email": "nhannan@fastly.com",
-                "gitHubID": "fastlyneal"
+                "name": "Jake Champion",
+                "email": "jchampion@fastly.com",
+                "gitHubID": "jakechampion"
             }
         },
         "signature": {
