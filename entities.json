@@ -521,14 +521,9 @@
             "url": "https://www.fastly.com/",
             "gitHubOrganization": "Fastly",
             "contact1": {
-                "name": "Mark Nottingham",
-                "email": "mnot@fastly.com",
-                "gitHubID": "mnot"
-            },
-            "contact2": {
-                "name": "Neal Hannan",
-                "email": "nhannan@fastly.com",
-                "gitHubID": "fastlyneal"
+                "name": "Jake Champion",
+                "email": "jchampion@fastly.com",
+                "gitHubID": "jakechampion"
             }
         },
         "signature": {
