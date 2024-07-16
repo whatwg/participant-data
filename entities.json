@@ -513,7 +513,8 @@
         "id": "25d5f0e2-5cd0-4062-a036-54c0cfcc57ea",
         "verified": true,
         "workstreams": [
-            "fetch"
+            "fetch",
+            "html"
         ],
         "info": {
             "name": "Fastly, Inc.",
