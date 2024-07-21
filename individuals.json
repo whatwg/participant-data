@@ -5169,5 +5169,17 @@
         "signature": {
             "signedAt": "2024-07-18T14:39:04.234Z"
         }
+    },
+    {
+        "id": "215e4fd2-06f3-42d6-be7e-81fcda646e53",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Shane Handley",
+            "gitHubID": "shanehandley"
+        },
+        "signature": {
+            "signedAt": "2024-07-21T04:44:36.194Z"
+        }
     }
 ]
