@@ -5181,5 +5181,18 @@
         "signature": {
             "signedAt": "2024-07-21T04:44:36.194Z"
         }
+    },
+    {
+        "id": "b94fbf97-ea04-48aa-8d60-59035307c87c",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "احمد جوده احمد محمد",
+            "gitHubID": "ahmed1106666"
+        },
+        "signature": {
+            "signedAt": "2024-07-25T09:24:06.490Z"
+        },
+        "invited": true
     }
 ]
