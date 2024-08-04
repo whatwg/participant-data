@@ -5194,5 +5194,18 @@
             "signedAt": "2024-07-25T09:24:06.490Z"
         },
         "invited": true
+    },
+    {
+        "id": "2bca2f7e-c0cb-46b8-8ee9-65d5a6d7344e",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Leon",
+            "gitHubID": "LeoXplore"
+        },
+        "signature": {
+            "signedAt": "2024-08-04T19:06:47.342Z"
+        },
+        "invited": true
     }
 ]
