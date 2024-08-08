@@ -1729,7 +1729,7 @@
     },
     {
         "id": "3faeb196-21c8-4b3a-bf69-cdabf8536c0c",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Automattic, Inc.",
