@@ -5207,5 +5207,17 @@
             "signedAt": "2024-08-04T19:06:47.342Z"
         },
         "invited": true
+    },
+    {
+        "id": "c8bfa241-43ca-4a50-b198-25b3710edf76",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Samuel Weinig",
+            "gitHubID": "weinig"
+        },
+        "signature": {
+            "signedAt": "2024-08-09T22:04:16.280Z"
+        }
     }
 ]
