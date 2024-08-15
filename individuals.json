@@ -5246,7 +5246,7 @@
     },
     {
         "id": "a7664577-0f6b-454b-a907-8c5e0814f866",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Matt Harding",
