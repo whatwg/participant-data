@@ -5243,5 +5243,17 @@
         "signature": {
             "signedAt": "2024-08-12T06:27:53.015Z"
         }
+    },
+    {
+        "id": "a7664577-0f6b-454b-a907-8c5e0814f866",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Matt Harding",
+            "gitHubID": "majaha"
+        },
+        "signature": {
+            "signedAt": "2024-08-15T06:23:32.122Z"
+        }
     }
 ]
