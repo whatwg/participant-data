@@ -1752,5 +1752,26 @@
             "signedByTitle": "Software Design Engineer",
             "signedAt": "2024-08-02T01:45:42.899Z"
         }
+    },
+    {
+        "id": "c03101cc-79c7-4bb4-a3c5-3968db1de159",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Incendi AS",
+            "address": "Snipemyrveien 16",
+            "url": "https://incendi.no/",
+            "gitHubOrganization": "incendilabs",
+            "contact1": {
+                "name": "Kenneth Myhra",
+                "email": "kenneth@incendi.no",
+                "gitHubID": "kennethmyhra"
+            }
+        },
+        "signature": {
+            "signedBy": "Kenneth Myhra",
+            "signedByTitle": "CEO",
+            "signedAt": "2024-08-20T20:20:55.629Z"
+        }
     }
 ]
