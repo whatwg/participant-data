@@ -5255,5 +5255,17 @@
         "signature": {
             "signedAt": "2024-08-15T06:23:32.122Z"
         }
+    },
+    {
+        "id": "81db5dbe-19c5-4051-ab34-c442ee9f446e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Pawan Udassi",
+            "gitHubID": "Udassi-Pawan"
+        },
+        "signature": {
+            "signedAt": "2024-09-04T05:34:41.902Z"
+        }
     }
 ]
