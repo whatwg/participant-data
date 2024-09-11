@@ -5267,5 +5267,17 @@
         "signature": {
             "signedAt": "2024-09-04T05:34:41.902Z"
         }
+    },
+    {
+        "id": "08ed0d3c-ff26-48fe-9b38-a611e7948fd0",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Anthony Brian Mallgren",
+            "gitHubID": "anthonymallgren"
+        },
+        "signature": {
+            "signedAt": "2024-09-11T19:33:33.543Z"
+        }
     }
 ]
