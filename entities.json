@@ -1773,5 +1773,31 @@
             "signedByTitle": "CEO",
             "signedAt": "2024-08-20T20:20:55.629Z"
         }
+    },
+    {
+        "id": "f3213f46-9378-452e-8636-a9158cfccf6a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ladybird Browser Initiative",
+            "address": "2261 Market Street STE 10029, San Francisco, CA 94114-1612",
+            "url": "https://ladybird.org/",
+            "gitHubOrganization": "LadybirdBrowser",
+            "contact1": {
+                "name": "Andreas Kling",
+                "email": "andreas@ladybird.org",
+                "gitHubID": "awesomekling"
+            },
+            "contact2": {
+                "name": "Jelle Raaijmakers",
+                "email": "jelle@ladybird.org",
+                "gitHubID": "gmta"
+            }
+        },
+        "signature": {
+            "signedBy": "Andreas Kling",
+            "signedByTitle": "President",
+            "signedAt": "2024-09-18T13:57:53.043Z"
+        }
     }
 ]
