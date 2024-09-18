@@ -3496,18 +3496,6 @@
         }
     },
     {
-        "id": "d0d064a8-365d-47ed-9418-d411ce1882be",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Samuel Atkins",
-            "gitHubID": "atkinssj"
-        },
-        "signature": {
-            "signedAt": "2021-12-13T16:46:41.130Z"
-        }
-    },
-    {
         "id": "7eca313b-7ba3-4574-8e39-efa8e4ca7f1a",
         "verified": true,
         "workstreams": "all",
