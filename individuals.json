@@ -5267,5 +5267,17 @@
         "signature": {
             "signedAt": "2024-09-11T19:33:33.543Z"
         }
+    },
+    {
+        "id": "97ed0d5d-4c06-4119-831c-e19e0a63ab92",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Matthew Mario Di Pasquale",
+            "gitHubID": "ma11hew28"
+        },
+        "signature": {
+            "signedAt": "2024-09-24T00:57:55.605Z"
+        }
     }
 ]
