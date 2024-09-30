@@ -5279,5 +5279,17 @@
         "signature": {
             "signedAt": "2024-09-24T00:57:55.605Z"
         }
+    },
+    {
+        "id": "e41339b3-267b-4d28-a627-d5bef5352db1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kemal Zebari",
+            "gitHubID": "kemzeb"
+        },
+        "signature": {
+            "signedAt": "2024-09-30T16:25:16.245Z"
+        }
     }
 ]
