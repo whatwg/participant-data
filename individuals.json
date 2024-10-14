@@ -5293,18 +5293,6 @@
         }
     },
     {
-        "id": "93bfb5e7-4cc3-4aa6-b3ca-5b3924b1234c",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Siye Liu",
-            "gitHubID": "siliu1"
-        },
-        "signature": {
-            "signedAt": "2024-09-30T16:49:31.726Z"
-        }
-    },
-    {
         "id": "1a66802d-cbae-4be6-907b-ee5f078d929b",
         "verified": true,
         "workstreams": "all",
