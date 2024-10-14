@@ -5315,5 +5315,17 @@
         "signature": {
             "signedAt": "2024-09-30T17:31:40.550Z"
         }
+    },
+    {
+        "id": "03cf11f6-b432-4f37-9647-6ae4581fde0e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Tristan Parisot",
+            "gitHubID": "quadristan"
+        },
+        "signature": {
+            "signedAt": "2024-10-14T10:47:31.348Z"
+        }
     }
 ]
