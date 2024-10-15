@@ -5306,7 +5306,7 @@
     },
     {
         "id": "03cf11f6-b432-4f37-9647-6ae4581fde0e",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Tristan Parisot",
