@@ -5315,5 +5315,17 @@
         "signature": {
             "signedAt": "2024-10-14T10:47:31.348Z"
         }
+    },
+    {
+        "id": "b28a74dd-4804-4891-9c72-c192c5bd3171",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "足立哲哉",
+            "gitHubID": "AdachiTetsuya"
+        },
+        "signature": {
+            "signedAt": "2024-10-24T07:03:17.155Z"
+        }
     }
 ]
