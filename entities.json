@@ -1799,5 +1799,26 @@
             "signedByTitle": "President",
             "signedAt": "2024-09-18T13:57:53.043Z"
         }
+    },
+    {
+        "id": "12451c13-01ec-4d34-8b88-5bc927cab043",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nexirius",
+            "address": "Dornacherstrasse 101",
+            "url": "https://www.nexirius.com/",
+            "gitHubOrganization": "Nexirius",
+            "contact1": {
+                "name": "Marcel Baumann",
+                "email": "marcel.baumann@nexirius.com",
+                "gitHubID": "nexirius"
+            }
+        },
+        "signature": {
+            "signedBy": "Marcel Baumann",
+            "signedByTitle": "Director",
+            "signedAt": "2024-10-29T11:06:10.816Z"
+        }
     }
 ]
