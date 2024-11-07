@@ -1728,32 +1728,6 @@
         }
     },
     {
-        "id": "3faeb196-21c8-4b3a-bf69-cdabf8536c0c",
-        "verified": true,
-        "workstreams": "all",
-        "info": {
-            "name": "Automattic, Inc.",
-            "address": "60 29th Street #343",
-            "url": "https://automattic.com/",
-            "gitHubOrganization": "automattic",
-            "contact1": {
-                "name": "Dennis Snell",
-                "email": "dennis.snell@automattic.com",
-                "gitHubID": "dmsnell"
-            },
-            "contact2": {
-                "name": "Adam Zielinski",
-                "email": "adam.zielinski@automattic.com",
-                "gitHubID": "adamziel"
-            }
-        },
-        "signature": {
-            "signedBy": "Dennis Snell",
-            "signedByTitle": "Software Design Engineer",
-            "signedAt": "2024-08-02T01:45:42.899Z"
-        }
-    },
-    {
         "id": "c03101cc-79c7-4bb4-a3c5-3968db1de159",
         "verified": false,
         "workstreams": "all",
