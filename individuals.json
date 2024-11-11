@@ -5339,5 +5339,17 @@
         "signature": {
             "signedAt": "2024-11-09T19:00:06.383Z"
         }
+    },
+    {
+        "id": "0cf39921-ba3d-4b3e-b7f5-01e8516c2f3f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alexander Petros",
+            "gitHubID": "alexpetros"
+        },
+        "signature": {
+            "signedAt": "2024-11-11T17:08:10.577Z"
+        }
     }
 ]
