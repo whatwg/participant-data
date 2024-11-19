@@ -5351,5 +5351,17 @@
         "signature": {
             "signedAt": "2024-11-11T17:08:10.577Z"
         }
+    },
+    {
+        "id": "523ed2b6-6089-4fb9-b898-a10416054615",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Espen Hovlandsdal",
+            "gitHubID": "rexxars"
+        },
+        "signature": {
+            "signedAt": "2024-11-19T03:07:24.571Z"
+        }
     }
 ]
