@@ -5387,5 +5387,17 @@
         "signature": {
             "signedAt": "2024-11-30T09:22:07.171Z"
         }
+    },
+    {
+        "id": "f27551a9-3cb8-4944-9bd2-0aef28ca3b05",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Yash Raj Bharti",
+            "gitHubID": "yashrajbharti"
+        },
+        "signature": {
+            "signedAt": "2024-12-01T13:07:30.520Z"
+        }
     }
 ]
