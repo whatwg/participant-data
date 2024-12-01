@@ -5399,5 +5399,17 @@
         "signature": {
             "signedAt": "2024-12-01T13:07:30.520Z"
         }
+    },
+    {
+        "id": "afab4bce-52e5-4979-97d4-331c76b66f02",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Shannon Booth",
+            "gitHubID": "shannonbooth"
+        },
+        "signature": {
+            "signedAt": "2024-12-01T21:35:23.893Z"
+        }
     }
 ]
