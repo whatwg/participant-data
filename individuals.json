@@ -5402,7 +5402,7 @@
     },
     {
         "id": "afab4bce-52e5-4979-97d4-331c76b66f02",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Shannon Booth",
