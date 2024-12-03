@@ -5411,5 +5411,17 @@
         "signature": {
             "signedAt": "2024-12-01T21:35:23.893Z"
         }
+    },
+    {
+        "id": "fa62999d-e7d3-418a-baf6-e5f44b1b749f",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kristian Spangsege",
+            "gitHubID": "kspangsege"
+        },
+        "signature": {
+            "signedAt": "2024-12-03T11:05:45.685Z"
+        }
     }
 ]
