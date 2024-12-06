@@ -5414,7 +5414,7 @@
     },
     {
         "id": "fa62999d-e7d3-418a-baf6-e5f44b1b749f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Kristian Spangsege",
