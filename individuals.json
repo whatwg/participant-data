@@ -5435,5 +5435,17 @@
         "signature": {
             "signedAt": "2024-12-10T06:27:37.728Z"
         }
+    },
+    {
+        "id": "f99644d0-0854-40a4-84e6-cf5476a129cd",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Daniel Ethridge",
+            "gitHubID": "wlib"
+        },
+        "signature": {
+            "signedAt": "2024-12-15T04:58:29.942Z"
+        }
     }
 ]
