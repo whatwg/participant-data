@@ -5438,7 +5438,7 @@
     },
     {
         "id": "f99644d0-0854-40a4-84e6-cf5476a129cd",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Daniel Ethridge",
