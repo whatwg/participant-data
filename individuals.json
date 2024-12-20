@@ -5447,5 +5447,17 @@
         "signature": {
             "signedAt": "2024-12-15T04:58:29.942Z"
         }
+    },
+    {
+        "id": "ee3750b1-8143-414d-a378-3cb1450c16d2",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Andre Schackier",
+            "gitHubID": "AMS21"
+        },
+        "signature": {
+            "signedAt": "2024-12-20T16:09:28.398Z"
+        }
     }
 ]
