@@ -5450,7 +5450,7 @@
     },
     {
         "id": "ee3750b1-8143-414d-a378-3cb1450c16d2",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Andre Schackier",
