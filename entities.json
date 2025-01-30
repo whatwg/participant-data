@@ -95,6 +95,7 @@
             "fetch",
             "fullscreen",
             "html",
+            "storage",
             "streams"
         ],
         "info": {
