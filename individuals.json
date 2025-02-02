@@ -5495,5 +5495,17 @@
         "signature": {
             "signedAt": "2025-01-20T09:19:08.774Z"
         }
+    },
+    {
+        "id": "93d1d0b9-7f28-459d-a493-7a7e7a73464d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Roger King",
+            "gitHubID": "rgking"
+        },
+        "signature": {
+            "signedAt": "2025-02-02T20:01:38.819Z"
+        }
     }
 ]
