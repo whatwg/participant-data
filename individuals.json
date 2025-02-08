@@ -5507,5 +5507,18 @@
         "signature": {
             "signedAt": "2025-02-02T20:01:38.819Z"
         }
+    },
+    {
+        "id": "b7d764cc-64ed-448f-9f75-1371a53b5917",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Lachlan Prior",
+            "gitHubID": "Lockmister"
+        },
+        "signature": {
+            "signedAt": "2025-02-08T22:26:39.367Z"
+        },
+        "invited": true
     }
 ]
