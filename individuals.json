@@ -5532,5 +5532,17 @@
         "signature": {
             "signedAt": "2025-02-12T05:37:14.101Z"
         }
+    },
+    {
+        "id": "159d7168-b128-49cb-8315-93cf31e490be",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Alexander Shaw",
+            "gitHubID": "Symbitic"
+        },
+        "signature": {
+            "signedAt": "2025-02-17T14:35:15.512Z"
+        }
     }
 ]
