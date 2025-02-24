@@ -5544,5 +5544,17 @@
         "signature": {
             "signedAt": "2025-02-17T14:35:15.512Z"
         }
+    },
+    {
+        "id": "5a32e136-661f-449c-8fcd-4bb60be8a123",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bernard Ryhede Bengtsson",
+            "gitHubID": "bernardrb"
+        },
+        "signature": {
+            "signedAt": "2025-02-24T13:17:29.914Z"
+        }
     }
 ]
