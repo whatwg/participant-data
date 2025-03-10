@@ -5571,7 +5571,7 @@
     },
     {
         "id": "1d6e16b5-9c67-44cf-b0ee-07d420ab189f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Richard Torres",
