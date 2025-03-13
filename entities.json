@@ -1795,5 +1795,31 @@
             "signedByTitle": "Director",
             "signedAt": "2024-10-29T11:06:10.816Z"
         }
+    },
+    {
+        "id": "f8495403-6dad-4aea-9076-14d1a0817e4e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Codeblog Corp",
+            "address": "111 New Montgomery Street, San Francisco, CA 94105",
+            "url": "https://bun.sh/",
+            "gitHubOrganization": "oven-sh",
+            "contact1": {
+                "name": "Meghan Denny",
+                "email": "meghan@bun.sh",
+                "gitHubID": "nektro"
+            },
+            "contact2": {
+                "name": "Jarred Sumner",
+                "email": "jarred@bun.sh",
+                "gitHubID": "Jarred-Sumner"
+            }
+        },
+        "signature": {
+            "signedBy": "Jarred Sumner",
+            "signedByTitle": "Founder, CEO",
+            "signedAt": "2025-03-13T21:40:49.183Z"
+        }
     }
 ]
