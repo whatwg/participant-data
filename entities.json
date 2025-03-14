@@ -1798,7 +1798,7 @@
     },
     {
         "id": "f8495403-6dad-4aea-9076-14d1a0817e4e",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Codeblog Corp",
