@@ -5547,7 +5547,7 @@
     },
     {
         "id": "5a32e136-661f-449c-8fcd-4bb60be8a123",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Bernard Ryhede Bengtsson",
