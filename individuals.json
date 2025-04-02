@@ -5604,5 +5604,17 @@
         "signature": {
             "signedAt": "2025-03-26T11:52:58.195Z"
         }
+    },
+    {
+        "id": "f486ab97-dab0-4322-abff-652946a21451",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Roberto Furlani",
+            "gitHubID": "rfurlani61"
+        },
+        "signature": {
+            "signedAt": "2025-04-02T14:37:29.703Z"
+        }
     }
 ]
