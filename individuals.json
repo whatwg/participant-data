@@ -5628,5 +5628,18 @@
         "signature": {
             "signedAt": "2025-04-03T10:34:59.589Z"
         }
+    },
+    {
+        "id": "d51612f7-35fb-400e-ad57-eaf59e039c68",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Victor l Washington ",
+            "gitHubID": "vnova01"
+        },
+        "signature": {
+            "signedAt": "2025-05-07T06:27:16.546Z"
+        },
+        "invited": true
     }
 ]
