@@ -5641,5 +5641,17 @@
             "signedAt": "2025-05-07T06:27:16.546Z"
         },
         "invited": true
+    },
+    {
+        "id": "d5a33ff1-8d61-423c-9d1a-a8af385027f6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kaito Suzuki",
+            "gitHubID": "shiomiyan"
+        },
+        "signature": {
+            "signedAt": "2025-05-14T04:44:18.769Z"
+        }
     }
 ]
