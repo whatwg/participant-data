@@ -5644,7 +5644,7 @@
     },
     {
         "id": "d5a33ff1-8d61-423c-9d1a-a8af385027f6",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Kaito Suzuki",
