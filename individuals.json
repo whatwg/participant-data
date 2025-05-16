@@ -5653,5 +5653,17 @@
         "signature": {
             "signedAt": "2025-05-14T04:44:18.769Z"
         }
+    },
+    {
+        "id": "f939997d-eb8d-4394-9268-2cecbc108976",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Benjamin Eugene Eidson",
+            "gitHubID": "Prospero23"
+        },
+        "signature": {
+            "signedAt": "2025-05-16T12:49:00.623Z"
+        }
     }
 ]
