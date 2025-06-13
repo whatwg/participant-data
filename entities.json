@@ -1821,5 +1821,31 @@
             "signedByTitle": "Founder, CEO",
             "signedAt": "2025-03-13T21:40:49.183Z"
         }
+    },
+    {
+        "id": "551d7b60-f097-45ac-a343-3e59289dd531",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Client-side development, Inc.",
+            "address": "1111B S Governors Ave STE 7601, Dover, DE, 19904, US",
+            "url": "https://cside.dev/",
+            "gitHubOrganization": "client-side-dev",
+            "contact1": {
+                "name": "Simon Wijckmans",
+                "email": "simon@cside.dev",
+                "gitHubID": "swijckmans"
+            },
+            "contact2": {
+                "name": "Conrad Crawford",
+                "email": "conrad@cside.dev",
+                "gitHubID": "cnrad"
+            }
+        },
+        "signature": {
+            "signedBy": "Simon Wijckmans",
+            "signedByTitle": "CEO",
+            "signedAt": "2025-06-13T18:31:16.231Z"
+        }
     }
 ]
