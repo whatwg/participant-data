@@ -1824,7 +1824,7 @@
     },
     {
         "id": "551d7b60-f097-45ac-a343-3e59289dd531",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Client-side development, Inc.",
