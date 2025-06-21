@@ -5653,5 +5653,35 @@
         "signature": {
             "signedAt": "2025-05-16T12:49:00.623Z"
         }
+    },
+    {
+        "id": "38c89d11-b40d-4b0c-895a-3493b7fa3a28",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Paola Guerra Sánchez ",
+            "gitHubID": "2425508"
+        },
+        "signature": {
+            "signedAt": "2025-06-21T00:33:19.091Z"
+        }
     }
 ]
