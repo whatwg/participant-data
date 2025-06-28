@@ -5683,5 +5683,17 @@
         "signature": {
             "signedAt": "2025-06-21T00:33:19.091Z"
         }
+    },
+    {
+        "id": "d791b97a-bfee-4154-97f7-ed220bad92b3",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Abdelatef Ali",
+            "gitHubID": "AbdelatefElshafei"
+        },
+        "signature": {
+            "signedAt": "2025-06-28T12:41:04.426Z"
+        }
     }
 ]
