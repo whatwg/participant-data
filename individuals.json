@@ -5719,5 +5719,17 @@
         "signature": {
             "signedAt": "2025-07-14T07:07:26.977Z"
         }
+    },
+    {
+        "id": "b4490f05-77f2-453b-b74f-6fb23ca60a65",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Daniel Sierpiński",
+            "gitHubID": "513ry"
+        },
+        "signature": {
+            "signedAt": "2025-07-25T10:12:49.478Z"
+        }
     }
 ]
