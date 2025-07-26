@@ -5731,5 +5731,17 @@
         "signature": {
             "signedAt": "2025-07-25T10:12:49.478Z"
         }
+    },
+    {
+        "id": "79cbdc4b-57a0-4a28-80d4-5214f3c06952",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Zoltán Kondér",
+            "gitHubID": "zoltan-konder"
+        },
+        "signature": {
+            "signedAt": "2025-07-26T00:28:40.528Z"
+        }
     }
 ]
