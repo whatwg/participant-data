@@ -5722,7 +5722,7 @@
     },
     {
         "id": "b4490f05-77f2-453b-b74f-6fb23ca60a65",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Daniel Sierpiński",
