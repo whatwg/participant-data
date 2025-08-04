@@ -5770,7 +5770,7 @@
     },
     {
         "id": "c8793bd2-db04-46d1-a74f-0b6f40f3d62a",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Bogdan Chadkin",
