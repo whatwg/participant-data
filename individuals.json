@@ -5767,5 +5767,17 @@
         "signature": {
             "signedAt": "2025-07-29T08:06:03.343Z"
         }
+    },
+    {
+        "id": "c8793bd2-db04-46d1-a74f-0b6f40f3d62a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bogdan Chadkin",
+            "gitHubID": "TrySound"
+        },
+        "signature": {
+            "signedAt": "2025-08-04T11:05:04.733Z"
+        }
     }
 ]
