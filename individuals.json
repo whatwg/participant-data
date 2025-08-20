@@ -5779,5 +5779,17 @@
         "signature": {
             "signedAt": "2025-08-04T11:05:04.733Z"
         }
+    },
+    {
+        "id": "57c189f1-dd4a-4fd4-af02-c81ae721be0c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bekalu Teshome Terefe Zenebe",
+            "gitHubID": "alethkit"
+        },
+        "signature": {
+            "signedAt": "2025-08-20T21:54:53.696Z"
+        }
     }
 ]
