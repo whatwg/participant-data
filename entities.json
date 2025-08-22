@@ -1847,5 +1847,26 @@
             "signedByTitle": "CEO",
             "signedAt": "2025-06-13T18:31:16.231Z"
         }
+    },
+    {
+        "id": "7212a8f7-d839-4975-af82-3c8b643c312e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Nibert Investments LLC",
+            "address": "2632 E BROOKFIELD CIR N",
+            "url": "https://github.com/nibertinvestmentsllc",
+            "gitHubOrganization": "nibertinvestmentsllc",
+            "contact1": {
+                "name": "JOSHUA R NIBERT",
+                "email": "josh@nibertinvestments.com",
+                "gitHubID": "nibertinvestments"
+            }
+        },
+        "signature": {
+            "signedBy": "JOSHUA R NIBERT",
+            "signedByTitle": "FOUNDER",
+            "signedAt": "2025-08-22T01:19:47.651Z"
+        }
     }
 ]
