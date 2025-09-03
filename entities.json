@@ -1868,5 +1868,49 @@
             "signedByTitle": "FOUNDER",
             "signedAt": "2025-08-22T01:19:47.651Z"
         }
+    },
+    {
+        "id": "5d8b6ccb-796e-4895-810e-6a92fed4afb2",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Kayla Michelle Blanco",
+            "address": "12312 sherman way APT 174 north hollywood, CA 91605",
+            "url": "http://www.google.com/",
+            "gitHubOrganization": "GODbody",
+            "contact1": {
+                "name": "Duquan White",
+                "email": "maclamboyant1@gmail.com",
+                "gitHubID": "GODbody"
+            },
+            "contact2": {
+                "name": "Dena Mendes ",
+                "email": "denab1222@yahoo.com",
+                "gitHubID": "GODbody"
+            }
+        },
+        "signature": {
+            "signedBy": "Kayla Michelle Blanco",
+            "signedByTitle": "GOD",
+            "signedAt": "2025-09-03T12:56:27.524Z"
+        }
     }
 ]
