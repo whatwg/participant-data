@@ -5791,5 +5791,17 @@
         "signature": {
             "signedAt": "2025-08-20T21:54:53.696Z"
         }
+    },
+    {
+        "id": "81993927-3411-43ca-9076-2d097bb139cb",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Lorenzo Lomartire",
+            "gitHubID": "LL-10"
+        },
+        "signature": {
+            "signedAt": "2025-09-16T11:18:01.882Z"
+        }
     }
 ]
