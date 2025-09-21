@@ -5815,5 +5815,17 @@
         "signature": {
             "signedAt": "2025-09-16T14:43:43.142Z"
         }
+    },
+    {
+        "id": "c07cf648-3351-4d8c-ae09-b69af62454c7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Shivendra Kumar",
+            "gitHubID": "dvlpr-shivendra"
+        },
+        "signature": {
+            "signedAt": "2025-09-21T12:33:21.783Z"
+        }
     }
 ]
