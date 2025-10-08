@@ -5827,5 +5827,17 @@
         "signature": {
             "signedAt": "2025-09-21T12:33:21.783Z"
         }
+    },
+    {
+        "id": "6a60cb33-4058-4821-a390-3861a4191ee1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Elias Sjögreen",
+            "gitHubID": "eliassjogreen"
+        },
+        "signature": {
+            "signedAt": "2025-10-08T18:22:22.241Z"
+        }
     }
 ]
