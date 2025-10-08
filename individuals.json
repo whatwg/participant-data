@@ -5839,5 +5839,18 @@
         "signature": {
             "signedAt": "2025-10-08T18:22:22.241Z"
         }
+    },
+    {
+        "id": "795dc41f-2772-471d-a305-2eeb720431ba",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Dean Srebnik",
+            "gitHubID": "load1n9"
+        },
+        "signature": {
+            "signedAt": "2025-10-08T18:25:00.043Z"
+        },
+        "invited": true
     }
 ]
