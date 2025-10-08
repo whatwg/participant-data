@@ -5852,5 +5852,17 @@
             "signedAt": "2025-10-08T18:25:00.043Z"
         },
         "invited": true
+    },
+    {
+        "id": "34b65f65-d330-4af0-a4f2-dcdf21710c4e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Lino Le Van",
+            "gitHubID": "lino-levan"
+        },
+        "signature": {
+            "signedAt": "2025-10-08T19:18:40.224Z"
+        }
     }
 ]
