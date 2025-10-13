@@ -1912,5 +1912,26 @@
             "signedByTitle": "GOD",
             "signedAt": "2025-09-03T12:56:27.524Z"
         }
+    },
+    {
+        "id": "912eb9e5-d24e-46f8-909d-52fa89dab859",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Elide Technologies, Inc.",
+            "address": "188 South Park, Unit 10, San Francisco, CA 94107",
+            "url": "https://elide.dev/",
+            "gitHubOrganization": "elide-dev",
+            "contact1": {
+                "name": "Sam Gammon",
+                "email": "sam@elide.dev",
+                "gitHubID": "sgammon"
+            }
+        },
+        "signature": {
+            "signedBy": "Sam Gammon",
+            "signedByTitle": "Founder",
+            "signedAt": "2025-10-13T18:39:11.647Z"
+        }
     }
 ]
