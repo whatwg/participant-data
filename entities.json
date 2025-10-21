@@ -1933,5 +1933,31 @@
             "signedByTitle": "Founder",
             "signedAt": "2025-10-13T18:39:11.647Z"
         }
+    },
+    {
+        "id": "9df04dea-a526-4af4-b2e6-51e8e2f03760",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Harper",
+            "address": "2420 17th St, Suite 270, Denver, CO 80202",
+            "url": "https://www.harper.fast/",
+            "gitHubOrganization": "HarperFast",
+            "contact1": {
+                "name": "Ethan Arrowood",
+                "email": "ethan@arrowood.dev",
+                "gitHubID": "Ethan-Arrowood"
+            },
+            "contact2": {
+                "name": "Kristopher Zyp",
+                "email": "kris@harperdb.io",
+                "gitHubID": "kriszyp"
+            }
+        },
+        "signature": {
+            "signedBy": "Kristopher Zyp",
+            "signedByTitle": "SVP of Engineering",
+            "signedAt": "2025-10-21T17:17:21.336Z"
+        }
     }
 ]
