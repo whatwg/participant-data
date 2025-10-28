@@ -5876,5 +5876,17 @@
         "signature": {
             "signedAt": "2025-10-20T09:01:17.898Z"
         }
+    },
+    {
+        "id": "4a004f57-9397-48fc-9e8a-3d5a403fbf7d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Duba Sirisha",
+            "gitHubID": "SirishaDuba"
+        },
+        "signature": {
+            "signedAt": "2025-10-28T11:00:49.675Z"
+        }
     }
 ]
