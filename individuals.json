@@ -5888,5 +5888,17 @@
         "signature": {
             "signedAt": "2025-10-28T11:00:49.675Z"
         }
+    },
+    {
+        "id": "8bb68a8c-7d61-48ed-b04e-446e7c9dd116",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kendrick Anderson ",
+            "gitHubID": "SlyFoxxx00"
+        },
+        "signature": {
+            "signedAt": "2025-10-29T12:43:29.619Z"
+        }
     }
 ]
