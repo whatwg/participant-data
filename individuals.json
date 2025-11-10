@@ -5900,5 +5900,17 @@
         "signature": {
             "signedAt": "2025-10-29T12:43:29.619Z"
         }
+    },
+    {
+        "id": "e99d041e-82af-4fc7-a57a-640d19fc9cd9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Wonho Shin",
+            "gitHubID": "ShinWonho"
+        },
+        "signature": {
+            "signedAt": "2025-11-10T12:19:00.355Z"
+        }
     }
 ]
