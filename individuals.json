@@ -5924,5 +5924,17 @@
         "signature": {
             "signedAt": "2025-11-13T04:44:56.509Z"
         }
+    },
+    {
+        "id": "19eea992-0975-41e6-851b-0847340ea3c9",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Lorenz Ackermann",
+            "gitHubID": "lpas"
+        },
+        "signature": {
+            "signedAt": "2025-11-19T23:59:16.658Z"
+        }
     }
 ]
