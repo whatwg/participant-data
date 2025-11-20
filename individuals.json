@@ -5927,7 +5927,7 @@
     },
     {
         "id": "19eea992-0975-41e6-851b-0847340ea3c9",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Lorenz Ackermann",
