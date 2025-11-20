@@ -5903,7 +5903,7 @@
     },
     {
         "id": "e99d041e-82af-4fc7-a57a-640d19fc9cd9",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Wonho Shin",
