@@ -1959,5 +1959,31 @@
             "signedByTitle": "SVP of Engineering",
             "signedAt": "2025-10-21T17:17:21.336Z"
         }
+    },
+    {
+        "id": "f7ec89ee-41b2-4c0f-b223-b93fe82c7758",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Squarespace, Inc.",
+            "address": "225 Varick Street, 12th Floor, New York, NY 10014",
+            "url": "http://squarespace.com/",
+            "gitHubOrganization": "Squarespace",
+            "contact1": {
+                "name": "Scott Jehl",
+                "email": "sjehl@squarespace.com",
+                "gitHubID": "scottjehl"
+            },
+            "contact2": {
+                "name": "Brent Kimmel",
+                "email": "bkimmel@squarespace.com",
+                "gitHubID": "bkimmelSQSP"
+            }
+        },
+        "signature": {
+            "signedBy": "Eric M. Leventhal",
+            "signedByTitle": "Assistant General Counsel",
+            "signedAt": "2025-12-03T16:29:05.879Z"
+        }
     }
 ]
