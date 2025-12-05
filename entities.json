@@ -1554,13 +1554,13 @@
             "gitHubOrganization": "Automattic",
             "contact1": {
                 "name": "Jarda Snajdr",
-                "email": "neil.peretz@automattic.com",
+                "email": "jarda.snajdr@automattic.com",
                 "gitHubID": "jsnajdr"
             },
             "contact2": {
-                "name": "Neil Peretz",
-                "email": "neil.peretz@automattic.com",
-                "gitHubID": "jishudev1"
+                "name": "Dennis Snell",
+                "email": "dennis.snell@automattic.com",
+                "gitHubID": "dmsnell"
             }
         },
         "signature": {
