@@ -5960,5 +5960,17 @@
         "signature": {
             "signedAt": "2026-01-02T13:39:54.719Z"
         }
+    },
+    {
+        "id": "acac06ac-2730-4bbc-bef9-927fd629cb43",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Maxwell Winkler",
+            "gitHubID": "valadaptive"
+        },
+        "signature": {
+            "signedAt": "2026-01-04T13:53:48.031Z"
+        }
     }
 ]
