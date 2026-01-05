@@ -237,9 +237,9 @@
             "url": "https://apple.com/",
             "gitHubOrganization": "apple-whatwg",
             "contact1": {
-                "name": "David Singer",
-                "email": "singer@apple.com",
-                "gitHubID": "dwsinger"
+                "name": "Anne van Kesteren",
+                "email": "annevk@apple.com",
+                "gitHubID": "annevk"
             },
             "contact2": {
                 "name": "Theresa O'Connor",
