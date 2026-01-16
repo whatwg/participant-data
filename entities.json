@@ -1962,7 +1962,7 @@
     },
     {
         "id": "f7ec89ee-41b2-4c0f-b223-b93fe82c7758",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Squarespace, Inc.",
