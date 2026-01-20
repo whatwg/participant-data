@@ -5996,5 +5996,17 @@
         "signature": {
             "signedAt": "2026-01-12T13:50:44.872Z"
         }
+    },
+    {
+        "id": "d78fa6bb-3f91-4f2a-963e-fce21b373ca7",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Monica Chintala",
+            "gitHubID": "Monica-ch"
+        },
+        "signature": {
+            "signedAt": "2026-01-20T18:19:55.197Z"
+        }
     }
 ]
