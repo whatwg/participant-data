@@ -6008,5 +6008,17 @@
         "signature": {
             "signedAt": "2026-01-20T18:19:55.197Z"
         }
+    },
+    {
+        "id": "870a576b-c8ca-4168-894c-de6cad97b153",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chase Knowlden",
+            "gitHubID": "ChaseKnowlden"
+        },
+        "signature": {
+            "signedAt": "2026-02-16T18:53:28.047Z"
+        }
     }
 ]
