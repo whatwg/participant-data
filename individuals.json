@@ -5951,7 +5951,7 @@
     },
     {
         "id": "101818c0-9b12-4a5c-be84-aea8c452a92f",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Domenic Denicola",
