@@ -1985,5 +1985,26 @@
             "signedByTitle": "Assistant General Counsel",
             "signedAt": "2025-12-03T16:29:05.879Z"
         }
+    },
+    {
+        "id": "1b3e3bd7-7416-4270-8630-fa4d9a900844",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "OM Innovation AI Inc.",
+            "address": "5 Lincoln Ave, New York, New York, USA 10454",
+            "url": "https://usejunior.com/",
+            "gitHubOrganization": "UseJunior",
+            "contact1": {
+                "name": "Steven Obiajulu",
+                "email": "steven@usejunior.com",
+                "gitHubID": "stevenobiajulu"
+            }
+        },
+        "signature": {
+            "signedBy": "Steven Obiajulu",
+            "signedByTitle": "Chief Executive Officer",
+            "signedAt": "2026-02-24T03:43:19.748Z"
+        }
     }
 ]
