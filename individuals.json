@@ -6020,5 +6020,19 @@
         "signature": {
             "signedAt": "2026-02-16T18:53:28.047Z"
         }
+    },
+    {
+        "id": "bc99d0db-9a8d-4aef-9f4e-9d5264dff114",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Aleksandr Boiarnikov",
+            "gitHubID": "gmvrpw"
+        },
+        "signature": {
+            "signedAt": "2026-02-28T13:53:33.746Z"
+        }
     }
 ]
