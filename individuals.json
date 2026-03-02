@@ -6046,5 +6046,17 @@
         "signature": {
             "signedAt": "2026-03-01T12:36:49.008Z"
         }
+    },
+    {
+        "id": "0c4e1417-1ff6-43a0-83c5-e11c6e3580ec",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Helmut Januschka",
+            "gitHubID": "hjanuschka"
+        },
+        "signature": {
+            "signedAt": "2026-03-02T08:14:10.648Z"
+        }
     }
 ]
