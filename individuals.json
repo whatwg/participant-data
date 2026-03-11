@@ -6058,5 +6058,17 @@
         "signature": {
             "signedAt": "2026-03-02T08:14:10.648Z"
         }
+    },
+    {
+        "id": "7c846ded-4e19-4596-a5d9-70981e8ab21b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Oleksandr Pavliuk",
+            "gitHubID": "opavlyuk"
+        },
+        "signature": {
+            "signedAt": "2026-03-11T09:27:35.248Z"
+        }
     }
 ]
