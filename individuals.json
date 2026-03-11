@@ -6061,7 +6061,7 @@
     },
     {
         "id": "7c846ded-4e19-4596-a5d9-70981e8ab21b",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Oleksandr Pavliuk",
