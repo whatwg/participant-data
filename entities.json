@@ -2006,5 +2006,26 @@
             "signedByTitle": "Chief Executive Officer",
             "signedAt": "2026-02-24T03:43:19.748Z"
         }
+    },
+    {
+        "id": "3b93d00a-2cc0-4e2c-b635-64fecaf3ba72",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "林冠成",
+            "address": "taichung",
+            "url": "https://github.com/cps92429",
+            "gitHubOrganization": "cps92429",
+            "contact1": {
+                "name": "cps92429",
+                "email": "cps92429@gmail.com",
+                "gitHubID": "cps92429"
+            }
+        },
+        "signature": {
+            "signedBy": "林冠成",
+            "signedByTitle": " Agreement o",
+            "signedAt": "2026-03-17T07:17:19.303Z"
+        }
     }
 ]
