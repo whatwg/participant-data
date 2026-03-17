@@ -6070,5 +6070,17 @@
         "signature": {
             "signedAt": "2026-03-11T09:27:35.248Z"
         }
+    },
+    {
+        "id": "11f3d665-c01e-427e-b96e-ce88670432c6",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Lachlan Hunt",
+            "gitHubID": "lachlanhunt"
+        },
+        "signature": {
+            "signedAt": "2026-03-17T13:10:58.113Z"
+        }
     }
 ]
