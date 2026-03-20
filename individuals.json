@@ -6082,5 +6082,17 @@
         "signature": {
             "signedAt": "2026-03-17T13:10:58.113Z"
         }
+    },
+    {
+        "id": "b71fadc7-25d0-4564-8d59-f78477f1b81b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Fabian Singer",
+            "gitHubID": "daxpedda"
+        },
+        "signature": {
+            "signedAt": "2026-03-20T08:16:58.801Z"
+        }
     }
 ]
