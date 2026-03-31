@@ -6094,5 +6094,17 @@
         "signature": {
             "signedAt": "2026-03-20T08:16:58.801Z"
         }
+    },
+    {
+        "id": "ffa37107-d393-4b07-8917-9f70e86c9367",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Cameron Theißen",
+            "gitHubID": "Psychpsyo"
+        },
+        "signature": {
+            "signedAt": "2026-03-31T12:24:01.960Z"
+        }
     }
 ]
