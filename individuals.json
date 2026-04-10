@@ -6106,5 +6106,17 @@
         "signature": {
             "signedAt": "2026-03-31T12:24:01.960Z"
         }
+    },
+    {
+        "id": "54a0e3b5-39d8-45a1-89a7-75b0295fafdc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jack Lofton",
+            "gitHubID": "jackoporter"
+        },
+        "signature": {
+            "signedAt": "2026-04-10T23:47:42.193Z"
+        }
     }
 ]
