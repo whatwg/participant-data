@@ -6142,5 +6142,17 @@
         "signature": {
             "signedAt": "2026-04-24T22:45:45.225Z"
         }
+    },
+    {
+        "id": "7f8ab629-0a05-40d9-b6a9-3ff76095c450",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Devansh Joshi",
+            "gitHubID": "Devansh232406"
+        },
+        "signature": {
+            "signedAt": "2026-05-22T05:05:36.294Z"
+        }
     }
 ]
