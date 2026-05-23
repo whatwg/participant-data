@@ -6154,5 +6154,17 @@
         "signature": {
             "signedAt": "2026-05-22T05:05:36.294Z"
         }
+    },
+    {
+        "id": "b497aad5-2832-4182-9cb7-8f1aadf025b3",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Teo Eterovic",
+            "gitHubID": "teoeter"
+        },
+        "signature": {
+            "signedAt": "2026-05-23T16:44:12.433Z"
+        }
     }
 ]
