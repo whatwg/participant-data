@@ -6145,7 +6145,7 @@
     },
     {
         "id": "7f8ab629-0a05-40d9-b6a9-3ff76095c450",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Devansh Joshi",
