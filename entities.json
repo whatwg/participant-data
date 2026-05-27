@@ -2027,5 +2027,35 @@
             "signedByTitle": " Agreement o",
             "signedAt": "2026-03-17T07:17:19.303Z"
         }
+    },
+    {
+        "id": "32dc59d5-528a-4a0c-a362-f4f9225f9c84",
+        "verified": false,
+        "workstreams": [
+            "fetch",
+            "html",
+            "webidl"
+        ],
+        "info": {
+            "name": "Vercel",
+            "address": "440 N Barranca Ave #4133, Covina, CA 91723",
+            "url": "https://vercel.com/",
+            "gitHubOrganization": "vercel-standards-whatwg",
+            "contact1": {
+                "name": "Steven Salat",
+                "email": "steven@vercel.com",
+                "gitHubID": "styfle"
+            },
+            "contact2": {
+                "name": "Malte Ubl",
+                "email": "malte@vercel.com",
+                "gitHubID": "cramforce"
+            }
+        },
+        "signature": {
+            "signedBy": "Steven Salat",
+            "signedByTitle": "Software Engineer",
+            "signedAt": "2026-05-27T17:39:50.629Z"
+        }
     }
 ]
