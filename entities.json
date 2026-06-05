@@ -91,12 +91,23 @@
         "id": "9dd17017-cdfe-42eb-b97a-331e23a2390d",
         "verified": true,
         "workstreams": [
+            "compat",
+            "console",
             "dom",
+            "encoding",
             "fetch",
             "fullscreen",
             "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
             "storage",
-            "streams"
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
         ],
         "info": {
             "name": "Microsoft Corporation",
@@ -104,14 +115,14 @@
             "url": "https://www.microsoft.com/",
             "gitHubOrganization": "MicrosoftWHATWGContributors",
             "contact1": {
-                "name": "Diego González",
-                "email": "luigonza@microsoft.com",
-                "gitHubID": "diekus"
+                "name": "Leo Lee",
+                "email": "leo.lee@microsoft.com",
+                "gitHubID": "leotlee"
             },
             "contact2": {
-                "name": "Andrew Nolan",
-                "email": "annolan@microsoft.com",
-                "gitHubID": "anolan4"
+                "name": "Michael Jackson",
+                "email": "mjackson@microsoft.com",
+                "gitHubID": "mwjacksonmsft"
             }
         },
         "signature": {
