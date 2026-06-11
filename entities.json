@@ -2068,5 +2068,31 @@
             "signedByTitle": "Software Engineer",
             "signedAt": "2026-05-27T17:39:50.629Z"
         }
+    },
+    {
+        "id": "e95f2961-e6c9-45de-ac01-eb6a68da3589",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bytedance Inc.",
+            "address": "5800 Bristol Pkwy Culver City, CA 90230",
+            "url": "https://www.bytedance.com/en/",
+            "gitHubOrganization": "bytedance",
+            "contact1": {
+                "name": "Peng Zhou",
+                "email": "zhoupeng.1996@bytedance.com",
+                "gitHubID": "zp1996"
+            },
+            "contact2": {
+                "name": "Canrong Lan",
+                "email": "lancanrong@bytedance.com",
+                "gitHubID": "Chanran"
+            }
+        },
+        "signature": {
+            "signedBy": "Zhenhua Sun ",
+            "signedByTitle": "Senior IP Legal",
+            "signedAt": "2026-06-11T11:59:22.046Z"
+        }
     }
 ]
