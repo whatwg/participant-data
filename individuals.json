@@ -1721,7 +1721,7 @@
     },
     {
         "id": "b141e6df-e973-41ad-8d11-a719c78a79c5",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Chris Morgan",
