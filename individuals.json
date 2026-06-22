@@ -5000,7 +5000,7 @@
     },
     {
         "id": "d86227da-80ac-4ac4-b8c9-b939daeace1a",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Stas Movshuk",
