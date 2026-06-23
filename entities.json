@@ -91,12 +91,23 @@
         "id": "9dd17017-cdfe-42eb-b97a-331e23a2390d",
         "verified": true,
         "workstreams": [
+            "compat",
+            "console",
             "dom",
+            "encoding",
             "fetch",
             "fullscreen",
             "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "quirks",
             "storage",
-            "streams"
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
         ],
         "info": {
             "name": "Microsoft Corporation",
@@ -104,14 +115,14 @@
             "url": "https://www.microsoft.com/",
             "gitHubOrganization": "MicrosoftWHATWGContributors",
             "contact1": {
-                "name": "Diego González",
-                "email": "luigonza@microsoft.com",
-                "gitHubID": "diekus"
+                "name": "Leo Lee",
+                "email": "leo.lee@microsoft.com",
+                "gitHubID": "leotlee"
             },
             "contact2": {
-                "name": "Andrew Nolan",
-                "email": "annolan@microsoft.com",
-                "gitHubID": "anolan4"
+                "name": "Michael Jackson",
+                "email": "mjackson@microsoft.com",
+                "gitHubID": "mwjacksonmsft"
             }
         },
         "signature": {
@@ -2026,6 +2037,62 @@
             "signedBy": "林冠成",
             "signedByTitle": " Agreement o",
             "signedAt": "2026-03-17T07:17:19.303Z"
+        }
+    },
+    {
+        "id": "32dc59d5-528a-4a0c-a362-f4f9225f9c84",
+        "verified": false,
+        "workstreams": [
+            "fetch",
+            "html",
+            "webidl"
+        ],
+        "info": {
+            "name": "Vercel",
+            "address": "440 N Barranca Ave #4133, Covina, CA 91723",
+            "url": "https://vercel.com/",
+            "gitHubOrganization": "vercel-standards-whatwg",
+            "contact1": {
+                "name": "Steven Salat",
+                "email": "steven@vercel.com",
+                "gitHubID": "styfle"
+            },
+            "contact2": {
+                "name": "Malte Ubl",
+                "email": "malte@vercel.com",
+                "gitHubID": "cramforce"
+            }
+        },
+        "signature": {
+            "signedBy": "Steven Salat",
+            "signedByTitle": "Software Engineer",
+            "signedAt": "2026-05-27T17:39:50.629Z"
+        }
+    },
+    {
+        "id": "e95f2961-e6c9-45de-ac01-eb6a68da3589",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Bytedance Inc.",
+            "address": "5800 Bristol Pkwy Culver City, CA 90230",
+            "url": "https://www.bytedance.com/en/",
+            "gitHubOrganization": "bytedance",
+            "contact1": {
+                "name": "Peng Zhou",
+                "email": "zhoupeng.1996@bytedance.com",
+                "gitHubID": "zp1996"
+            },
+            "contact2": {
+                "name": "Canrong Lan",
+                "email": "lancanrong@bytedance.com",
+                "gitHubID": "Chanran"
+            }
+        },
+        "signature": {
+            "signedBy": "Zhenhua Sun ",
+            "signedByTitle": "Senior IP Legal",
+            "signedAt": "2026-06-11T11:59:22.046Z"
         }
     }
 ]

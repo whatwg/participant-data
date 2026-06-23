@@ -1721,7 +1721,7 @@
     },
     {
         "id": "b141e6df-e973-41ad-8d11-a719c78a79c5",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Chris Morgan",
@@ -5000,10 +5000,10 @@
     },
     {
         "id": "d86227da-80ac-4ac4-b8c9-b939daeace1a",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
-            "name": "Stas",
+            "name": "Stas Movshuk",
             "gitHubID": "stasoid"
         },
         "signature": {
@@ -6145,7 +6145,7 @@
     },
     {
         "id": "7f8ab629-0a05-40d9-b6a9-3ff76095c450",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Devansh Joshi",
