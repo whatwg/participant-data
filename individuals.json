@@ -6178,5 +6178,19 @@
         "signature": {
             "signedAt": "2026-05-25T05:16:19.412Z"
         }
+    },
+    {
+        "id": "33db2f83-cac2-4187-a5cb-546ed2b4881e",
+        "verified": false,
+        "workstreams": [
+            "html"
+        ],
+        "info": {
+            "name": "Johannes Odland",
+            "gitHubID": "johannesodland"
+        },
+        "signature": {
+            "signedAt": "2026-06-27T10:31:54.951Z"
+        }
     }
 ]
