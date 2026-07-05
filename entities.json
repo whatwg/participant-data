@@ -2094,5 +2094,26 @@
             "signedByTitle": "Senior IP Legal",
             "signedAt": "2026-06-11T11:59:22.046Z"
         }
+    },
+    {
+        "id": "e648412c-688f-41f5-95a3-ee67b0c6e23b",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Vora Association",
+            "address": "Shwe Ni Si Street",
+            "url": "https://vora-association.vercel.app/",
+            "gitHubOrganization": "Vora-Association-HQ-Working",
+            "contact1": {
+                "name": "Tano Leo",
+                "email": "thwin@temp.ly",
+                "gitHubID": "vora-association"
+            }
+        },
+        "signature": {
+            "signedBy": "Thwin Thit Htoo",
+            "signedByTitle": "Founder",
+            "signedAt": "2026-07-05T08:31:57.418Z"
+        }
     }
 ]
