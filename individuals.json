@@ -6192,5 +6192,17 @@
         "signature": {
             "signedAt": "2026-06-27T10:31:54.951Z"
         }
+    },
+    {
+        "id": "1c84e65c-7fcd-410e-b8ab-cd4d55d68b42",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Florex",
+            "gitHubID": "florexdev"
+        },
+        "signature": {
+            "signedAt": "2026-07-08T01:35:28.648Z"
+        }
     }
 ]
