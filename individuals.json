@@ -6204,5 +6204,17 @@
         "signature": {
             "signedAt": "2026-07-08T01:35:28.648Z"
         }
+    },
+    {
+        "id": "bdc7d04a-9dca-45a4-8c8e-d3c5d06fc8b4",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Luca Casonato",
+            "gitHubID": "lucacasonato"
+        },
+        "signature": {
+            "signedAt": "2026-07-14T14:26:49.854Z"
+        }
     }
 ]
