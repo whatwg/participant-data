@@ -6207,7 +6207,7 @@
     },
     {
         "id": "bdc7d04a-9dca-45a4-8c8e-d3c5d06fc8b4",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Luca Casonato",
