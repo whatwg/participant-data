@@ -6228,5 +6228,17 @@
         "signature": {
             "signedAt": "2026-07-15T09:51:07.976Z"
         }
+    },
+    {
+        "id": "cce22358-0784-478f-a42f-287e68b44bb1",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Uwe Imre Serdült",
+            "gitHubID": "serdult"
+        },
+        "signature": {
+            "signedAt": "2026-07-23T09:21:05.100Z"
+        }
     }
 ]
