@@ -6240,5 +6240,17 @@
         "signature": {
             "signedAt": "2026-07-23T09:21:05.100Z"
         }
+    },
+    {
+        "id": "40fab809-bce0-4ce3-9ec9-a72671d78b98",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Hashim Khan",
+            "gitHubID": "Hashim1999164"
+        },
+        "signature": {
+            "signedAt": "2026-07-28T17:02:14.486Z"
+        }
     }
 ]
