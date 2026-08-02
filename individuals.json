@@ -6252,5 +6252,18 @@
         "signature": {
             "signedAt": "2026-07-28T17:02:14.486Z"
         }
+    },
+    {
+        "id": "af4afef6-498c-46b7-9dc6-c40f348b6086",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Rebecca Stemmler",
+            "gitHubID": "Rebecky"
+        },
+        "signature": {
+            "signedAt": "2026-08-02T10:54:31.289Z"
+        },
+        "invited": true
     }
 ]
