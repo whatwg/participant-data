@@ -6265,5 +6265,18 @@
             "signedAt": "2026-08-02T10:54:31.289Z"
         },
         "invited": true
+    },
+    {
+        "id": "1add5585-34e0-4ec6-9496-2238d3cb7e51",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Rebecca Stemmler",
+            "gitHubID": "btvtv4u-maker"
+        },
+        "signature": {
+            "signedAt": "2026-08-02T10:56:29.614Z"
+        },
+        "invited": true
     }
 ]
