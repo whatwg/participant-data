@@ -6278,5 +6278,17 @@
             "signedAt": "2026-08-02T10:56:29.614Z"
         },
         "invited": true
+    },
+    {
+        "id": "6471cc6e-9266-4f2a-a8f9-3aff85d6b958",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Michael Reeves",
+            "gitHubID": "IntegralPilot"
+        },
+        "signature": {
+            "signedAt": "2026-08-08T11:18:17.856Z"
+        }
     }
 ]
