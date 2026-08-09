@@ -6302,5 +6302,17 @@
         "signature": {
             "signedAt": "2026-08-09T01:20:30.918Z"
         }
+    },
+    {
+        "id": "0db11d55-2c83-4894-b7ee-1014c473ad2c",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kwanhee Kim (as parent and guardian of Minseong Kim)",
+            "gitHubID": "minirang"
+        },
+        "signature": {
+            "signedAt": "2026-08-09T02:17:44.463Z"
+        }
     }
 ]
