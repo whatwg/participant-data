@@ -6290,5 +6290,17 @@
         "signature": {
             "signedAt": "2026-08-08T11:18:17.856Z"
         }
+    },
+    {
+        "id": "2e2086fe-2039-4700-b5f7-48a1546b2f65",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Anthony S. Lazara",
+            "gitHubID": "x86-64-v3"
+        },
+        "signature": {
+            "signedAt": "2026-08-09T01:20:30.918Z"
+        }
     }
 ]
