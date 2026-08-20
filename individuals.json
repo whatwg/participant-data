@@ -6314,5 +6314,17 @@
         "signature": {
             "signedAt": "2026-08-09T02:17:44.463Z"
         }
+    },
+    {
+        "id": "5b0afd7e-41f2-46e8-bf0e-909773c90b4a",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Irvan Farael Hanafi",
+            "gitHubID": "Eliasilyz"
+        },
+        "signature": {
+            "signedAt": "2026-08-20T09:02:54.012Z"
+        }
     }
 ]
