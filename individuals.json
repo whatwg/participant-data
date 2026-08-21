@@ -6243,7 +6243,7 @@
     },
     {
         "id": "40fab809-bce0-4ce3-9ec9-a72671d78b98",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Hashim Khan",
