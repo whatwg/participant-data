@@ -6326,5 +6326,17 @@
         "signature": {
             "signedAt": "2026-08-20T09:02:54.012Z"
         }
+    },
+    {
+        "id": "bb4f1943-6f91-496f-9306-4a2526b2923d",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kenta Moriuchi",
+            "gitHubID": "petamoriken"
+        },
+        "signature": {
+            "signedAt": "2026-08-25T20:08:32.949Z"
+        }
     }
 ]
