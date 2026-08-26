@@ -6338,5 +6338,17 @@
         "signature": {
             "signedAt": "2026-08-25T20:08:32.949Z"
         }
+    },
+    {
+        "id": "95f9ecd4-a113-4a7e-ae46-c9b652a6f257",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Chris McGimpsey-Jones",
+            "gitHubID": "fpucore"
+        },
+        "signature": {
+            "signedAt": "2026-08-26T08:01:07.215Z"
+        }
     }
 ]
