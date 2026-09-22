@@ -6338,5 +6338,17 @@
         "signature": {
             "signedAt": "2026-08-26T08:01:07.215Z"
         }
+    },
+    {
+        "id": "b59e87fd-f9b5-489b-80be-419f05fd7301",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Amir hamja",
+            "gitHubID": "volt-rix"
+        },
+        "signature": {
+            "signedAt": "2026-09-22T14:47:03.232Z"
+        }
     }
 ]
