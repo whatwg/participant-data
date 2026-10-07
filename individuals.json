@@ -6350,5 +6350,36 @@
         "signature": {
             "signedAt": "2026-09-22T14:47:03.232Z"
         }
+    },
+    {
+        "id": "17d00408-abe2-4a90-8a73-685b86cfc5fe",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "encoding",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "peripherals",
+            "quirks",
+            "storage",
+            "streams",
+            "testutils",
+            "url",
+            "webidl",
+            "xhr"
+        ],
+        "info": {
+            "name": "Joshua Hall",
+            "gitHubID": "jbhihall-droid"
+        },
+        "signature": {
+            "signedAt": "2026-10-07T23:47:19.221Z"
+        }
     }
 ]
