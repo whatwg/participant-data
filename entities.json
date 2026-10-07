@@ -27,14 +27,14 @@
             "url": "https://www.google.com/",
             "gitHubOrganization": "googlers",
             "contact1": {
-                "name": "Domenic Denicola",
-                "email": "domenic@google.com",
-                "gitHubID": "domenic"
+                "name": "Jeffrey Yasskin",
+                "email": "jyasskin@google.com",
+                "gitHubID": "jyasskin"
             },
             "contact2": {
-                "name": "Chris Wilson",
-                "email": "cwilso@google.com",
-                "gitHubID": "cwilso"
+                "name": "Johnny Stenback",
+                "email": "jstenback@google.com",
+                "gitHubID": "jstenback"
             }
         },
         "signature": {
