@@ -6381,5 +6381,17 @@
         "signature": {
             "signedAt": "2026-10-07T23:47:19.221Z"
         }
+    },
+    {
+        "id": "c0f00f82-788f-453f-9037-f6779ef81189",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Kevin Gibbons",
+            "gitHubID": "bakkot"
+        },
+        "signature": {
+            "signedAt": "2026-10-10T16:44:13.437Z"
+        }
     }
 ]
