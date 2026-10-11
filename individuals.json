@@ -6393,5 +6393,17 @@
         "signature": {
             "signedAt": "2026-10-10T16:44:13.437Z"
         }
+    },
+    {
+        "id": "b7c4fd12-e331-4d7a-9a4f-1f4e9f975574",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sonia Godwin Pepple",
+            "gitHubID": "pepplesoniaa-sudo"
+        },
+        "signature": {
+            "signedAt": "2026-10-11T20:02:27.059Z"
+        }
     }
 ]
