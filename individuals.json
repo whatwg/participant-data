@@ -6405,5 +6405,19 @@
         "signature": {
             "signedAt": "2026-10-11T20:02:27.059Z"
         }
+    },
+    {
+        "id": "6040ff07-393c-41ff-bb49-42e568b5eb7f",
+        "verified": false,
+        "workstreams": [
+            "fullscreen"
+        ],
+        "info": {
+            "name": "Sun Shin",
+            "gitHubID": "xingri"
+        },
+        "signature": {
+            "signedAt": "2026-10-13T08:42:59.311Z"
+        }
     }
 ]
