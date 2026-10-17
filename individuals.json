@@ -6341,11 +6341,11 @@
     },
     {
         "id": "b59e87fd-f9b5-489b-80be-419f05fd7301",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "Amir hamja",
-            "gitHubID": "volt-rix"
+            "gitHubID": "Volt-rix"
         },
         "signature": {
             "signedAt": "2026-09-22T14:47:03.232Z"
