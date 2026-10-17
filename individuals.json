@@ -6450,5 +6450,17 @@
         "signature": {
             "signedAt": "2026-10-14T11:00:27.333Z"
         }
+    },
+    {
+        "id": "75ece307-668d-4c7b-94bf-9484420102cc",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Sho Katsumata",
+            "gitHubID": "Sho0226"
+        },
+        "signature": {
+            "signedAt": "2026-10-17T11:32:49.068Z"
+        }
     }
 ]
