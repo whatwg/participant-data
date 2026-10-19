@@ -58,6 +58,7 @@
             "infra",
             "mimesniff",
             "notifications",
+            "peripherals",
             "quirks",
             "storage",
             "streams",
@@ -68,7 +69,7 @@
         ],
         "info": {
             "name": "Mozilla Corporation",
-            "address": "2 Harrison Street, Suite 175, San Francisco, CA 94105, USA",
+            "address": "1875 Mission Street, Suite 103, San Francisco, CA 94103, USA",
             "url": "https://www.mozilla.org/",
             "gitHubOrganization": "mozilla-standards",
             "contact1": {
