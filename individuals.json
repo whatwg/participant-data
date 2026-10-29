@@ -6462,5 +6462,17 @@
         "signature": {
             "signedAt": "2026-10-17T11:32:49.068Z"
         }
+    },
+    {
+        "id": "b4249bc4-2394-46d7-977e-5f725739f5ba",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "François Martin",
+            "gitHubID": "martinfrancois"
+        },
+        "signature": {
+            "signedAt": "2026-10-29T16:56:14.343Z"
+        }
     }
 ]
