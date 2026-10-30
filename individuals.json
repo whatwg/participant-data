@@ -6465,7 +6465,7 @@
     },
     {
         "id": "b4249bc4-2394-46d7-977e-5f725739f5ba",
-        "verified": false,
+        "verified": true,
         "workstreams": "all",
         "info": {
             "name": "François Martin",
