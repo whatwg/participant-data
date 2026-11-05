@@ -6474,5 +6474,17 @@
         "signature": {
             "signedAt": "2026-10-29T16:56:14.343Z"
         }
+    },
+    {
+        "id": "b013166d-a31d-4517-b767-b48636793aba",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Ayu Goto",
+            "gitHubID": "sweetFish8"
+        },
+        "signature": {
+            "signedAt": "2026-11-05T08:41:32.240Z"
+        }
     }
 ]
