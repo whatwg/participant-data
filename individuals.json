@@ -6486,5 +6486,17 @@
         "signature": {
             "signedAt": "2026-11-05T08:41:32.240Z"
         }
+    },
+    {
+        "id": "a88d52eb-06db-42ff-80a7-cf19a719eb94",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "David Tyas",
+            "gitHubID": "David-Tyas"
+        },
+        "signature": {
+            "signedAt": "2026-11-10T16:10:47.314Z"
+        }
     }
 ]
