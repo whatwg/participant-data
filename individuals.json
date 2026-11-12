@@ -6476,18 +6476,6 @@
         }
     },
     {
-        "id": "b013166d-a31d-4517-b767-b48636793aba",
-        "verified": false,
-        "workstreams": "all",
-        "info": {
-            "name": "Ayu Goto",
-            "gitHubID": "sweetFish8"
-        },
-        "signature": {
-            "signedAt": "2026-11-05T08:41:32.240Z"
-        }
-    },
-    {
         "id": "a88d52eb-06db-42ff-80a7-cf19a719eb94",
         "verified": false,
         "workstreams": "all",
