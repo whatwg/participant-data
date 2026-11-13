@@ -6498,5 +6498,17 @@
         "signature": {
             "signedAt": "2026-11-13T02:30:59.967Z"
         }
+    },
+    {
+        "id": "e7d1368f-2b2a-4772-9439-8e5032a7ccea",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Peter Lafreniere",
+            "gitHubID": "n8pjl"
+        },
+        "signature": {
+            "signedAt": "2026-11-13T20:59:00.573Z"
+        }
     }
 ]
