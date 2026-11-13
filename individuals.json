@@ -6486,5 +6486,17 @@
         "signature": {
             "signedAt": "2026-11-10T16:10:47.314Z"
         }
+    },
+    {
+        "id": "c1690794-14d7-417a-8170-99d023b41660",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Jesus Quintana",
+            "gitHubID": "kinti"
+        },
+        "signature": {
+            "signedAt": "2026-11-13T02:30:59.967Z"
+        }
     }
 ]
